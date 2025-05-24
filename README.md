@@ -6,7 +6,7 @@
 <!--Introduction-->
 <div align="center">
 <h1>
-<img src="https://readme-typing-svg.herokuapp.com?font=Righteous&weight=400&size=32&pause=1000&color=667eea&center=true&vCenter=true&multiline=true&width=700&height=100&lines=✨+Turning+Vision+into+Reality;🚀+Building+Tomorrow's+Solutions;💡+Innovation+Through+Strategy" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&weight=400&size=32&pause=1000&color=667eea&center=true&vCenter=true&multiline=true&width=700&height=100&lines=✨+Turning+Vision+into+Reality;🚀+Building+Tomorrow's+Solutions;💡+Innovation+Through+Strategy" alt="Typing SVG" />
 </h1>
   
   <table>
