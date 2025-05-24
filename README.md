@@ -28,7 +28,10 @@
 <br>
 
 <!--Tech Stack-->
+<h4>📋 IT Planning & Strategy</h4>
+<img src="https://img.shields.io/badge/Project%20Planning-9932CC..." />
 <div align="center">
+  
   <h4>💻 Programming & Development</h4>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />&nbsp
@@ -240,17 +243,11 @@
   <a href="mailto:developsun04@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
   </a>
-  <a href="https://www.linkedin.com/in/sunwook-lee-07b802367">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>&nbsp
-  </a>
   <a href="https://www.instagram.com/sunwook.dev/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>&nbsp
   </a>
   <a href="https://x.com/Sunwook_dev">
     <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>&nbsp
-  </a>
-  <a href="https://github.com/SUNWOOKLEE04">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>&nbsp
   </a>
 </div>
 
