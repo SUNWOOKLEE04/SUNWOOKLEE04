@@ -269,7 +269,6 @@
 <div align="center">
   <h2>📈 Profile Analytics</h2>
   <img src="https://komarev.com/ghpvc/?username=SUNWOOKLEE04&style=for-the-badge&color=blueviolet&label=PROFILE+VIEWS" />
-  <img src="https://img.shields.io/github/followers/SUNWOOKLEE04?style=for-the-badge&color=blue&label=FOLLOWERS" />
 </div>
 
 <div align="center">
