@@ -28,21 +28,6 @@
 <br>
 
 <!--Tech Stack-->
-<h2 align="center">
-  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">
-  IT Planning & Development Arsenal
-  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">
-</h2>
-
-<div align="center">
-  <h4>📋 IT Planning & Strategy</h4>
-  <img src="https://img.shields.io/badge/Project%20Planning-9932CC?style=for-the-badge&logo=notion&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/System%20Design-4169E1?style=for-the-badge&logo=diagramsdotnet&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/Requirements%20Analysis-32CD32?style=for-the-badge&logo=microsoftword&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/Technical%20Documentation-FF4500?style=for-the-badge&logo=markdown&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/Educational%20Strategy-6BCF7F?style=for-the-badge&logo=academia&logoColor=white" />&nbsp
-</div>
-
 <div align="center">
   <h4>💻 Programming & Development</h4>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />&nbsp
@@ -54,12 +39,18 @@
 </div>
 
 <div align="center">
-  <h4>☁️ Infrastructure & Tools</h4>
+  <h4>🔧 Development Tools</h4>
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" />&nbsp
 </div>
+
+<div align="center">
+  <h4>📋 Collaboration & Documentation</h4>
+  <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" />&nbsp
+</div>
+
 
 <br>
 
@@ -106,39 +97,35 @@
   <details>
     <summary><h3>📋 Complete Professional Journey</h3></summary>
     <br>
-    <div align="left">
     
-**🏆 2021 - Foundation & Competitive Excellence**
+## 🏆 2021 - Foundation & Competitive Excellence
 
 | Achievement | Details |
 |:---:|:---|
-| <img src="https://img.shields.io/badge/🏆_Busan_AI_Competition-Future%20Education%20Director's%20Award-FF6B6B?style=for-the-badge" /> | **부산 AI 경진대회 - 미래교육원장상 입상**<br>• Role: Technical Strategy & AI Implementation Planning<br>• Achievement: Strategic approach to AI problem-solving<br>• Impact: Bridging technical and business requirements<br>• Skills: Strategic Planning, AI Architecture Design |
-| <img src="https://img.shields.io/badge/🎨_6th_ICT_Convergence_Hackathon-Design%20Excellence%20Award-4ECDC4?style=for-the-badge" /> | **제6회 ICT 융합 해커톤 - 디자인상 입상**<br>• Role: UX Strategy & Technical Planning<br>• Innovation: User-centered design strategy<br>• Leadership: Cross-functional team coordination<br>• Skills: Design Strategy, Team Leadership |
-| <img src="https://img.shields.io/badge/⚽_Sports_Data_Competition-Prize%20Winner-45B7D1?style=for-the-badge" /> | **체육종합 데이터 활용 경진대회 - 입상**<br>• Role: Data Strategy & Analytics Planning<br>• Approach: Strategic data architecture design<br>• Output: Comprehensive analytics roadmap<br>• Skills: Data Strategy, Business Intelligence Planning |
-| <img src="https://img.shields.io/badge/📊_PNU_Datathon-Participant-96CEB4?style=for-the-badge" /> | **PNU 데이터톤**<br>• Event: University-level data science competition<br>• Experience: Collaborative team project execution<br>• Learning: Real-world data science applications<br>• Skills: Data Mining, Team Collaboration |
+| ![Busan AI](https://img.shields.io/badge/🏆_Busan_AI_Competition-Future%20Education%20Director's%20Award-FF6B6B?style=for-the-badge) | **부산 AI 경진대회 - 미래교육원장상 입상**<br>• Role: Technical Strategy & AI Implementation Planning<br>• Achievement: Strategic approach to AI problem-solving<br>• Impact: Bridging technical and business requirements |
+| ![ICT Hackathon](https://img.shields.io/badge/🎨_6th_ICT_Hackathon-Design%20Excellence%20Award-4ECDC4?style=for-the-badge) | **제6회 ICT 융합 해커톤 - 디자인상 입상**<br>• Role: UX Strategy & Technical Planning<br>• Innovation: User-centered design strategy<br>• Leadership: Cross-functional team coordination |
+| ![Sports Data](https://img.shields.io/badge/⚽_Sports_Data_Competition-Prize%20Winner-45B7D1?style=for-the-badge) | **체육종합 데이터 활용 경진대회 - 입상**<br>• Role: Data Strategy & Analytics Planning<br>• Approach: Strategic data architecture design<br>• Output: Comprehensive analytics roadmap |
+| ![PNU Datathon](https://img.shields.io/badge/📊_PNU_Datathon-Participant-96CEB4?style=for-the-badge) | **PNU 데이터톤 - 참여**<br>• Event: University-level data science competition<br>• Experience: Collaborative team project execution<br>• Learning: Real-world data science applications |
 
-<br>
-
-**🚀 2024 - Strategic Growth & Professional Development**
+## 🚀 2024 - Strategic Growth & Professional Development
 
 | Achievement | Details |
 |:---:|:---|
-| <img src="https://img.shields.io/badge/🏢_CAHLP_Company-Professional%20Activity-FF9FF3?style=for-the-badge" /> | **CAHLP Company - 활동**<br>• Role: IT Strategy Development & Implementation<br>• Responsibility: Technology roadmap planning<br>• Achievement: Enhanced organizational IT capabilities<br>• Skills: Strategic Planning, Technology Assessment |
-| <img src="https://img.shields.io/badge/💻_K--ICT_Week_Busan-Exhibition%20Booth%20Operation-6C5CE7?style=for-the-badge" /> | **K-ICT Week in Busan / IT EXPO - 부스 운영**<br>• Role: Technology strategy presentation & networking<br>• Activity: Technology trend presentation<br>• Impact: Networking and technology promotion<br>• Skills: Public Speaking, Tech Evangelism |
-| <img src="https://img.shields.io/badge/🎓_DSAC_M2/M3-Certificate%20Completion-A8E6CF?style=for-the-badge" /> | **DSAC M2/M3 - 수료**<br>• Focus: Advanced data science methodologies<br>• Learning: Cutting-edge analysis techniques<br>• Project: Real-world practical applications<br>• Skills: Advanced Analytics, Research Methods |
-| <img src="https://img.shields.io/badge/🤖_D--COSS-AI%20Capacity%20Building%20Completion-FFD93D?style=for-the-badge" /> | **D-COSS 인공지능 활용 역량강화 - 수료**<br>• Program: AI application skill enhancement<br>• Technology: Latest AI technology mastery<br>• Application: Practical implementation capabilities<br>• Skills: AI Development, Innovation Thinking |
+| ![CAHLP](https://img.shields.io/badge/🏢_CAHLP_Company-Professional%20Activity-FF9FF3?style=for-the-badge) | **CAHLP Company - 활동**<br>• Role: IT Strategy Development & Implementation<br>• Responsibility: Technology roadmap planning<br>• Achievement: Enhanced organizational IT capabilities |
+| ![CEBU](https://img.shields.io/badge/🌏_CEBU_LCIC-International%20Experience-F9CA24?style=for-the-badge) | **CEBU LCIC University - International Experience**<br>• Duration: July 2024 ~ August 2024<br>• Focus: Global IT trends & cross-cultural communication<br>• Growth: International IT market understanding |
+| ![K-ICT Week](https://img.shields.io/badge/💻_K--ICT_Week_Busan-Exhibition%20Booth%20Operation-6C5CE7?style=for-the-badge) | **K-ICT Week in Busan / IT EXPO - 부스 운영**<br>• Role: Technology strategy presentation & networking<br>• Activity: Technology trend presentation<br>• Impact: Networking and technology promotion |
+| ![DSAC](https://img.shields.io/badge/🎓_DSAC_M2/M3-Certificate%20Completion-A8E6CF?style=for-the-badge) | **DSAC M2/M3 - 수료**<br>• Focus: Advanced data science methodologies<br>• Learning: Cutting-edge analysis techniques<br>• Project: Real-world practical applications |
+| ![D-COSS](https://img.shields.io/badge/🤖_D--COSS-AI%20Capacity%20Building%20Completion-FFD93D?style=for-the-badge) | **D-COSS 인공지능 활용 역량강화 - 수료**<br>• Program: AI application skill enhancement<br>• Technology: Latest AI technology mastery<br>• Application: Practical implementation capabilities |
 
-<br>
-
-**👨‍🏫 2025 - Leadership & Knowledge Transfer**
+## 👨‍🏫 2025 - Leadership & Knowledge Transfer
 
 | Achievement | Details |
 |:---:|:---|
-| <img src="https://img.shields.io/badge/🤖_Robotics&Coding_Club-Coding%20Instructor-6BCF7F?style=for-the-badge" /> | **로봇&코딩 클럽 - 코딩 교사 재직 (2025~)**<br>• Position: Currently serving as Coding Instructor<br>• Mission: Youth coding education and mentorship<br>• Specialty: Robotics programming instruction<br>• Impact: Nurturing next-generation tech talent<br>• Skills: Education, Mentoring, Curriculum Development |
+| ![Robotics Club](https://img.shields.io/badge/🤖_Robotics&Coding_Club-Coding%20Instructor-6BCF7F?style=for-the-badge) | **로봇&코딩 클럽 - 코딩 교사 재직 (2025~)**<br>• Position: Currently serving as Coding Instructor<br>• Mission: Youth coding education and mentorship<br>• Specialty: Robotics programming instruction<br>• Impact: Nurturing next-generation tech talent |
 
-  </div>
   </details>
 </div>
+
 
 <br>
 
