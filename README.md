@@ -1,50 +1,35 @@
 <!--Header Section-->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,25:764ba2,50:f093fb,75:ff9a9e,100:a8edea&height=350&section=header&text=Sunwook%20Lee%20📋&fontSize=80&fontColor=ffffff&animation=twinkling&fontAlignY=40&stroke=667eea&strokeWidth=2&fontFamily=Righteous&desc=✨%20Innovation%20Through%20Strategy%20✨&descSize=22&descAlignY=65&descAlign=50" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D4FF,50:090979,100:020024&height=320&section=header&text=Sunwook%20Lee%20📋&fontSize=75&fontColor=ffffff&animation=twinkling&fontAlignY=40&stroke=ffffff&strokeWidth=1" />
 </div>
 
 <!--Introduction-->
 <div align="center">
   <h1>
-    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=28&pause=1000&color=667eea&center=true&vCenter=true&multiline=true&width=800&height=120&lines=🚀+IT+Strategic+Planner+%26+Developer;💡+Turning+Vision+into+Reality;⚡+Building+Tomorrow's+Solutions;🌟+Innovation+Through+Code" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Comfortaa&weight=700&size=34&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=800&height=100&lines=IT+Strategic+Planner+%26+Developer;Turning+Vision+into+Reality" alt="Typing SVG" />
   </h1>
   
-  <!--Role Badges with Gradient Style-->
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://img.shields.io/badge/📋_IT_Strategy_Planner-00D4FF?style=for-the-badge&logoColor=white&labelColor=090979" />
+        <img src="https://img.shields.io/badge/🤖_AI_Developer-090979?style=for-the-badge&logoColor=white&labelColor=020024" />
+        <img src="https://img.shields.io/badge/📚_Tech_Educator-020024?style=for-the-badge&logoColor=white&labelColor=00D4FF" />
+        <img src="https://img.shields.io/badge/🎓_University_Student-00D9FF?style=for-the-badge&logoColor=090979&labelColor=00D4FF" />
+      </td>
+    </tr>
+  </table>
+  
   <div align="center">
-    <table>
-      <tr>
-        <td align="center">
-          <img src="https://custom-icon-badges.demolab.com/badge/📋%20IT%20Strategy-Planner-667eea?style=for-the-badge&logoColor=white&labelColor=764ba2" />
-          <img src="https://custom-icon-badges.demolab.com/badge/🤖%20AI-Developer-764ba2?style=for-the-badge&logoColor=white&labelColor=f093fb" />
-        </td>
-      </tr>
-      <tr>
-        <td align="center">
-          <img src="https://custom-icon-badges.demolab.com/badge/📚%20Tech-Educator-f093fb?style=for-the-badge&logoColor=white&labelColor=ff9a9e" />
-          <img src="https://custom-icon-badges.demolab.com/badge/🎓%20University-Student-a8edea?style=for-the-badge&logoColor=667eea&labelColor=667eea" />
-        </td>
-      </tr>
-    </table>
+    <img src="https://img.shields.io/badge/📍_Location-South%20Korea-00D4FF?style=for-the-badge&logo=google-maps&logoColor=white&labelColor=090979" />&nbsp
+    <img src="https://img.shields.io/badge/🎯_Focus-IT%20Strategy%20%26%20AI-090979?style=for-the-badge&logo=target&logoColor=white&labelColor=020024" />&nbsp
+    <img src="https://img.shields.io/badge/🤝_Status-Open%20to%20Collaboration-020024?style=for-the-badge&logo=handshake&logoColor=white&labelColor=00D4FF" />
   </div>
-  
-  <br>
-  
-  <!--Status Badges with Icons-->
-  <div align="center">
-    <img src="https://img.shields.io/badge/📍%20Based%20in-South%20Korea-667eea?style=for-the-badge&logo=google-maps&logoColor=white&labelColor=764ba2" />
-    <img src="https://img.shields.io/badge/🎯%20Focused%20on-IT%20Strategy%20&%20AI-764ba2?style=for-the-badge&logo=target&logoColor=white&labelColor=f093fb" />
-    <img src="https://img.shields.io/badge/🤝%20Open%20to-Collaboration-f093fb?style=for-the-badge&logo=handshake&logoColor=white&labelColor=ff9a9e" />
-    <img src="https://img.shields.io/badge/⚡%20Available%20for-Projects-a8edea?style=for-the-badge&logo=lightning&logoColor=667eea&labelColor=667eea" />
-  </div>
-  
-  <br>
-  
-  <!--Animated Divider-->
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="90%" />
-  
-  <br>
+</div>
 
-<!--GitHub Stats-->
+<br>
+
+<!--GitHub Stats (중복 제거된 버전)-->
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=SUNWOOKLEE04&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=SUNWOOKLEE04&theme=tokyonight&hide_border=true" />
@@ -52,14 +37,6 @@
 
 <br>
 
-
-<!--GitHub Stats-->
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SUNWOOKLEE04&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SUNWOOKLEE04&theme=tokyonight&hide_border=true" />
-</div>
-
-<br>
 
 <!--Tech Stack-->
 <h2 align="center">
