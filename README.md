@@ -200,10 +200,11 @@
   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35">
 </h2>
 <div align="center">
-  <img src="https://img.shields.io/badge/CCNP%20Study-0052CC?style=for-the-badge&logo=cisco&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/Enterprise%20Architecture-4169E1?style=for-the-badge&logo=archlinux&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/Advanced%20Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/AI%20Integration-00D9FF?style=for-the-badge&logo=openai&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/IT%20Strategic%20Planning-9932CC?style=for-the-badge&logo=strategy&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/AI%20Fine%20Tuning-00D9FF?style=for-the-badge&logo=openai&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/Business%20Analysis-4169E1?style=for-the-badge&logo=chart-line&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/Model%20Optimization-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/Product%20Planning-32CD32?style=for-the-badge&logo=product-hunt&logoColor=white" />&nbsp
 </div>
 
 <br>
@@ -221,7 +222,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SUNWOOKLEE04&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 </div>
 
-<!--Snake Animation (작동하므로 유지)-->
+<!--Snake Animation-->
 <div align="center">
   <h2>🐍 Contribution Strategy</h2>
   <picture>
