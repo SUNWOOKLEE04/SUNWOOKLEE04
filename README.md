@@ -21,13 +21,11 @@
   <table>
     <tr>
       <td align="center">
-        <strong>📍 South Korea &nbsp;&nbsp;|&nbsp;&nbsp; 🎯 IT Strategy & AI &nbsp;&nbsp;|&nbsp;&nbsp; 🤝 Open to Collaboration</strong>
+        <strong>📍 Location: South Korea &nbsp;&nbsp;|&nbsp;&nbsp; 🎯 Focus: IT Strategy & AI &nbsp;&nbsp;|&nbsp;&nbsp; 🤝 Status: Open to Collaboration</strong>
       </td>
     </tr>
   </table>
 </div>
-
-
 
 <br>
 
