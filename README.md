@@ -213,96 +213,45 @@
 </h2>
 
 <div align="center">
-  <details>
-    <summary><h3>👨‍🏫 Teaching & Mentoring Excellence</h3></summary>
-    <br>
-    <table>
-      <tr>
-        <td align="center" width="350">
-          <img src="https://img.shields.io/badge/🤖_Autonomous_Robot_Project-Student%20Team%20Mentoring-FF6B6B?style=for-the-badge" />
-        </td>
-        <td align="left">
-          <strong>Student Autonomous Robot Development</strong><br>
-          • <strong>Team Size:</strong> 6 middle school students<br>
-          • <strong>Duration:</strong> 12-week intensive program<br>
-          • <strong>Technologies:</strong> Arduino, Python, Sensor Integration<br>
-          • <strong>Achievement:</strong> Successfully built line-following robot with obstacle detection<br>
-          • <strong>Skills Taught:</strong> Programming Logic, Hardware Integration, Problem Solving
-        </td>
-      </tr>
-      <tr>
-        <td align="center">
-          <img src="https://img.shields.io/badge/🎮_Game_Development_Workshop-Creative%20Coding%20Education-4ECDC4?style=for-the-badge" />
-        </td>
-        <td align="left">
-          <strong>Interactive Game Development Program</strong><br>
-          • <strong>Participants:</strong> 8 high school students<br>
-          • <strong>Project Scope:</strong> 2D platformer game creation<br>
-          • <strong>Technologies:</strong> Python, Pygame, Game Design Principles<br>
-          • <strong>Outcome:</strong> 3 completed games with original artwork and mechanics<br>
-          • <strong>Focus Areas:</strong> Creative Problem Solving, Team Collaboration
-        </td>
-      </tr>
-      <tr>
-        <td align="center">
-          <img src="https://img.shields.io/badge/📱_Mobile_App_Challenge-Innovation%20Mentoring-45B7D1?style=for-the-badge" />
-        </td>
-        <td align="left">
-          <strong>Student Mobile App Development Challenge</strong><br>
-          • <strong>Challenge Type:</strong> Social impact app development<br>
-          • <strong>Team Guidance:</strong> 4 teams of 3-4 students each<br>
-          • <strong>Technologies:</strong> Flutter, Firebase, UI/UX Design<br>
-          • <strong>Results:</strong> 2 apps reached prototype stage with user testing<br>
-          • <strong>Learning Focus:</strong> User-Centered Design, Agile Development
-        </td>
-      </tr>
-      <tr>
-        <td align="center">
-          <img src="https://img.shields.io/badge/🧠_AI_Fundamentals_Course-Future%20Tech%20Education-96CEB4?style=for-the-badge" />
-        </td>
-        <td align="left">
-          <strong>AI & Machine Learning Basics for Students</strong><br>
-          • <strong>Course Design:</strong> 8-session structured curriculum<br>
-          • <strong>Student Count:</strong> 15 participants across multiple schools<br>
-          • <strong>Content Focus:</strong> Hands-on ML projects, ethical AI discussions<br>
-          • <strong>Final Projects:</strong> Image recognition and simple chatbot implementations<br>
-          • <strong>Impact:</strong> 60% of students pursued further computer science studies
-        </td>
-      </tr>
-    </table>
-  </details>
+  <a href="https://github.com/SUNWOOKLEE04/AI-education-projects/tree/main/ai-wound-assessment-tool">
+    <img src="https://img.shields.io/badge/🩹%20AI%20Smart%20Bandage%20Solution-Hands--on%20Mentoring%20Project-brightgreen?style=for-the-badge" />
+  </a>
+</div>
 
-  <details>
-    <summary><h3>📚 Educational Resources & Curriculum Development</h3></summary>
+<br>
+
+<div align="center">
+  <details open>
+    <summary>
+      <strong>AI-Powered Smart Bandage Assessment Tool</strong>
+      <br>
+      <a href="https://github.com/SUNWOOKLEE04/AI-education-projects/tree/main/ai-wound-assessment-tool">
+        <code>ai-wound-assessment-tool</code>
+      </a>
+    </summary>
     <br>
-    <table>
-      <tr>
-        <td align="center" width="350">
-          <img src="https://img.shields.io/badge/📖_Programming_Curriculum-Educational%20Strategy%20Design-A8E6CF?style=for-the-badge" />
-        </td>
-        <td align="left">
-          <strong>Comprehensive Programming Curriculum Development</strong><br>
-          • <strong>Scope:</strong> Beginner to intermediate level progression<br>
-          • <strong>Age Groups:</strong> Middle school (12-15) and High school (16-18)<br>
-          • <strong>Methodology:</strong> Project-based learning with real-world applications<br>
-          • <strong>Assessment:</strong> Portfolio-based evaluation system<br>
-          • <strong>Innovation:</strong> Integration of coding with other STEM subjects
-        </td>
-      </tr>
-      <tr>
-        <td align="center">
-          <img src="https://img.shields.io/badge/🛠_Educational_Toolkit-Learning%20Resource%20Creation-FFD93D?style=for-the-badge" />
-        </td>
-        <td align="left">
-          <strong>Interactive Learning Materials Development</strong><br>
-          • <strong>Materials Type:</strong> Step-by-step tutorials, coding challenges<br>
-          • <strong>Format:</strong> Interactive presentations, hands-on worksheets<br>
-          • <strong>Accessibility:</strong> Multiple learning styles accommodation<br>
-          • <strong>Feedback Integration:</strong> Continuous improvement based on student input<br>
-          • <strong>Open Source:</strong> Shared resources for other educators
-        </td>
-      </tr>
-    </table>
+    <ul>
+      <li><b>Period:</b> 2025.04.14 ~ 2025.04.21 (7-day sprint)</li>
+      <li><b>Type:</b> Educational mentoring, 1:1 project</li>
+      <li><b>Key Innovation:</b> QR-coded bandage + AI wound assessment web integration</li>
+      <li><b>Main Stack:</b> Python Flask, HTML/CSS/JS, Google Gemini Vision API, PIL</li>
+      <li>
+        <b>Highlights:</b>
+        <ul>
+          <li>Physical product (bandage) and web solution connected via QR</li>
+          <li>AI-based image analysis and wound care recommendations</li>
+          <li>Mobile & desktop responsive design</li>
+          <li>Full mentoring: planning, dev, and demo in one week</li>
+        </ul>
+      </li>
+      <li><b>Educational Impact:</b> Real-world IT/AI mentoring, hands-on medical innovation experience</li>
+      <li>
+        <b>Repository:</b>
+        <a href="https://github.com/SUNWOOKLEE04/AI-education-projects/tree/main/ai-wound-assessment-tool" target="_blank">
+          https://github.com/SUNWOOKLEE04/AI-education-projects/tree/main/ai-wound-assessment-tool
+        </a>
+      </li>
+    </ul>
   </details>
 </div>
 
