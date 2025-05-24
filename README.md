@@ -26,13 +26,13 @@
   <table>
     <tr>
       <td align="center">
-        <table><tr><td align="center"><strong>📍 South Korea</strong></td></tr></table>
+        <table><tr><td align="center"><strong>📍 Location<br>South Korea</strong></td></tr></table>
       </td>
       <td align="center">
-        <table><tr><td align="center"><strong>🎯 IT Strategy & AI</strong></td></tr></table>
+        <table><tr><td align="center"><strong>🎯 Focus<br>IT Strategy & AI</strong></td></tr></table>
       </td>
       <td align="center">
-        <table><tr><td align="center"><strong>🤝 Open to Collaboration</strong></td></tr></table>
+        <table><tr><td align="center"><strong>🤝 Status<br>Open to Collaboration</strong></td></tr></table>
       </td>
     </tr>
   </table>
