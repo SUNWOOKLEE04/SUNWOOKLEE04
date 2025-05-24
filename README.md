@@ -21,8 +21,8 @@
 
 <!--GitHub Stats-->
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SunwookLee-04&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SunwookLee-04&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SUNWOOKLEE04&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SUNWOOKLEE04&theme=tokyonight&hide_border=true" />
 </div>
 
 <br>
@@ -229,11 +229,11 @@
 </h2>
 
 <div align="center">
-  <a href="https://github.com/SunwookLee-04/it-strategy-framework">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SunwookLee-04&repo=it-strategy-framework&theme=tokyonight&hide_border=true" />
+  <a href="https://github.com/SUNWOOKLEE04/it-strategy-framework">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SUNWOOKLEE04&repo=it-strategy-framework&theme=tokyonight&hide_border=true" />
   </a>
-  <a href="https://github.com/SunwookLee-04/ai-planning-toolkit">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SunwookLee-04&repo=ai-planning-toolkit&theme=tokyonight&hide_border=true" />
+  <a href="https://github.com/SUNWOOKLEE04/ai-planning-toolkit">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SUNWOOKLEE04&repo=ai-planning-toolkit&theme=tokyonight&hide_border=true" />
   </a>
 </div>
 
@@ -242,7 +242,7 @@
 <!--Activity Graph-->
 <div align="center">
   <h2>📊 Strategic Development Activity</h2>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SunwookLee-04&theme=tokyo-night&hide_border=true&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SUNWOOKLEE04&theme=tokyo-night&hide_border=true&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true" />
 </div>
 
 <br>
@@ -255,9 +255,9 @@
 <div align="center">
   <h2>🐍 Contribution Strategy</h2>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SunwookLee-04/SunwookLee-04/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SunwookLee-04/SunwookLee-04/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/SunwookLee-04/SunwookLee-04/output/github-contribution-grid-snake.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SUNWOOKLEE04/SUNWOOKLEE04/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SUNWOOKLEE04/SUNWOOKLEE04/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/SUNWOOKLEE04/SUNWOOKLEE04/output/github-contribution-grid-snake.svg">
   </picture>
 </div>
 
@@ -271,7 +271,7 @@
 </h2>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SunwookLee-04&theme=tokyonight&column=4&margin-w=15&margin-h=15&no-bg=true&no-frame=true" />
+  <img src="https://github-profile-trophy.vercel.app/?username=SUNWOOKLEE04&theme=tokyonight&column=4&margin-w=15&margin-h=15&no-bg=true&no-frame=true" />
 </div>
 
 <br>
@@ -307,9 +307,9 @@
 <!--Fun Stats-->
 <div align="center">
   <h2>📈 Strategic Impact Metrics</h2>
-  <img src="https://komarev.com/ghpvc/?username=SunwookLee-04&style=for-the-badge&color=blueviolet&label=STRATEGIC+VIEWS" />
-  <img src="https://img.shields.io/github/followers/SunwookLee-04?style=for-the-badge&color=blue&label=NETWORK+SIZE" />
-  <img src="https://img.shields.io/github/stars/SunwookLee-04?style=for-the-badge&color=yellow&label=PROJECT+IMPACT" />
+  <img src="https://komarev.com/ghpvc/?username=SUNWOOKLEE04&style=for-the-badge&color=blueviolet&label=STRATEGIC+VIEWS" />
+  <img src="https://img.shields.io/github/followers/SUNWOOKLEE04?style=for-the-badge&color=blue&label=NETWORK+SIZE" />
+  <img src="https://img.shields.io/github/stars/SUNWOOKLEE04?style=for-the-badge&color=yellow&label=PROJECT+IMPACT" />
 </div>
 
 <div align="center">
