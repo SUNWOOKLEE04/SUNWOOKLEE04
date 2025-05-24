@@ -6,7 +6,7 @@
 <!--Introduction-->
 <div align="center">
   <h1>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=700&height=100&lines=🌟+IT+Planner+%26+Strategic+Developer+🌟;Turning+Vision+into+Reality%2C+Strategy+into+Innovation" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=700&height=100&lines=IT+Planner+%26+Developer;Strategic+Innovation" alt="Typing SVG" />
   </h1>
   <p>
     <strong>📋 IT Planner | 🚀 AI Developer | 📚 Educator | 🎓 Student</strong>
