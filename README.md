@@ -13,17 +13,17 @@
   <tr>
     <td align="center">
       <img src="https://img.shields.io/badge/📋_IT_Strategy_Planner-00D4FF?style=for-the-badge&logoColor=ffffff&labelColor=090979" />
-      <img src="https://img.shields.io/badge/🤖_AI_Developer-090979?style=for-the-badge&logoColor=ffffff&labelColor=020024" />
-      <img src="https://img.shields.io/badge/📚_Tech_Educator-020024?style=for-the-badge&logoColor=ffffff&labelColor=00D4FF" />
+      <img src="https://img.shields.io/badge/🤖_AI_Developer-090979?style=for-the-badge&logoColor=ffffff&labelColor=4A90E2" />
+      <img src="https://img.shields.io/badge/📚_Tech_Educator-4A90E2?style=for-the-badge&logoColor=ffffff&labelColor=00D4FF" />
       <img src="https://img.shields.io/badge/🎓_University_Student-00D4FF?style=for-the-badge&logoColor=ffffff&labelColor=090979" />
     </td>
   </tr>
 </table>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/📍_Location-South%20Korea-090979?style=for-the-badge&logo=google-maps&logoColor=ffffff&labelColor=00D4FF" />&nbsp
-  <img src="https://img.shields.io/badge/🎯_Focus-IT%20Strategy%20%26%20AI-020024?style=for-the-badge&logo=target&logoColor=ffffff&labelColor=090979" />&nbsp
-  <img src="https://img.shields.io/badge/🤝_Status-Open%20to%20Collaboration-00D4FF?style=for-the-badge&logo=handshake&logoColor=ffffff&labelColor=020024" />
+  <img src="https://img.shields.io/badge/📍_Location-South%20Korea-00D4FF?style=for-the-badge&logo=google-maps&logoColor=ffffff&labelColor=090979" />&nbsp
+  <img src="https://img.shields.io/badge/🎯_Focus-IT%20Strategy%20%26%20AI-4A90E2?style=for-the-badge&logo=target&logoColor=ffffff&labelColor=090979" />&nbsp
+  <img src="https://img.shields.io/badge/🤝_Status-Open%20to%20Collaboration-090979?style=for-the-badge&logo=handshake&logoColor=ffffff&labelColor=00D4FF" />
 </div>
 
 
