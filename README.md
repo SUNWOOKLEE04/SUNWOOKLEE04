@@ -9,23 +9,23 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Comfortaa&weight=700&size=34&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=800&height=100&lines=💡+IT+Strategic+Planner+%26+Developer;✨+Turning+Vision+into+Reality" alt="Typing SVG" />
   </h1>
   
-  <table>
-    <tr>
-      <td align="center">
-        <img src="https://img.shields.io/badge/📋_IT_Strategy_Planner-00D4FF?style=for-the-badge&logoColor=white&labelColor=090979" />
-        <img src="https://img.shields.io/badge/🤖_AI_Developer-090979?style=for-the-badge&logoColor=white&labelColor=020024" />
-        <img src="https://img.shields.io/badge/📚_Tech_Educator-020024?style=for-the-badge&logoColor=white&labelColor=00D4FF" />
-        <img src="https://img.shields.io/badge/🎓_University_Student-00D9FF?style=for-the-badge&logoColor=090979&labelColor=00D4FF" />
-      </td>
-    </tr>
-  </table>
-  
-  <div align="center">
-    <img src="https://img.shields.io/badge/📍_Location-South%20Korea-00D4FF?style=for-the-badge&logo=google-maps&logoColor=white&labelColor=090979" />&nbsp
-    <img src="https://img.shields.io/badge/🎯_Focus-IT%20Strategy%20%26%20AI-090979?style=for-the-badge&logo=target&logoColor=white&labelColor=020024" />&nbsp
-    <img src="https://img.shields.io/badge/🤝_Status-Open%20to%20Collaboration-020024?style=for-the-badge&logo=handshake&logoColor=white&labelColor=00D4FF" />
-  </div>
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://img.shields.io/badge/📋_IT_Strategy_Planner-ffffff?style=for-the-badge&logoColor=00D4FF&labelColor=00D4FF" />
+      <img src="https://img.shields.io/badge/🤖_AI_Developer-ffffff?style=for-the-badge&logoColor=090979&labelColor=090979" />
+      <img src="https://img.shields.io/badge/📚_Tech_Educator-ffffff?style=for-the-badge&logoColor=020024&labelColor=020024" />
+      <img src="https://img.shields.io/badge/🎓_University_Student-ffffff?style=for-the-badge&logoColor=00D4FF&labelColor=00D4FF" />
+    </td>
+  </tr>
+</table>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/📍_Location-South%20Korea-ffffff?style=for-the-badge&logo=google-maps&logoColor=00D4FF&labelColor=00D4FF" />&nbsp
+  <img src="https://img.shields.io/badge/🎯_Focus-IT%20Strategy%20%26%20AI-ffffff?style=for-the-badge&logo=target&logoColor=090979&labelColor=090979" />&nbsp
+  <img src="https://img.shields.io/badge/🤝_Status-Open%20to%20Collaboration-ffffff?style=for-the-badge&logo=handshake&logoColor=020024&labelColor=020024" />
 </div>
+
 
 <br>
 
