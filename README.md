@@ -43,6 +43,7 @@
   <img src="https://img.shields.io/badge/Educational%20Strategy-6BCF7F?style=for-the-badge&logo=academia&logoColor=white" />&nbsp
 </div>
 
+<div align="center">
   <h4>💻 Programming & Development</h4>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />&nbsp
@@ -57,18 +58,19 @@
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" />&nbsp
 </div>
 
 <div align="center">
-  <h4>📋 Collaboration & Documentation</h4>
-  <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" />&nbsp
+  <h4>🗄️ Database & AI Tools</h4>
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/Google%20Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/API%20Integration-FF6B35?style=for-the-badge&logo=fastapi&logoColor=white" />&nbsp
 </div>
-
 
 <br>
 
-<!--Key Achievements (Always Visible)-->
+<!--Key Achievements-->
 <h2 align="center">
   <img src="https://media.giphy.com/media/3o7qDVHln5s9aZqs2k/giphy.gif" width="35">
   Key Achievements
@@ -94,13 +96,11 @@
       </td>
     </tr>
   </table>
-
+</div>
 
 <br>
 
-<!--Professional Journey (Detailed)-->
-<br>
-
+<!--Professional Journey-->
 <h2 align="center">
   <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
   IT Planning & Development Journey
@@ -112,7 +112,7 @@
     <summary><h3>📋 Complete Professional Journey</h3></summary>
     <br>
     
-## 🏆 2021 - Foundation & Competitive Excellence
+<strong>🏆 2021 - Foundation & Competitive Excellence</strong>
 
 | Achievement | Details |
 |:---:|:---|
@@ -121,7 +121,9 @@
 | ![Sports Data](https://img.shields.io/badge/⚽_Sports_Data_Competition-Prize%20Winner-45B7D1?style=for-the-badge) | **체육종합 데이터 활용 경진대회 - 입상**<br>• Role: Data Strategy & Analytics Planning<br>• Approach: Strategic data architecture design<br>• Output: Comprehensive analytics roadmap |
 | ![PNU Datathon](https://img.shields.io/badge/📊_PNU_Datathon-Participant-96CEB4?style=for-the-badge) | **PNU 데이터톤 - 참여**<br>• Event: University-level data science competition<br>• Experience: Collaborative team project execution<br>• Learning: Real-world data science applications |
 
-## 🚀 2024 - Strategic Growth & Professional Development
+<br>
+
+<strong>🚀 2024 - Strategic Growth & Professional Development</strong>
 
 | Achievement | Details |
 |:---:|:---|
@@ -131,7 +133,9 @@
 | ![DSAC](https://img.shields.io/badge/🎓_DSAC_M2/M3-Certificate%20Completion-A8E6CF?style=for-the-badge) | **DSAC M2/M3 - 수료**<br>• Focus: Advanced data science methodologies<br>• Learning: Cutting-edge analysis techniques<br>• Project: Real-world practical applications |
 | ![D-COSS](https://img.shields.io/badge/🤖_D--COSS-AI%20Capacity%20Building%20Completion-FFD93D?style=for-the-badge) | **D-COSS 인공지능 활용 역량강화 - 수료**<br>• Program: AI application skill enhancement<br>• Technology: Latest AI technology mastery<br>• Application: Practical implementation capabilities |
 
-## 👨‍🏫 2025 - Leadership & Knowledge Transfer
+<br>
+
+<strong>👨‍🏫 2025 - Leadership & Knowledge Transfer</strong>
 
 | Achievement | Details |
 |:---:|:---|
@@ -139,13 +143,6 @@
 
   </details>
 </div>
-
-
-<br>
-
-
-
-
 
 <br>
 
@@ -254,11 +251,11 @@
   <a href="mailto:developsun04@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
   </a>
-  <a href="https://www.instagram.com/sunwook.dev/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>&nbsp
+  <a href="https://www.linkedin.com/in/sunwook-lee-07b802367">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>&nbsp
   </a>
-  <a href="https://x.com/Sunwook_dev">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>&nbsp
+  <a href="https://github.com/SUNWOOKLEE04">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>&nbsp
   </a>
 </div>
 
