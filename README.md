@@ -11,11 +11,15 @@
   
 <table>
   <tr>
-    <td align="center">
-      <strong>📋 IT Strategy Planner &nbsp;&nbsp;|&nbsp;&nbsp; 🤖 AI Developer &nbsp;&nbsp;|&nbsp;&nbsp; 📚 Tech Educator &nbsp;&nbsp;|&nbsp;&nbsp; 🎓 University Student</strong>
-    </td>
+    <td align="center"><strong>📋 IT Strategy Planner</strong></td>
+    <td align="center"><strong>🤖 AI Developer</strong></td>
+  </tr>
+  <tr>
+    <td align="center"><strong>📚 Tech Educator</strong></td>
+    <td align="center"><strong>🎓 University Student</strong></td>
   </tr>
 </table>
+
 
 
 
