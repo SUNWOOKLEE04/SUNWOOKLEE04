@@ -12,18 +12,18 @@
 <table>
   <tr>
     <td align="center">
-      <img src="https://img.shields.io/badge/📋_IT_Strategy_Planner-000000?style=for-the-badge&logoColor=ffffff&labelColor=00D4FF" />
-      <img src="https://img.shields.io/badge/🤖_AI_Developer-000000?style=for-the-badge&logoColor=ffffff&labelColor=090979" />
-      <img src="https://img.shields.io/badge/📚_Tech_Educator-000000?style=for-the-badge&logoColor=ffffff&labelColor=020024" />
-      <img src="https://img.shields.io/badge/🎓_University_Student-000000?style=for-the-badge&logoColor=ffffff&labelColor=00D4FF" />
+      <img src="https://img.shields.io/badge/📋_IT_Strategy_Planner-00D4FF?style=for-the-badge&logoColor=000000&labelColor=ffffff" />
+      <img src="https://img.shields.io/badge/🤖_AI_Developer-090979?style=for-the-badge&logoColor=ffffff&labelColor=000000" />
+      <img src="https://img.shields.io/badge/📚_Tech_Educator-020024?style=for-the-badge&logoColor=ffffff&labelColor=ffffff" />
+      <img src="https://img.shields.io/badge/🎓_University_Student-00D4FF?style=for-the-badge&logoColor=000000&labelColor=ffffff" />
     </td>
   </tr>
 </table>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/📍_Location-South%20Korea-000000?style=for-the-badge&logo=google-maps&logoColor=ffffff&labelColor=00D4FF" />&nbsp
-  <img src="https://img.shields.io/badge/🎯_Focus-IT%20Strategy%20%26%20AI-000000?style=for-the-badge&logo=target&logoColor=ffffff&labelColor=090979" />&nbsp
-  <img src="https://img.shields.io/badge/🤝_Status-Open%20to%20Collaboration-000000?style=for-the-badge&logo=handshake&logoColor=ffffff&labelColor=020024" />
+  <img src="https://img.shields.io/badge/📍_Location-South%20Korea-00D4FF?style=for-the-badge&logo=google-maps&logoColor=000000&labelColor=ffffff" />&nbsp
+  <img src="https://img.shields.io/badge/🎯_Focus-IT%20Strategy%20%26%20AI-090979?style=for-the-badge&logo=target&logoColor=ffffff&labelColor=000000" />&nbsp
+  <img src="https://img.shields.io/badge/🤝_Status-Open%20to%20Collaboration-020024?style=for-the-badge&logo=handshake&logoColor=ffffff&labelColor=ffffff" />
 </div>
 
 
