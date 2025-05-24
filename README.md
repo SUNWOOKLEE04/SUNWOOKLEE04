@@ -1,7 +1,8 @@
 <!--Header Section-->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,50:764ba2,100:f093fb&height=280&section=header&text=Sunwook%20Lee%20📋&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=IT%20Strategic%20Planner%20%26%20Developer&descSize=18&descAlignY=60" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Sunwook%20Lee&fontSize=60&fontColor=ffffff" />
 </div>
+
 
 <!--Introduction-->
 <div align="center">
