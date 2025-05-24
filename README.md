@@ -13,8 +13,8 @@
   <tr>
     <td align="center">
       <img src="https://img.shields.io/badge/📋_IT_Strategy_Planner-00D4FF?style=for-the-badge&logoColor=ffffff&labelColor=090979" />
-      <img src="https://img.shields.io/badge/🤖_AI_Developer-00D4FF?style=for-the-badge&logoColor=ffffff&labelColor=090979" />
-      <img src="https://img.shields.io/badge/📚_Tech_Educator-00D4FF?style=for-the-badge&logoColor=ffffff&labelColor=090979" />
+      <img src="https://img.shields.io/badge/🤖_AI_Developer-090979?style=for-the-badge&logoColor=ffffff&labelColor=4A90E2" />
+      <img src="https://img.shields.io/badge/📚_Tech_Educator-4A90E2?style=for-the-badge&logoColor=ffffff&labelColor=00D4FF" />
       <img src="https://img.shields.io/badge/🎓_University_Student-00D4FF?style=for-the-badge&logoColor=ffffff&labelColor=090979" />
     </td>
   </tr>
