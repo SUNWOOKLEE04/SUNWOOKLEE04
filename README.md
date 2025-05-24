@@ -202,7 +202,7 @@
           • <strong>Type:</strong> 1:1 Educational mentoring with pre-med student<br>
           • <strong>Innovation:</strong> QR-coded bandage packaging + AI web platform<br>
           • <strong>Tech Stack:</strong> Python Flask, Google Gemini Vision API, HTML/CSS/JS<br>
-          • <strong>Repository:</strong> <a href="https://github.com/SUNWOOKLEE04/AI-education-projects/tree/main/ai-wound-assessment-tool">ai-wound-assessment-tool</a>
+          • <strong>Repository:</strong> <a href="https://github.com/SUNWOOKLEE04/ai-wound-assessment-tool">ai-wound-assessment-tool</a>
         </td>
       </tr>
       <tr>
