@@ -28,9 +28,11 @@
 <br>
 
 <!--Tech Stack-->
-<h4>📋 IT Planning & Strategy</h4>
-<img src="https://img.shields.io/badge/Project%20Planning-9932CC..." />
-<div align="center">
+<h2 align="center">
+  <img src="https://media.giphy.com/media/3o7qDVHln5s9aZqs2k/giphy.gif" width="35">
+  📋 IT Planning & Strategy
+  <img src="https://media.giphy.com/media/3o7qDVHln5s9aZqs2k/giphy.gif" width="35">
+</h2>
   
   <h4>💻 Programming & Development</h4>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />&nbsp
