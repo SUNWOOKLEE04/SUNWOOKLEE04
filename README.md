@@ -1,22 +1,22 @@
 <!--Header Section-->
 <div align="center">
- <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D4FF,50:090979,100:020024&height=280&section=header&text=Sunwook%20Lee%20📋&fontSize=70&fontColor=ffffff&animation=fadeIn" />
-
-
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D4FF,50:090979,100:020024&height=320&section=header&text=Sunwook%20Lee%20📋&fontSize=75&fontColor=ffffff&animation=twinkling&fontAlignY=40&stroke=ffffff&strokeWidth=1" />
 </div>
 
 <!--Introduction-->
 <div align="center">
   <h1>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=700&height=100&lines=IT+Planner+%26+Developer;Strategic+Innovation" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&size=32&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=700&height=100&lines=IT+Strategic+Planner+%26+Developer;Turning+Vision+into+Reality" alt="Typing SVG" />
   </h1>
   <p>
-    <strong>📋 IT Planner | 🚀 AI Developer | 📚 Educator | 🎓 Student</strong>
+    <strong>📋 IT Strategy Planner | 🚀 AI Developer | 📚 Tech Educator | 🎓 University Student</strong>
   </p>
   
-  <img src="https://img.shields.io/badge/Location-South%20Korea-blue?style=flat-square&logo=google-maps" />
-  <img src="https://img.shields.io/badge/Focus-IT%20Strategy%20%26%20Planning-brightgreen?style=flat-square" />
-  <img src="https://img.shields.io/badge/Status-Open%20to%20Collaboration-yellow?style=flat-square" />
+  <div align="center">
+    <img src="https://img.shields.io/badge/📍_Location-South%20Korea-4285F4?style=for-the-badge&logo=google-maps&logoColor=white" />&nbsp
+    <img src="https://img.shields.io/badge/🎯_Focus-IT%20Strategy%20%26%20AI-00D4FF?style=for-the-badge&logo=target&logoColor=white" />&nbsp
+    <img src="https://img.shields.io/badge/🤝_Status-Open%20to%20Collaboration-32CD32?style=for-the-badge&logo=handshake&logoColor=white" />
+  </div>
 </div>
 
 <br>
