@@ -259,23 +259,6 @@
   <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="50">
 </h2>
 
-<div align="center">
-  <a href="https://github.com/SUNWOOKLEE04/robotics-education-projects">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SUNWOOKLEE04&repo=robotics-education-projects&theme=tokyonight&hide_border=true" />
-  </a>
-  <a href="https://github.com/SUNWOOKLEE04/student-coding-curriculum">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SUNWOOKLEE04&repo=student-coding-curriculum&theme=tokyonight&hide_border=true" />
-  </a>
-</div>
-
-<div align="center" style="margin-top: 20px;">
-  <a href="https://github.com/SUNWOOKLEE04/it-strategy-framework">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SUNWOOKLEE04&repo=it-strategy-framework&theme=tokyonight&hide_border=true" />
-  </a>
-  <a href="https://github.com/SUNWOOKLEE04/ai-planning-toolkit">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SUNWOOKLEE04&repo=ai-planning-toolkit&theme=tokyonight&hide_border=true" />
-  </a>
-</div>
 
 <br>
 
