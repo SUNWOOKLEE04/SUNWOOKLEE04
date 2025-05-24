@@ -43,33 +43,6 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="90%" />
   
   <br>
-  
-  <!--Quick Stats-->
-  <div align="center">
-    <table>
-      <tr>
-        <td align="center">
-          <img src="https://img.shields.io/badge/🏆%20Awards-3+-FF6B6B?style=flat-square&logoColor=white" />
-          <br><sub><b>Competition Awards</b></sub>
-        </td>
-        <td align="center">
-          <img src="https://img.shields.io/badge/🌏%20Experience-International-4ECDC4?style=flat-square&logoColor=white" />
-          <br><sub><b>Global Exposure</b></sub>
-        </td>
-        <td align="center">
-          <img src="https://img.shields.io/badge/👨‍🏫%20Teaching-Active-45B7D1?style=flat-square&logoColor=white" />
-          <br><sub><b>Current Educator</b></sub>
-        </td>
-        <td align="center">
-          <img src="https://img.shields.io/badge/🚀%20Projects-10+-96CEB4?style=flat-square&logoColor=white" />
-          <br><sub><b>Portfolio</b></sub>
-        </td>
-      </tr>
-    </table>
-  </div>
-</div>
-
-<br>
 
 <!--GitHub Stats-->
 <div align="center">
