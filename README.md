@@ -1,14 +1,13 @@
 <!--Header Section-->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Sunwook%20Lee&fontSize=60&fontColor=ffffff" />
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:667eea,50:764ba2,100:f093fb&height=300&section=header&text=Sunwook%20Lee%20📋&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=40&stroke=ffffff&strokeWidth=2&fontAlign=50&fontFamily=Righteous&desc=IT%20Strategic%20Planner%20%26%20Developer&descSize=18&descAlignY=65" />
 </div>
-
 
 <!--Introduction-->
 <div align="center">
-  <h1>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&weight=400&size=30&pause=1000&color=667eea&center=true&vCenter=true&multiline=true&width=800&height=100&lines=✨+Vision+into+Reality;🚀+Building+Solutions;💡+Strategic+Innovation" alt="Typing SVG" />
-  </h1>
+<h1>
+<img src="https://readme-typing-svg.herokuapp.com?font=Righteous&weight=400&size=32&pause=1000&color=667eea&center=true&vCenter=true&multiline=true&width=700&height=100&lines=✨+Turning+Vision+into+Reality;🚀+Building+Tomorrow's+Solutions;💡+Innovation+Through+Strategy" alt="Typing SVG" />
+</h1>
   
   <table>
     <tr>
