@@ -9,7 +9,7 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=700&height=100&lines=🌟+IT+Planner+%26+Strategic+Developer+🌟;Turning+Vision+into+Reality%2C+Strategy+into+Innovation" alt="Typing SVG" />
   </h1>
   <p>
-    <strong>📋 IT Strategy Planner | 🚀 AI/ML Developer | 🔐 Security Specialist | 📚 Tech Educator</strong>
+    <strong>📋 IT Planner | 🚀 AI Developer | 📚 Educator | 🎓 Student</strong>
   </p>
   
   <img src="https://img.shields.io/badge/Location-South%20Korea-blue?style=flat-square&logo=google-maps" />
