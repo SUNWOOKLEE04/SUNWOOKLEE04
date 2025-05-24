@@ -28,7 +28,21 @@
 <br>
 
 <!--Tech Stack-->
-  
+<h2 align="center">
+  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">
+  IT Planning & Development Arsenal
+  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">
+</h2>
+
+<div align="center">
+  <h4>📋 IT Planning & Strategy</h4>
+  <img src="https://img.shields.io/badge/Project%20Planning-9932CC?style=for-the-badge&logo=notion&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/System%20Design-4169E1?style=for-the-badge&logo=diagramsdotnet&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/Requirements%20Analysis-32CD32?style=for-the-badge&logo=microsoftword&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/Technical%20Documentation-FF4500?style=for-the-badge&logo=markdown&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/Educational%20Strategy-6BCF7F?style=for-the-badge&logo=academia&logoColor=white" />&nbsp
+</div>
+
   <h4>💻 Programming & Development</h4>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />&nbsp
