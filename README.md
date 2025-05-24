@@ -6,7 +6,7 @@
 <!--Introduction-->
 <div align="center">
   <h1>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Comfortaa&weight=700&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=600&height=100&lines=💡+IT+Planner;✨+Vision+to+Reality;🚀+Building+Solutions;💎+Code+Innovation" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Comfortaa&weight=700&size=34&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=800&height=100&lines=💡+IT+Strategic+Planner+%26+Developer;✨+Turning+Vision+into+Reality" alt="Typing SVG" />
   </h1>
   
   <table>
@@ -29,7 +29,7 @@
 
 <br>
 
-<!--GitHub Stats (중복 제거된 버전)-->
+<!--GitHub Stats-->
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=SUNWOOKLEE04&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=SUNWOOKLEE04&theme=tokyonight&hide_border=true" />
