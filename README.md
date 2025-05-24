@@ -11,23 +11,22 @@
   
 <table>
   <tr>
-    <td align="center"><strong>📋 IT Strategy Planner</strong></td>
-    <td align="center"><strong>🤖 AI Developer</strong></td>
-  </tr>
-  <tr>
-    <td align="center"><strong>📚 Tech Educator</strong></td>
-    <td align="center"><strong>🎓 University Student</strong></td>
+    <td align="center">
+      <strong>📋 IT Strategy Planner &nbsp;&nbsp;|&nbsp;&nbsp; 🤖 AI Developer &nbsp;&nbsp;|&nbsp;&nbsp; 📚 Tech Educator &nbsp;&nbsp;|&nbsp;&nbsp; 🎓 University Student</strong>
+    </td>
   </tr>
 </table>
 
-
-
-
 <div align="center">
-  <img src="https://img.shields.io/badge/📍_Location-South%20Korea-00D4FF?style=for-the-badge&logo=google-maps&logoColor=ffffff&labelColor=090979" />&nbsp
-  <img src="https://img.shields.io/badge/🎯_Focus-IT%20Strategy%20%26%20AI-00D4FF?style=for-the-badge&logo=target&logoColor=ffffff&labelColor=090979" />&nbsp
-  <img src="https://img.shields.io/badge/🤝_Status-Open%20to%20Collaboration-00D4FF?style=for-the-badge&logo=handshake&logoColor=ffffff&labelColor=090979" />
+  <table>
+    <tr>
+      <td align="center">
+        <strong>📍 South Korea &nbsp;&nbsp;|&nbsp;&nbsp; 🎯 IT Strategy & AI &nbsp;&nbsp;|&nbsp;&nbsp; 🤝 Open to Collaboration</strong>
+      </td>
+    </tr>
+  </table>
 </div>
+
 
 
 <br>
