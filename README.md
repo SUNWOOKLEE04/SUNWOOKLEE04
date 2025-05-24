@@ -1,6 +1,6 @@
 <!--Header Section-->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D4FF,50:090979,100:020024&height=320&section=header&text=Sunwook%20Lee%20📋&fontSize=75&fontColor=ffffff&animation=twinkling&fontAlignY=40&stroke=ffffff&strokeWidth=1" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:00D4FF,50:090979,100:020024&height=320&section=header&text=Sunwook%20Lee%20📋&fontSize=75&fontColor=ffffff&animation=twinkling&fontAlignY=40&fontAlign=50&stroke=ffffff&strokeWidth=1" />
 </div>
 
 <!--Introduction-->
