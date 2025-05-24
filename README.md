@@ -227,34 +227,27 @@
           • <strong>Type:</strong> 1:1 Educational mentoring with pre-med student<br>
           • <strong>Innovation:</strong> QR-coded bandage packaging + AI web platform<br>
           • <strong>Tech Stack:</strong> Python Flask, Google Gemini Vision API, HTML/CSS/JS<br>
-          • <strong>Impact:</strong> Real-world healthcare AI development experience<br>
           • <strong>Repository:</strong> <a href="https://github.com/SUNWOOKLEE04/AI-education-projects/tree/main/ai-wound-assessment-tool">ai-wound-assessment-tool</a>
         </td>
       </tr>
-    </table>
-  </details>
-
-  <details>
-    <summary><h3>📚 Educational Resources & Impact</h3></summary>
-    <br>
-    <table>
       <tr>
-        <td align="center" width="350">
+        <td align="center">
           <img src="https://img.shields.io/badge/📖_Educational_Impact-Knowledge%20Transfer-blue?style=for-the-badge" />
         </td>
         <td align="left">
-          <strong>Mentoring Methodology & Outcomes</strong><br>
-          • <strong>Approach:</strong> Hands-on project-based learning<br>
-          • <strong>Timeline:</strong> Rapid prototyping in 7-day sprint format<br>
+          <strong>Learning Outcomes & Mentoring Impact</strong><br>
+          • <strong>Methodology:</strong> Hands-on project-based learning approach<br>
+          • <strong>Student Growth:</strong> From concept to working prototype with presentation<br>
           • <strong>Skills Developed:</strong> AI integration, web development, product thinking<br>
           • <strong>Real-world Application:</strong> Physical product + digital solution integration<br>
-          • <strong>Student Growth:</strong> From concept to working prototype with presentation<br>
-          • <strong>Educational Value:</strong> Bridging healthcare and technology sectors
+          • <strong>Educational Value:</strong> Bridging healthcare and technology sectors<br>
+          • <strong>Timeline Success:</strong> Complete solution in 7-day sprint format
         </td>
       </tr>
     </table>
   </details>
 </div>
+
 
 
 <br>
