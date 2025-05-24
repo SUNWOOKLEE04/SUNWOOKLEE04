@@ -18,16 +18,9 @@
 </table>
 
 <div align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <strong>📍 Location: South Korea</strong><br>
-        <strong>🎯 Focus: IT Strategy & AI</strong><br>
-        <strong>🤝 Status: Open to Collaboration</strong>
-      </td>
-    </tr>
-  </table>
+  <strong>📍 Location: South Korea • 🎯 Focus: IT Strategy & AI • 🤝 Status: Open to Collaboration</strong>
 </div>
+
 
 
 
