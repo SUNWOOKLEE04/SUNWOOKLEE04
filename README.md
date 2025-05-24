@@ -9,18 +9,34 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Comfortaa&weight=700&size=34&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=800&height=100&lines=💡+IT+Strategic+Planner+%26+Developer;✨+Turning+Vision+into+Reality" alt="Typing SVG" />
   </h1>
   
-  <table>
+<div align="center">
+
+<table>
   <tr>
-    <td align="center">
-      <h3>
-        📋 <strong>IT Strategy Planner</strong> &nbsp;&nbsp;&nbsp;
-        🤖 <strong>AI Developer</strong> &nbsp;&nbsp;&nbsp;
-        📚 <strong>Tech Educator</strong> &nbsp;&nbsp;&nbsp;
-        🎓 <strong>University Student</strong>
-      </h3>
+    <td align="center" width="200" style="background:#F5FBFF; border:2px solid #00D4FF; border-radius:15px; padding:15px 10px;">
+      <span style="font-size:22px;">📍</span><br>
+      <span style="color:#00D4FF; font-weight:bold; font-size:15px;">Location</span>
+      <hr width="50%" color="#00D4FF">
+      <span style="font-size:16px; font-weight:bold;">South Korea</span>
+    </td>
+    <td width="15"></td>
+    <td align="center" width="200" style="background:#F5FBFF; border:2px solid #667eea; border-radius:15px; padding:15px 10px;">
+      <span style="font-size:22px;">🎯</span><br>
+      <span style="color:#667eea; font-weight:bold; font-size:15px;">Focus</span>
+      <hr width="50%" color="#667eea">
+      <span style="font-size:16px; font-weight:bold;">IT Strategy & AI</span>
+    </td>
+    <td width="15"></td>
+    <td align="center" width="200" style="background:#F5FBFF; border:2px solid #090979; border-radius:15px; padding:15px 10px;">
+      <span style="font-size:22px;">🤝</span><br>
+      <span style="color:#090979; font-weight:bold; font-size:15px;">Status</span>
+      <hr width="50%" color="#090979">
+      <span style="font-size:16px; font-weight:bold;">Open to Collaboration</span>
     </td>
   </tr>
 </table>
+
+</div>
 
 <div align="center">
   <table>
