@@ -249,7 +249,7 @@
 
 <!--Languages & Contribution Snake-->
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SunwookLee-04&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SUNWOOKLEE04&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 </div>
 
 <div align="center">
