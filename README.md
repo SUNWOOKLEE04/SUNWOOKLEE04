@@ -213,47 +213,49 @@
 </h2>
 
 <div align="center">
-  <a href="https://github.com/SUNWOOKLEE04/AI-education-projects/tree/main/ai-wound-assessment-tool">
-    <img src="https://img.shields.io/badge/🩹%20AI%20Smart%20Bandage%20Solution-Hands--on%20Mentoring%20Project-brightgreen?style=for-the-badge" />
-  </a>
-</div>
-
-<br>
-
-<div align="center">
-  <details open>
-    <summary>
-      <strong>AI-Powered Smart Bandage Assessment Tool</strong>
-      <br>
-      <a href="https://github.com/SUNWOOKLEE04/AI-education-projects/tree/main/ai-wound-assessment-tool">
-        <code>ai-wound-assessment-tool</code>
-      </a>
-    </summary>
+  <details>
+    <summary><h3>🩹 AI-Powered Smart Bandage Assessment Tool</h3></summary>
     <br>
-    <ul>
-      <li><b>Period:</b> 2025.04.14 ~ 2025.04.21 (7-day sprint)</li>
-      <li><b>Type:</b> Educational mentoring, 1:1 project</li>
-      <li><b>Key Innovation:</b> QR-coded bandage + AI wound assessment web integration</li>
-      <li><b>Main Stack:</b> Python Flask, HTML/CSS/JS, Google Gemini Vision API, PIL</li>
-      <li>
-        <b>Highlights:</b>
-        <ul>
-          <li>Physical product (bandage) and web solution connected via QR</li>
-          <li>AI-based image analysis and wound care recommendations</li>
-          <li>Mobile & desktop responsive design</li>
-          <li>Full mentoring: planning, dev, and demo in one week</li>
-        </ul>
-      </li>
-      <li><b>Educational Impact:</b> Real-world IT/AI mentoring, hands-on medical innovation experience</li>
-      <li>
-        <b>Repository:</b>
-        <a href="https://github.com/SUNWOOKLEE04/AI-education-projects/tree/main/ai-wound-assessment-tool" target="_blank">
-          https://github.com/SUNWOOKLEE04/AI-education-projects/tree/main/ai-wound-assessment-tool
-        </a>
-      </li>
-    </ul>
+    <table>
+      <tr>
+        <td align="center" width="350">
+          <img src="https://img.shields.io/badge/🩹_AI_Smart_Bandage-Healthcare%20Innovation-brightgreen?style=for-the-badge" />
+        </td>
+        <td align="left">
+          <strong>AI-Powered Smart Bandage Assessment Tool</strong><br>
+          • <strong>Period:</strong> April 14-21, 2025 (7-day intensive sprint)<br>
+          • <strong>Type:</strong> 1:1 Educational mentoring with pre-med student<br>
+          • <strong>Innovation:</strong> QR-coded bandage packaging + AI web platform<br>
+          • <strong>Tech Stack:</strong> Python Flask, Google Gemini Vision API, HTML/CSS/JS<br>
+          • <strong>Impact:</strong> Real-world healthcare AI development experience<br>
+          • <strong>Repository:</strong> <a href="https://github.com/SUNWOOKLEE04/AI-education-projects/tree/main/ai-wound-assessment-tool">ai-wound-assessment-tool</a>
+        </td>
+      </tr>
+    </table>
+  </details>
+
+  <details>
+    <summary><h3>📚 Educational Resources & Impact</h3></summary>
+    <br>
+    <table>
+      <tr>
+        <td align="center" width="350">
+          <img src="https://img.shields.io/badge/📖_Educational_Impact-Knowledge%20Transfer-blue?style=for-the-badge" />
+        </td>
+        <td align="left">
+          <strong>Mentoring Methodology & Outcomes</strong><br>
+          • <strong>Approach:</strong> Hands-on project-based learning<br>
+          • <strong>Timeline:</strong> Rapid prototyping in 7-day sprint format<br>
+          • <strong>Skills Developed:</strong> AI integration, web development, product thinking<br>
+          • <strong>Real-world Application:</strong> Physical product + digital solution integration<br>
+          • <strong>Student Growth:</strong> From concept to working prototype with presentation<br>
+          • <strong>Educational Value:</strong> Bridging healthcare and technology sectors
+        </td>
+      </tr>
+    </table>
   </details>
 </div>
+
 
 <br>
 
