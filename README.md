@@ -20,12 +20,15 @@
 <div align="center">
   <table>
     <tr>
-      <td align="center"><strong>📍 Location: South Korea</strong></td>
-      <td align="center"><strong>🎯 Focus: IT Strategy & AI</strong></td>
-      <td align="center"><strong>🤝 Status: Open to Collaboration</strong></td>
+      <td align="center">
+        <strong>📍 Location: South Korea</strong><br>
+        <strong>🎯 Focus: IT Strategy & AI</strong><br>
+        <strong>🤝 Status: Open to Collaboration</strong>
+      </td>
     </tr>
   </table>
 </div>
+
 
 
 <br>
