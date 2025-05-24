@@ -1,12 +1,7 @@
-<!--Header Section-->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D4FF,50:090979,100:020024&height=320&section=header&text=Sunwook%20Lee%20📋&fontSize=75&fontColor=ffffff&animation=twinkling&fontAlignY=40&stroke=ffffff&strokeWidth=1" />
-</div>
-
 <!--Introduction-->
 <div align="center">
   <h1>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&size=32&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=700&height=100&lines=IT+Strategic+Planner+%26+Developer;Turning+Vision+into+Reality" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Comfortaa&weight=700&size=34&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=700&height=100&lines=IT+Strategic+Planner+%26+Developer;Turning+Vision+into+Reality" alt="Typing SVG" />
   </h1>
   <p>
     <strong>📋 IT Strategy Planner | 🚀 AI Developer | 📚 Tech Educator | 🎓 University Student</strong>
