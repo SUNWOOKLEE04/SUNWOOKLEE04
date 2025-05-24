@@ -6,7 +6,7 @@
 <!--Introduction-->
 <div align="center">
   <h1>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=700&height=100&lines=🌟+IT+Planner+%26+Strategic+Developer+🌟;Turning+Vision+into+Reality%2C+Strategy+into+Innovation" alt="Typing SVV" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=700&height=100&lines=🌟+IT+Planner+%26+Strategic+Developer+🌟;Turning+Vision+into+Reality%2C+Strategy+into+Innovation" alt="Typing SVG" />
   </h1>
   <p>
     <strong>📋 IT Strategy Planner | 🚀 AI/ML Developer | 🔐 Security Specialist | 📚 Tech Educator</strong>
@@ -14,7 +14,7 @@
   
   <img src="https://img.shields.io/badge/Location-South%20Korea-blue?style=flat-square&logo=google-maps" />
   <img src="https://img.shields.io/badge/Focus-IT%20Strategy%20%26%20Planning-brightgreen?style=flat-square" />
-  <img src="https://img.shields.io/badge/Status-Open%20to%20Strategic%20Projects-yellow?style=flat-square" />
+  <img src="https://img.shields.io/badge/Status-Open%20to%20Collaboration-yellow?style=flat-square" />
 </div>
 
 <br>
@@ -63,11 +63,9 @@
 
 <div align="center">
   <h4>🔐 Security & Network</h4>
-  <img src="https://img.shields.io/badge/CCNA-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/CCNP-0052CC?style=for-the-badge&logo=cisco&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/Reverse%20Engineering-FF0000?style=for-the-badge&logo=hackthebox&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/CCNA%20Study-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/Network%20Security-FF6B35?style=for-the-badge&logo=pfsense&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/System%20Forensics-800080?style=for-the-badge&logo=wireshark&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/System%20Analysis-800080?style=for-the-badge&logo=wireshark&logoColor=white" />&nbsp
 </div>
 
 <div align="center">
@@ -89,17 +87,42 @@
 
 <br>
 
-<!--Professional Journey-->
+<!--Key Achievements (Always Visible)-->
 <h2 align="center">
-  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
-  IT Planning & Development Journey
-  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
+  <img src="https://media.giphy.com/media/3o7qDVHln5s9aZqs2k/giphy.gif" width="35">
+  Key Achievements
+  <img src="https://media.giphy.com/media/3o7qDVHln5s9aZqs2k/giphy.gif" width="35">
 </h2>
 
 <div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://img.shields.io/badge/🏆_2021_Busan_AI_Competition-Future%20Education%20Director's%20Award-FF6B6B?style=for-the-badge" />
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/🎨_2021_ICT_Hackathon-Design%20Excellence%20Award-4ECDC4?style=for-the-badge" />
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="https://img.shields.io/badge/🌏_2024_CEBU_LCIC-International%20Experience-F9CA24?style=for-the-badge" />
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/👨‍🏫_2025_Robotics_Club-Coding%20Instructor-6BCF7F?style=for-the-badge" />
+      </td>
+    </tr>
+  </table>
+</div>
+
+<br>
+
+<!--Professional Journey (Detailed)-->
+<div align="center">
   <details>
-    <summary><h3>🏆 2021 - Foundation & Excellence</h3></summary>
+    <summary><h3>📋 Complete Professional Journey</h3></summary>
     <br>
+    <h4>🏆 2021 - Foundation & Excellence</h4>
     <table>
       <tr>
         <td align="center" width="350">
@@ -138,11 +161,8 @@
         </td>
       </tr>
     </table>
-  </details>
-
-  <details>
-    <summary><h3>🚀 2024 - Strategic Growth & Global Perspective</h3></summary>
-    <br>
+    
+    <h4>🚀 2024 - Strategic Growth & Global Perspective</h4>
     <table>
       <tr>
         <td align="center" width="350">
@@ -181,11 +201,8 @@
         </td>
       </tr>
     </table>
-  </details>
-
-  <details>
-    <summary><h3>👨‍🏫 2025 - Leadership & Knowledge Transfer</h3></summary>
-    <br>
+    
+    <h4>👨‍🏫 2025 - Leadership & Knowledge Transfer</h4>
     <table>
       <tr>
         <td align="center" width="350">
@@ -248,49 +265,37 @@
   </details>
 </div>
 
-
-
 <br>
 
-<!--Strategic Projects Portfolio-->
-<h2 align="center">
-  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="50">
-  Strategic Projects Portfolio
-  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="50">
-</h2>
-
-
-<br>
-
-<!--Currently Mastering-->
+<!--Currently Learning-->
 <h2 align="center">
   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35">
-  Strategic Learning Focus
+  Current Learning Focus
   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35">
 </h2>
 <div align="center">
-  <img src="https://img.shields.io/badge/IT%20Governance-9932CC?style=for-the-badge&logo=strategy&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/CCNP%20Enterprise-0052CC?style=for-the-badge&logo=cisco&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/CCNP%20Study-0052CC?style=for-the-badge&logo=cisco&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/Enterprise%20Architecture-4169E1?style=for-the-badge&logo=archlinux&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/Digital%20Transformation-FF6F00?style=for-the-badge&logo=digitalocean&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/Strategic%20AI%20Planning-00D9FF?style=for-the-badge&logo=openai&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/Advanced%20Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/AI%20Integration-00D9FF?style=for-the-badge&logo=openai&logoColor=white" />&nbsp
 </div>
 
 <br>
 
 <!--Activity Graph-->
 <div align="center">
-  <h2>📊 Strategic Development Activity</h2>
+  <h2>📊 Development Activity</h2>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=SUNWOOKLEE04&theme=tokyo-night&hide_border=true&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true" />
 </div>
 
 <br>
 
-<!--Languages & Contribution Snake-->
+<!--Languages Stats-->
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SUNWOOKLEE04&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 </div>
 
+<!--Snake Animation (작동하므로 유지)-->
 <div align="center">
   <h2>🐍 Contribution Strategy</h2>
   <picture>
@@ -302,14 +307,9 @@
 
 <br>
 
-<!--Achievements-->
-<h2 align="center">
-  <img src="https://media.giphy.com/media/3o7qDVHln5s9aZqs2k/giphy.gif" width="50">
-  Strategic Achievements
-  <img src="https://media.giphy.com/media/3o7qDVHln5s9aZqs2k/giphy.gif" width="50">
-</h2>
-
+<!--GitHub Trophies-->
 <div align="center">
+  <h2>🏆 GitHub Achievements</h2>
   <img src="https://github-profile-trophy.vercel.app/?username=SUNWOOKLEE04&theme=tokyonight&column=4&margin-w=15&margin-h=15&no-bg=true&no-frame=true" />
 </div>
 
@@ -318,41 +318,40 @@
 <!--Connect-->
 <h2 align="center">
   <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60">
-  Strategic Partnerships & Collaboration
+  Let's Connect
   <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60">
 </h2>
 
 <div align="center">
   <a href="mailto:developsun04@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&label=Strategic%20Discussions"/>&nbsp
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
   </a>
   <a href="https://www.linkedin.com/in/sunwook-lee-07b802367">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&label=Professional%20Network"/>&nbsp
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>&nbsp
   </a>
   <a href="https://www.instagram.com/sunwook.dev/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&label=Tech%20Insights"/>&nbsp
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>&nbsp
   </a>
   <a href="https://x.com/Sunwook_dev">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white&label=Tech%20Thoughts"/>&nbsp
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>&nbsp
   </a>
   <a href="https://github.com/SUNWOOKLEE04">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&label=Strategic%20Projects"/>&nbsp
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>&nbsp
   </a>
 </div>
 
 <br>
 
-<!--Fun Stats-->
+<!--Profile Stats-->
 <div align="center">
-  <h2>📈 Strategic Impact Metrics</h2>
-  <img src="https://komarev.com/ghpvc/?username=SUNWOOKLEE04&style=for-the-badge&color=blueviolet&label=STRATEGIC+VIEWS" />
-  <img src="https://img.shields.io/github/followers/SUNWOOKLEE04?style=for-the-badge&color=blue&label=NETWORK+SIZE" />
-  <img src="https://img.shields.io/github/stars/SUNWOOKLEE04?style=for-the-badge&color=yellow&label=PROJECT+IMPACT" />
+  <h2>📈 Profile Analytics</h2>
+  <img src="https://komarev.com/ghpvc/?username=SUNWOOKLEE04&style=for-the-badge&color=blueviolet&label=PROFILE+VIEWS" />
+  <img src="https://img.shields.io/github/followers/SUNWOOKLEE04?style=for-the-badge&color=blue&label=FOLLOWERS" />
 </div>
 
 <div align="center">
   <h3>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=3000&color=00D9FF&center=true&vCenter=true&width=800&lines=Strategic+thinking+meets+technical+excellence!+📋;Let's+plan+the+future+of+technology+together!+🚀;Open+to+strategic+partnerships+and+IT+planning+projects+💡" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=3000&color=00D9FF&center=true&vCenter=true&width=800&lines=Strategic+thinking+meets+technical+excellence!+📋;Let's+build+innovative+solutions+together!+🚀;Open+to+collaboration+and+exciting+opportunities+💡" alt="Typing SVG" />
   </h3>
 </div>
 
@@ -363,5 +362,5 @@
 
 <!--Footer-->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24&height=100&section="footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24&height=100&section=footer" />
 </div>
