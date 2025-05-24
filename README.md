@@ -118,107 +118,52 @@
 <br>
 
 <!--Professional Journey (Detailed)-->
+<br>
+
+<h2 align="center">
+  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
+  IT Planning & Development Journey
+  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
+</h2>
+
 <div align="center">
   <details>
     <summary><h3>📋 Complete Professional Journey</h3></summary>
     <br>
-    <h4>🏆 2021 - Foundation & Excellence</h4>
-    <table>
-      <tr>
-        <td align="center" width="350">
-          <img src="https://img.shields.io/badge/🏆_Busan_AI_Competition-Strategic%20Planning%20Excellence-FF6B6B?style=for-the-badge" />
-        </td>
-        <td align="left">
-          <strong>Busan AI Competition - Future Education Director's Award</strong><br>
-          • <strong>Role:</strong> Technical Strategy & AI Implementation Planning<br>
-          • <strong>Achievement:</strong> Strategic approach to AI problem-solving<br>
-          • <strong>Impact:</strong> Bridging technical and business requirements<br>
-          • <strong>Skills:</strong> Strategic Planning, AI Architecture Design
-        </td>
-      </tr>
-      <tr>
-        <td align="center">
-          <img src="https://img.shields.io/badge/🎨_ICT_Convergence_Hackathon-Design%20%26%20Strategy-4ECDC4?style=for-the-badge" />
-        </td>
-        <td align="left">
-          <strong>6th ICT Convergence Hackathon - Design Excellence</strong><br>
-          • <strong>Role:</strong> UX Strategy & Technical Planning<br>
-          • <strong>Innovation:</strong> User-centered design strategy<br>
-          • <strong>Leadership:</strong> Cross-functional team coordination<br>
-          • <strong>Skills:</strong> Design Strategy, Team Leadership
-        </td>
-      </tr>
-      <tr>
-        <td align="center">
-          <img src="https://img.shields.io/badge/⚽_Sports_Data_Strategy-Analytics%20Planning-45B7D1?style=for-the-badge" />
-        </td>
-        <td align="left">
-          <strong>Sports Data Utilization Competition</strong><br>
-          • <strong>Role:</strong> Data Strategy & Analytics Planning<br>
-          • <strong>Approach:</strong> Strategic data architecture design<br>
-          • <strong>Output:</strong> Comprehensive analytics roadmap<br>
-          • <strong>Skills:</strong> Data Strategy, Business Intelligence Planning
-        </td>
-      </tr>
-    </table>
+    <div align="left">
     
-    <h4>🚀 2024 - Strategic Growth & Global Perspective</h4>
-    <table>
-      <tr>
-        <td align="center" width="350">
-          <img src="https://img.shields.io/badge/🏢_CAHLP_Company-IT%20Strategy%20Lead-FF9FF3?style=for-the-badge" />
-        </td>
-        <td align="left">
-          <strong>CAHLP Company - IT Strategy & Planning</strong><br>
-          • <strong>Role:</strong> IT Strategy Development & Implementation<br>
-          • <strong>Responsibility:</strong> Technology roadmap planning<br>
-          • <strong>Achievement:</strong> Enhanced organizational IT capabilities<br>
-          • <strong>Skills:</strong> Strategic Planning, Technology Assessment
-        </td>
-      </tr>
-      <tr>
-        <td align="center">
-          <img src="https://img.shields.io/badge/🌏_CEBU_LCIC-Global%20IT%20Perspective-F9CA24?style=for-the-badge" />
-        </td>
-        <td align="left">
-          <strong>CEBU LCIC University - International Experience</strong><br>
-          • <strong>Duration:</strong> July 2024 ~ August 2024<br>
-          • <strong>Focus:</strong> Global IT trends & cross-cultural communication<br>
-          • <strong>Growth:</strong> International IT market understanding<br>
-          • <strong>Skills:</strong> Global Strategy, Cultural Intelligence
-        </td>
-      </tr>
-      <tr>
-        <td align="center">
-          <img src="https://img.shields.io/badge/💻_K--ICT_Week-Tech%20Strategy%20Showcase-6C5CE7?style=for-the-badge" />
-        </td>
-        <td align="left">
-          <strong>K-ICT Week in Busan / IT EXPO</strong><br>
-          • <strong>Role:</strong> Technology strategy presentation & networking<br>
-          • <strong>Impact:</strong> IT trend analysis and strategic insights sharing<br>
-          • <strong>Achievement:</strong> Industry relationship building<br>
-          • <strong>Skills:</strong> Strategic Communication, Industry Analysis
-        </td>
-      </tr>
-    </table>
-    
-    <h4>👨‍🏫 2025 - Leadership & Knowledge Transfer</h4>
-    <table>
-      <tr>
-        <td align="center" width="350">
-          <img src="https://img.shields.io/badge/🤖_Robotics&Coding_Club-Tech%20Education%20Strategist-6BCF7F?style=for-the-badge" />
-        </td>
-        <td align="left">
-          <strong>Robotics & Coding Club - Educational Strategy Lead</strong><br>
-          • <strong>Position:</strong> Coding Instructor & Curriculum Strategist (2025~)<br>
-          • <strong>Mission:</strong> Next-gen tech talent development strategy<br>
-          • <strong>Approach:</strong> Strategic educational methodology design<br>
-          • <strong>Skills:</strong> Educational Strategy, Talent Development Planning
-        </td>
-      </tr>
-    </table>
+<b>🏆 2021 - Foundation & Excellence</b>
+
+| Achievement | Details |
+|:---:|:---|
+| <img src="https://img.shields.io/badge/🏆_Busan_AI_Competition-Strategic%20Planning%20Excellence-FF6B6B?style=for-the-badge" /> | <b>Busan AI Competition - Future Education Director's Award</b><br>• Role: Technical Strategy & AI Implementation Planning<br>• Achievement: Strategic approach to AI problem-solving<br>• Impact: Bridging technical and business requirements<br>• Skills: Strategic Planning, AI Architecture Design |
+| <img src="https://img.shields.io/badge/🎨_ICT_Convergence_Hackathon-Design%20%26%20Strategy-4ECDC4?style=for-the-badge" /> | <b>6th ICT Convergence Hackathon - Design Excellence</b><br>• Role: UX Strategy & Technical Planning<br>• Innovation: User-centered design strategy<br>• Leadership: Cross-functional team coordination<br>• Skills: Design Strategy, Team Leadership |
+
+<br>
+
+<b>🚀 2024 - Strategic Growth & Global Perspective</b>
+
+| Achievement | Details |
+|:---:|:---|
+| <img src="https://img.shields.io/badge/🏢_CAHLP_Company-IT%20Strategy%20Lead-FF9FF3?style=for-the-badge" /> | <b>CAHLP Company - IT Strategy & Planning</b><br>• Role: IT Strategy Development & Implementation<br>• Responsibility: Technology roadmap planning<br>• Achievement: Enhanced organizational IT capabilities<br>• Skills: Strategic Planning, Technology Assessment |
+| <img src="https://img.shields.io/badge/🌏_CEBU_LCIC-Global%20IT%20Perspective-F9CA24?style=for-the-badge" /> | <b>CEBU LCIC University - International Experience</b><br>• Duration: July 2024 ~ August 2024<br>• Focus: Global IT trends & cross-cultural communication<br>• Growth: International IT market understanding<br>• Skills: Global Strategy, Cultural Intelligence |
+
+<br>
+
+<b>👨‍🏫 2025 - Leadership & Knowledge Transfer</b>
+
+| Achievement | Details |
+|:---:|:---|
+| <img src="https://img.shields.io/badge/🤖_Robotics&Coding_Club-Tech%20Education%20Strategist-6BCF7F?style=for-the-badge" /> | <b>Robotics & Coding Club - Educational Strategy Lead</b><br>• Position: Coding Instructor & Curriculum Strategist (2025~)<br>• Mission: Next-gen tech talent development strategy<br>• Approach: Strategic educational methodology design<br>• Skills: Educational Strategy, Talent Development Planning |
+
+    </div>
   </details>
 </div>
+
+<br>
+
+
+
 
 <br>
 
