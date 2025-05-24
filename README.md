@@ -36,53 +36,27 @@
 
 <div align="center">
   <h4>📋 IT Planning & Strategy</h4>
-  <img src="https://img.shields.io/badge/IT%20Strategy-9932CC?style=for-the-badge&logo=strategy&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/Project%20Management-FF9500?style=for-the-badge&logo=trello&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/System%20Architecture-4169E1?style=for-the-badge&logo=diagramsdotnet&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/Project%20Planning-9932CC?style=for-the-badge&logo=notion&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/System%20Design-4169E1?style=for-the-badge&logo=diagramsdotnet&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/Requirements%20Analysis-32CD32?style=for-the-badge&logo=microsoftword&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/Technical%20Documentation-FF4500?style=for-the-badge&logo=markdown&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/Educational%20Strategy-6BCF7F?style=for-the-badge&logo=academia&logoColor=white" />&nbsp
 </div>
 
 <div align="center">
   <h4>💻 Programming & Development</h4>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />&nbsp
-  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/Pine%20Script-00B453?style=for-the-badge&logo=tradingview&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />&nbsp
-</div>
-
-<div align="center">
-  <h4>🧠 AI & Data Science</h4>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/pandas-150458.svg?style=for-the-badge&logo=pandas&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/numpy-013243.svg?style=for-the-badge&logo=numpy&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=OpenCV&logoColor=white" />&nbsp
-</div>
-
-<div align="center">
-  <h4>🔐 Security & Network</h4>
-  <img src="https://img.shields.io/badge/CCNA%20Study-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/Network%20Security-FF6B35?style=for-the-badge&logo=pfsense&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/System%20Analysis-800080?style=for-the-badge&logo=wireshark&logoColor=white" />&nbsp
-</div>
-
-<div align="center">
-  <h4>🌐 Web & Mobile Development</h4>
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />&nbsp
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />&nbsp
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />&nbsp
 </div>
 
 <div align="center">
   <h4>☁️ Infrastructure & Tools</h4>
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />&nbsp
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />&nbsp
 </div>
 
 <br>
