@@ -253,7 +253,7 @@
   <a href="mailto:developsun04@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
   </a>
-  <a href="https://www.linkedin.com/in/sunwook-lee-07b802367">
+  <a href="www.linkedin.com/in/sunwook-lee-it-strategy">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>&nbsp
   </a>
   <a href="https://github.com/SUNWOOKLEE04">
