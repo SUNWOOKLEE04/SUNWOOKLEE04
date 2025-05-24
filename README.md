@@ -77,7 +77,7 @@
         <img src="https://img.shields.io/badge/🏆_2021_Busan_AI_Competition-Future%20Education%20Director's%20Award-FF6B6B?style=for-the-badge" />
       </td>
       <td align="center">
-        <img src="https://img.shields.io/badge/🎨_2021_ICT_Hackathon-Design%20Excellence%20Award-4ECDC4?style=for-the-badge" />
+        <img src="https://img.shields.io/badge/🏢_2024_CAHLP_Company-Professional%20Activity-FF9FF3?style=for-the-badge" />
       </td>
     </tr>
     <tr>
