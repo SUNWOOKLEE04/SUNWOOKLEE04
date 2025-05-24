@@ -1,21 +1,45 @@
 <!--Header Section-->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D4FF,50:090979,100:020024&height=320&section=header&text=Sunwook%20Lee%20📋&fontSize=75&fontColor=ffffff&animation=twinkling&fontAlignY=40&stroke=ffffff&strokeWidth=1&fontAlign=50&fontFamily=Comfortaa" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:667eea,50:764ba2,100:f093fb&height=300&section=header&text=Sunwook%20Lee%20📋&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=40&stroke=ffffff&strokeWidth=2&fontAlign=50&fontFamily=Righteous&desc=IT%20Strategic%20Planner%20%26%20Developer&descSize=18&descAlignY=65" />
 </div>
 
 <!--Introduction-->
 <div align="center">
   <h1>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Comfortaa&weight=700&size=34&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=700&height=100&lines=IT+Strategic+Planner+%26+Developer;Turning+Vision+into+Reality" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&weight=400&size=32&pause=1000&color=667eea&center=true&vCenter=true&multiline=true&width=700&height=100&lines=✨+Turning+Vision+into+Reality;🚀+Building+Tomorrow's+Solutions;💡+Innovation+Through+Strategy" alt="Typing SVG" />
   </h1>
-  <p>
-    <strong>📋 IT Strategy Planner | 🚀 AI Developer | 📚 Tech Educator | 🎓 University Student</strong>
-  </p>
   
-  <div align="center">
-    <img src="https://img.shields.io/badge/📍_Location-South%20Korea-4285F4?style=for-the-badge&logo=google-maps&logoColor=white" />&nbsp
-    <img src="https://img.shields.io/badge/🎯_Focus-IT%20Strategy%20%26%20AI-00D4FF?style=for-the-badge&logo=target&logoColor=white" />&nbsp
-    <img src="https://img.shields.io/badge/🤝_Status-Open%20to%20Collaboration-32CD32?style=for-the-badge&logo=handshake&logoColor=white" />
+  <div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); border-radius: 25px; padding: 20px; margin: 20px 0; box-shadow: 0 8px 32px rgba(102, 126, 234, 0.3);">
+    <p style="color: white; font-size: 18px; margin: 0;">
+      <strong>📋 IT Strategy Planner | 🤖 AI Developer | 📚 Tech Educator | 🎓 University Student</strong>
+    </p>
+  </div>
+  
+  <div align="center" style="margin: 30px 0;">
+    <img src="https://img.shields.io/badge/📍_Location-South%20Korea-667eea?style=for-the-badge&logo=google-maps&logoColor=white&labelColor=764ba2" style="border-radius: 15px; margin: 5px;" />&nbsp
+    <img src="https://img.shields.io/badge/🎯_Focus-IT%20Strategy%20%26%20AI-f093fb?style=for-the-badge&logo=target&logoColor=white&labelColor=667eea" style="border-radius: 15px; margin: 5px;" />&nbsp
+    <img src="https://img.shields.io/badge/🤝_Status-Open%20to%20Collaboration-a8edea?style=for-the-badge&logo=handshake&logoColor=667eea&labelColor=764ba2" style="border-radius: 15px; margin: 5px;" />
+  </div>
+</div>
+
+<!--Decorative Elements-->
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</div>
+
+<br>
+
+<!--About Me Section with Rounded Design-->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rounded&color=gradient&customColorList=12&height=120&section=header&text=About%20Me&fontSize=40&fontColor=ffffff&animation=blinking&fontFamily=Righteous" />
+  
+  <div style="background: linear-gradient(135deg, #f093fb 0%, #f5576c 100%); border-radius: 30px; padding: 25px; margin: 20px; box-shadow: 0 10px 30px rgba(240, 147, 251, 0.3);">
+    <p style="color: white; font-size: 16px; line-height: 1.6;">
+      🌟 <strong>Passionate about bridging technology and strategy</strong><br>
+      💼 Specializing in IT strategic planning and AI development<br>
+      🎯 Committed to turning innovative ideas into practical solutions<br>
+      📈 Always learning and growing in the tech ecosystem
+    </p>
   </div>
 </div>
 
