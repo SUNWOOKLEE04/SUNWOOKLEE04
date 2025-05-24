@@ -9,7 +9,19 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Comfortaa&weight=700&size=34&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=800&height=100&lines=💡+IT+Strategic+Planner+%26+Developer;✨+Turning+Vision+into+Reality" alt="Typing SVG" />
   </h1>
   
-<div align="center">
+<table>
+  <tr>
+    <td align="center">
+      <h3>
+        📋 <strong>IT Strategy Planner</strong> &nbsp;&nbsp;&nbsp;
+        🤖 <strong>AI Developer</strong> &nbsp;&nbsp;&nbsp;
+        📚 <strong>Tech Educator</strong> &nbsp;&nbsp;&nbsp;
+        🎓 <strong>University Student</strong>
+      </h3>
+    </td>
+  </tr>
+</table>
+
 
 <table>
   <tr>
@@ -37,23 +49,6 @@
 </table>
 
 </div>
-
-<div align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <table><tr><td align="center"><strong>📍 Location<br>South Korea</strong></td></tr></table>
-      </td>
-      <td align="center">
-        <table><tr><td align="center"><strong>🎯 Focus<br>IT Strategy & AI</strong></td></tr></table>
-      </td>
-      <td align="center">
-        <table><tr><td align="center"><strong>🤝 Status<br>Open to Collaboration</strong></td></tr></table>
-      </td>
-    </tr>
-  </table>
-</div>
-
 
 <br>
 
