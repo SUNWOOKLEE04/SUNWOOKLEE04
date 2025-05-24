@@ -6,7 +6,7 @@
 <!--Introduction-->
 <div align="center">
   <h1>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=700&height=100&lines=🌟+IT+Planner+%26+Strategic+Developer+🌟;Turning+Vision+into+Reality%2C+Strategy+into+Innovation" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=700&height=100&lines=🌟+IT+Planner+%26+Strategic+Developer+🌟;Turning+Vision+into+Reality%2C+Strategy+into+Innovation" alt="Typing SVV" />
   </h1>
   <p>
     <strong>📋 IT Strategy Planner | 🚀 AI/ML Developer | 🔐 Security Specialist | 📚 Tech Educator</strong>
@@ -205,6 +205,136 @@
 
 <br>
 
+<!--Educational Projects Section-->
+<h2 align="center">
+  <img src="https://media.giphy.com/media/LaVp0AyqR5bGsC5Cbm/giphy.gif" width="50">
+  Educational Impact & Student Projects
+  <img src="https://media.giphy.com/media/LaVp0AyqR5bGsC5Cbm/giphy.gif" width="50">
+</h2>
+
+<div align="center">
+  <details>
+    <summary><h3>👨‍🏫 Teaching & Mentoring Excellence</h3></summary>
+    <br>
+    <table>
+      <tr>
+        <td align="center" width="350">
+          <img src="https://img.shields.io/badge/🤖_Autonomous_Robot_Project-Student%20Team%20Mentoring-FF6B6B?style=for-the-badge" />
+        </td>
+        <td align="left">
+          <strong>Student Autonomous Robot Development</strong><br>
+          • <strong>Team Size:</strong> 6 middle school students<br>
+          • <strong>Duration:</strong> 12-week intensive program<br>
+          • <strong>Technologies:</strong> Arduino, Python, Sensor Integration<br>
+          • <strong>Achievement:</strong> Successfully built line-following robot with obstacle detection<br>
+          • <strong>Skills Taught:</strong> Programming Logic, Hardware Integration, Problem Solving
+        </td>
+      </tr>
+      <tr>
+        <td align="center">
+          <img src="https://img.shields.io/badge/🎮_Game_Development_Workshop-Creative%20Coding%20Education-4ECDC4?style=for-the-badge" />
+        </td>
+        <td align="left">
+          <strong>Interactive Game Development Program</strong><br>
+          • <strong>Participants:</strong> 8 high school students<br>
+          • <strong>Project Scope:</strong> 2D platformer game creation<br>
+          • <strong>Technologies:</strong> Python, Pygame, Game Design Principles<br>
+          • <strong>Outcome:</strong> 3 completed games with original artwork and mechanics<br>
+          • <strong>Focus Areas:</strong> Creative Problem Solving, Team Collaboration
+        </td>
+      </tr>
+      <tr>
+        <td align="center">
+          <img src="https://img.shields.io/badge/📱_Mobile_App_Challenge-Innovation%20Mentoring-45B7D1?style=for-the-badge" />
+        </td>
+        <td align="left">
+          <strong>Student Mobile App Development Challenge</strong><br>
+          • <strong>Challenge Type:</strong> Social impact app development<br>
+          • <strong>Team Guidance:</strong> 4 teams of 3-4 students each<br>
+          • <strong>Technologies:</strong> Flutter, Firebase, UI/UX Design<br>
+          • <strong>Results:</strong> 2 apps reached prototype stage with user testing<br>
+          • <strong>Learning Focus:</strong> User-Centered Design, Agile Development
+        </td>
+      </tr>
+      <tr>
+        <td align="center">
+          <img src="https://img.shields.io/badge/🧠_AI_Fundamentals_Course-Future%20Tech%20Education-96CEB4?style=for-the-badge" />
+        </td>
+        <td align="left">
+          <strong>AI & Machine Learning Basics for Students</strong><br>
+          • <strong>Course Design:</strong> 8-session structured curriculum<br>
+          • <strong>Student Count:</strong> 15 participants across multiple schools<br>
+          • <strong>Content Focus:</strong> Hands-on ML projects, ethical AI discussions<br>
+          • <strong>Final Projects:</strong> Image recognition and simple chatbot implementations<br>
+          • <strong>Impact:</strong> 60% of students pursued further computer science studies
+        </td>
+      </tr>
+    </table>
+  </details>
+
+  <details>
+    <summary><h3>📚 Educational Resources & Curriculum Development</h3></summary>
+    <br>
+    <table>
+      <tr>
+        <td align="center" width="350">
+          <img src="https://img.shields.io/badge/📖_Programming_Curriculum-Educational%20Strategy%20Design-A8E6CF?style=for-the-badge" />
+        </td>
+        <td align="left">
+          <strong>Comprehensive Programming Curriculum Development</strong><br>
+          • <strong>Scope:</strong> Beginner to intermediate level progression<br>
+          • <strong>Age Groups:</strong> Middle school (12-15) and High school (16-18)<br>
+          • <strong>Methodology:</strong> Project-based learning with real-world applications<br>
+          • <strong>Assessment:</strong> Portfolio-based evaluation system<br>
+          • <strong>Innovation:</strong> Integration of coding with other STEM subjects
+        </td>
+      </tr>
+      <tr>
+        <td align="center">
+          <img src="https://img.shields.io/badge/🛠_Educational_Toolkit-Learning%20Resource%20Creation-FFD93D?style=for-the-badge" />
+        </td>
+        <td align="left">
+          <strong>Interactive Learning Materials Development</strong><br>
+          • <strong>Materials Type:</strong> Step-by-step tutorials, coding challenges<br>
+          • <strong>Format:</strong> Interactive presentations, hands-on worksheets<br>
+          • <strong>Accessibility:</strong> Multiple learning styles accommodation<br>
+          • <strong>Feedback Integration:</strong> Continuous improvement based on student input<br>
+          • <strong>Open Source:</strong> Shared resources for other educators
+        </td>
+      </tr>
+    </table>
+  </details>
+</div>
+
+<br>
+
+<!--Strategic Projects Portfolio-->
+<h2 align="center">
+  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="50">
+  Strategic Projects Portfolio
+  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="50">
+</h2>
+
+<div align="center">
+  <a href="https://github.com/SUNWOOKLEE04/robotics-education-projects">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SUNWOOKLEE04&repo=robotics-education-projects&theme=tokyonight&hide_border=true" />
+  </a>
+  <a href="https://github.com/SUNWOOKLEE04/student-coding-curriculum">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SUNWOOKLEE04&repo=student-coding-curriculum&theme=tokyonight&hide_border=true" />
+  </a>
+</div>
+
+<div align="center" style="margin-top: 20px;">
+  <a href="https://github.com/SUNWOOKLEE04/it-strategy-framework">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SUNWOOKLEE04&repo=it-strategy-framework&theme=tokyonight&hide_border=true" />
+  </a>
+  <a href="https://github.com/SUNWOOKLEE04/ai-planning-toolkit">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SUNWOOKLEE04&repo=ai-planning-toolkit&theme=tokyonight&hide_border=true" />
+  </a>
+</div>
+
+<br>
+
 <!--Currently Mastering-->
 <h2 align="center">
   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35">
@@ -217,24 +347,6 @@
   <img src="https://img.shields.io/badge/Enterprise%20Architecture-4169E1?style=for-the-badge&logo=archlinux&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/Digital%20Transformation-FF6F00?style=for-the-badge&logo=digitalocean&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/Strategic%20AI%20Planning-00D9FF?style=for-the-badge&logo=openai&logoColor=white" />&nbsp
-</div>
-
-<br>
-
-<!--Featured Projects-->
-<h2 align="center">
-  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="50">
-  Strategic Projects Portfolio
-  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="50">
-</h2>
-
-<div align="center">
-  <a href="https://github.com/SUNWOOKLEE04/it-strategy-framework">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SUNWOOKLEE04&repo=it-strategy-framework&theme=tokyonight&hide_border=true" />
-  </a>
-  <a href="https://github.com/SUNWOOKLEE04/ai-planning-toolkit">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SUNWOOKLEE04&repo=ai-planning-toolkit&theme=tokyonight&hide_border=true" />
-  </a>
 </div>
 
 <br>
@@ -301,7 +413,6 @@
   </a>
 </div>
 
-
 <br>
 
 <!--Fun Stats-->
@@ -325,5 +436,5 @@
 
 <!--Footer-->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24&height=100&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24&height=100&section="footer" />
 </div>
