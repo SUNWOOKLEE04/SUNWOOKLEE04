@@ -23,32 +23,35 @@
 </table>
 
 
+<div align="center">
+
 <table>
   <tr>
-    <td align="center" width="200" style="background:#F5FBFF; border:2px solid #00D4FF; border-radius:15px; padding:15px 10px;">
-      <span style="font-size:22px;">📍</span><br>
-      <span style="color:#00D4FF; font-weight:bold; font-size:15px;">Location</span>
-      <hr width="50%" color="#00D4FF">
-      <span style="font-size:16px; font-weight:bold;">South Korea</span>
+    <td align="center" width="200">
+      <strong>📍</strong><br>
+      <strong>Location</strong><br>
+      ━━━━━━━━━━<br>
+      <strong>South Korea</strong>
     </td>
-    <td width="15"></td>
-    <td align="center" width="200" style="background:#F5FBFF; border:2px solid #667eea; border-radius:15px; padding:15px 10px;">
-      <span style="font-size:22px;">🎯</span><br>
-      <span style="color:#667eea; font-weight:bold; font-size:15px;">Focus</span>
-      <hr width="50%" color="#667eea">
-      <span style="font-size:16px; font-weight:bold;">IT Strategy & AI</span>
+    <td width="30"></td>
+    <td align="center" width="200">
+      <strong>🎯</strong><br>
+      <strong>Focus</strong><br>
+      ━━━━━━━━━━<br>
+      <strong>IT Strategy & AI</strong>
     </td>
-    <td width="15"></td>
-    <td align="center" width="200" style="background:#F5FBFF; border:2px solid #090979; border-radius:15px; padding:15px 10px;">
-      <span style="font-size:22px;">🤝</span><br>
-      <span style="color:#090979; font-weight:bold; font-size:15px;">Status</span>
-      <hr width="50%" color="#090979">
-      <span style="font-size:16px; font-weight:bold;">Open to Collaboration</span>
+    <td width="30"></td>
+    <td align="center" width="200">
+      <strong>🤝</strong><br>
+      <strong>Status</strong><br>
+      ━━━━━━━━━━<br>
+      <strong>Open to Collaboration</strong>
     </td>
   </tr>
 </table>
 
 </div>
+
 
 <br>
 
