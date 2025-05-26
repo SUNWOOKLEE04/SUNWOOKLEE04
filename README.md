@@ -110,6 +110,14 @@
   <img src="https://img.shields.io/badge/API%20Integration-FF6B35?style=for-the-badge&logo=fastapi&logoColor=white" />&nbsp
 </div>
 
+<div align="center">
+  <h4>🤝 Collaboration Tools</h4>
+  <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" />
+</div>
+
 <br>
 
 <!--Key Achievements-->
