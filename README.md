@@ -255,7 +255,7 @@
           -  <strong>Type:</strong> Team-based educational project (3 students)<br>
           -  <strong>Innovation:</strong> Multi-student portfolio with integrated basketball sub-project<br>
           -  <strong>Tech Stack:</strong> HTML5, CSS3, JavaScript, Responsive Design<br>
-          -  <strong>Repository:</strong> <a href="https://github.com/SUNWOOKLEE04/student-portfolio">student-semester-project</a>
+          -  <strong>Repository:</strong> <a href="https://github.com/SUNWOOKLEE04/student-portfolio">student-portfolio</a>
         </td>
       </tr>
       <tr>
