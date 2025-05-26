@@ -198,11 +198,11 @@
         </td>
         <td align="left">
           <strong>AI-Powered Smart Bandage Assessment Tool</strong><br>
-          • <strong>Period:</strong> April 14-21, 2025 (7-day intensive sprint)<br>
-          • <strong>Type:</strong> 1:1 Educational mentoring with pre-med student<br>
-          • <strong>Innovation:</strong> QR-coded bandage packaging + AI web platform<br>
-          • <strong>Tech Stack:</strong> Python Flask, Google Gemini Vision API, HTML/CSS/JS<br>
-          • <strong>Repository:</strong> <a href="https://github.com/SUNWOOKLEE04/ai-wound-assessment-tool">ai-wound-assessment-tool</a>
+          -  <strong>Period:</strong> April 14-21, 2025 (7-day intensive sprint)<br>
+          -  <strong>Type:</strong> 1:1 Educational mentoring with pre-med student<br>
+          -  <strong>Innovation:</strong> QR-coded bandage packaging + AI web platform<br>
+          -  <strong>Tech Stack:</strong> Python Flask, Google Gemini Vision API, HTML/CSS/JS<br>
+          -  <strong>Repository:</strong> <a href="https://github.com/SUNWOOKLEE04/ai-wound-assessment-tool">ai-wound-assessment-tool</a>
         </td>
       </tr>
       <tr>
@@ -211,12 +211,12 @@
         </td>
         <td align="left">
           <strong>Learning Outcomes & Mentoring Impact</strong><br>
-          • <strong>Methodology:</strong> Hands-on project-based learning approach<br>
-          • <strong>Student Growth:</strong> From concept to working prototype with presentation<br>
-          • <strong>Skills Developed:</strong> AI integration, web development, product thinking<br>
-          • <strong>Real-world Application:</strong> Physical product + digital solution integration<br>
-          • <strong>Educational Value:</strong> Bridging healthcare and technology sectors<br>
-          • <strong>Timeline Success:</strong> Complete solution in 7-day sprint format
+          -  <strong>Methodology:</strong> Hands-on project-based learning approach<br>
+          -  <strong>Student Growth:</strong> From concept to working prototype with presentation<br>
+          -  <strong>Skills Developed:</strong> AI integration, web development, product thinking<br>
+          -  <strong>Real-world Application:</strong> Physical product + digital solution integration<br>
+          -  <strong>Educational Value:</strong> Bridging healthcare and technology sectors<br>
+          -  <strong>Timeline Success:</strong> Complete solution in 7-day sprint format
         </td>
       </tr>
     </table>
@@ -224,6 +224,45 @@
 </div>
 
 <br>
+
+<div align="center">
+  <details>
+    <summary><h3>🏀 Student Portfolio Website with Basketball Integration</h3></summary>
+    <br>
+    <table>
+      <tr>
+        <td align="center" width="350">
+          <img src="https://img.shields.io/badge/🏀_Student_Portfolio-Web%20Development-orange?style=for-the-badge" />
+        </td>
+        <td align="left">
+          <strong>Collaborative Student Portfolio Website</strong><br>
+          -  <strong>Period:</strong> Semester Project 2025<br>
+          -  <strong>Type:</strong> Team-based educational project (3 students)<br>
+          -  <strong>Innovation:</strong> Multi-student portfolio with integrated basketball sub-project<br>
+          -  <strong>Tech Stack:</strong> HTML5, CSS3, JavaScript, Responsive Design<br>
+          -  <strong>Repository:</strong> <a href="https://github.com/SUNWOOKLEE04/student-semester-project">student-semester-project</a>
+        </td>
+      </tr>
+      <tr>
+        <td align="center">
+          <img src="https://img.shields.io/badge/🎓_Educational_Impact-Team%20Collaboration-purple?style=for-the-badge" />
+        </td>
+        <td align="left">
+          <strong>Learning Outcomes & Project Structure</strong><br>
+          -  <strong>Methodology:</strong> Collaborative web development with individual sections<br>
+          -  <strong>Student Growth:</strong> Full-stack web development skills and teamwork<br>
+          -  <strong>Skills Developed:</strong> HTML/CSS/JS, responsive design, project management<br>
+          -  <strong>Features:</strong> 10+ pages including portfolio, gallery, skills, awards<br>
+          -  <strong>Educational Value:</strong> Real-world web development experience<br>
+          -  <strong>Special Feature:</strong> Integrated basketball information website
+        </td>
+      </tr>
+    </table>
+  </details>
+</div>
+
+<br>
+
 
 <!--Currently Learning-->
 <h2 align="center">
