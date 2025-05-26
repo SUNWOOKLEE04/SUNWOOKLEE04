@@ -236,7 +236,7 @@
         </td>
         <td align="left">
           <strong>Collaborative Student Portfolio Website</strong><br>
-          -  <strong>Period:</strong> Semester Project 2025<br>
+          -  <strong>Period:</strong> Semester Project 2025(~May)<br>
           -  <strong>Type:</strong> Team-based educational project (3 students)<br>
           -  <strong>Innovation:</strong> Multi-student portfolio with integrated basketball sub-project<br>
           -  <strong>Tech Stack:</strong> HTML5, CSS3, JavaScript, Responsive Design<br>
