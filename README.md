@@ -62,9 +62,7 @@
 
 <!--Tech Stack-->
 <h2 align="center">
-  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">
-  IT Planning & Development Arsenal
-  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">
+  ⚡ IT Planning & Development Arsenal ⚡
 </h2>
 
 <div align="center">
@@ -120,9 +118,7 @@
 
 <!--Key Achievements-->
 <h2 align="center">
-  <img src="https://media.giphy.com/media/3o7qDVHln5s9aZqs2k/giphy.gif" width="35">
-  Key Achievements
-  <img src="https://media.giphy.com/media/3o7qDVHln5s9aZqs2k/giphy.gif" width="35">
+  🏆 Key Achievements 🏆
 </h2>
 
 <div align="center">
@@ -150,9 +146,7 @@
 
 <!--Professional Journey-->
 <h2 align="center">
-  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
-  IT Planning & Development Journey
-  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
+  🚀 IT Planning & Development Journey 🚀
 </h2>
 
 <div align="center">
@@ -164,10 +158,10 @@
 
 | Achievement | Details |
 |:---:|:---|
-| ![Busan AI](https://img.shields.io/badge/🏆_Busan_AI_Competition-Future%20Education%20Director's%20Award%20|%20Team%20Leader-FF6B6B?style=for-the-badge) | **부산 AI 경진대회 - 미래교육원장상 입상 (팀장)**<br>• Role: Team Leader & Technical Strategy Planning<br>• Project: **AI Camera-based Physical Education Attendance System**<br>• Innovation: 코로나 시대 대응 - 카메라로 체육활동 인식하여 자동 출석 처리<br>• Achievement: 비대면 교육 환경에서의 체육 교육 혁신 솔루션<br>• Leadership: Cross-functional team coordination and strategic planning<br>• Impact: 교육 디지털 전환 시대의 실용적 해결책 제시 |
-| ![ICT Hackathon](https://img.shields.io/badge/🎨_6th_ICT_Hackathon-Design%20Excellence%20Award%20|%20Team%20Leader-4ECDC4?style=for-the-badge) | **제6회 ICT 융합 해커톤 - 디자인상 입상 (팀장)**<br>• Role: Team Leader & UX Strategy Director<br>• Project: **Intelligent Kiosk for Visually Impaired Users**<br>• Innovation: 시각장애인을 위한 지능형 키오스크 개발<br>• Features: 음성 인식, 점자 지원, 접근성 중심 UI/UX 설계<br>• Leadership: 디자인-개발-기획 팀 통합 관리<br>• Impact: 디지털 접근성 향상을 통한 사회적 가치 창출 |
-| ![Sports Data](https://img.shields.io/badge/⚽_Sports_Data_Competition-Prize%20Winner%20|%20Team%20Leader-45B7D1?style=for-the-badge) | **체육종합 데이터 활용 경진대회 - 입상 (팀장)**<br>• Role: Team Leader & Data Strategy Planning<br>• Project: **Adaptive Sports Recommendation System for People with Disabilities**<br>• Innovation: 장애인 빅데이터 분석을 통한 맞춤형 체육활동 추천<br>• Technology: 머신러닝 기반 개인화 추천 알고리즘<br>• Leadership: 데이터 분석팀과 앱 개발팀 통합 관리<br>• Impact: 장애인 스포츠 접근성 향상 및 건강 증진 솔루션 |
-| ![PNU Datathon](https://img.shields.io/badge/📊_PNU_Datathon-Participant-96CEB4?style=for-the-badge) | **PNU 데이터톤 - 참여**<br>• Event: University-level data science competition<br>• Experience: Collaborative team project execution<br>• Learning: Real-world data science applications |
+| ![Busan AI](https://img.shields.io/badge/🏆_Busan_AI_Competition-Future%20Education%20Director's%20Award%20\|%20Team%20Leader-FF6B6B?style=for-the-badge) | **부산 AI 경진대회 - 미래교육원장상 입상 (팀장)**<br/>• Role: Team Leader & Technical Strategy Planning<br/>• Project: **AI Camera-based Physical Education Attendance System**<br/>• Innovation: 코로나 시대 대응 - 카메라로 체육활동 인식하여 자동 출석 처리<br/>• Achievement: 비대면 교육 환경에서의 체육 교육 혁신 솔루션<br/>• Leadership: Cross-functional team coordination and strategic planning<br/>• Impact: 교육 디지털 전환 시대의 실용적 해결책 제시 |
+| ![ICT Hackathon](https://img.shields.io/badge/🎨_6th_ICT_Hackathon-Design%20Excellence%20Award%20\|%20Team%20Leader-4ECDC4?style=for-the-badge) | **제6회 ICT 융합 해커톤 - 디자인상 입상 (팀장)**<br/>• Role: Team Leader & UX Strategy Director<br/>• Project: **Intelligent Kiosk for Visually Impaired Users**<br/>• Innovation: 시각장애인을 위한 지능형 키오스크 개발<br/>• Features: 음성 인식, 점자 지원, 접근성 중심 UI/UX 설계<br/>• Leadership: 디자인-개발-기획 팀 통합 관리<br/>• Impact: 디지털 접근성 향상을 통한 사회적 가치 창출 |
+| ![Sports Data](https://img.shields.io/badge/⚽_Sports_Data_Competition-Prize%20Winner%20\|%20Team%20Leader-45B7D1?style=for-the-badge) | **체육종합 데이터 활용 경진대회 - 입상 (팀장)**<br/>• Role: Team Leader & Data Strategy Planning<br/>• Project: **Adaptive Sports Recommendation System for People with Disabilities**<br/>• Innovation: 장애인 빅데이터 분석을 통한 맞춤형 체육활동 추천<br/>• Technology: 머신러닝 기반 개인화 추천 알고리즘<br/>• Leadership: 데이터 분석팀과 앱 개발팀 통합 관리<br/>• Impact: 장애인 스포츠 접근성 향상 및 건강 증진 솔루션 |
+| ![PNU Datathon](https://img.shields.io/badge/📊_PNU_Datathon-Participant-96CEB4?style=for-the-badge) | **PNU 데이터톤 - 참여**<br/>• Event: University-level data science competition<br/>• Experience: Collaborative team project execution<br/>• Learning: Real-world data science applications |
 
 </details>
 
@@ -176,11 +170,11 @@
 
 | Achievement | Details |
 |:---:|:---|
-| ![CAHLP](https://img.shields.io/badge/🏢_CAHLP_Company-Professional%20Activity-FF9FF3?style=for-the-badge) | **CAHLP Company - 활동**<br>• Role: IT Strategy Development & Implementation<br>• Responsibility: Technology roadmap planning<br>• Achievement: Enhanced organizational IT capabilities |
-| ![CEBU](https://img.shields.io/badge/🌏_CEBU_LCIC-International%20Experience-F9CA24?style=for-the-badge) | **CEBU LCIC University - International Experience**<br>• Duration: July 2024 ~ August 2024<br>• Focus: Global IT trends & cross-cultural communication<br>• Growth: International IT market understanding |
-| ![K-ICT Week](https://img.shields.io/badge/💻_K--ICT_Week_Busan-Exhibition%20Booth%20Operation-6C5CE7?style=for-the-badge) | **K-ICT Week in Busan / IT EXPO - 부스 운영**<br>• Role: Technology strategy presentation & networking<br>• Activity: Technology trend presentation<br>• Impact: Networking and technology promotion |
-| ![DSAC](https://img.shields.io/badge/🎓_DSAC_M2/M3-Certificate%20Completion-A8E6CF?style=for-the-badge) | **DSAC M2/M3 - 수료**<br>• Focus: Advanced data science methodologies<br>• Learning: Cutting-edge analysis techniques<br>• Project: Real-world practical applications |
-| ![D-COSS](https://img.shields.io/badge/🤖_D--COSS-AI%20Capacity%20Building%20Completion-FFD93D?style=for-the-badge) | **D-COSS 인공지능 활용 역량강화 - 수료**<br>• Program: AI application skill enhancement<br>• Technology: Latest AI technology mastery<br>• Application: Practical implementation capabilities |
+| ![CAHLP](https://img.shields.io/badge/🏢_CAHLP_Company-Professional%20Activity-FF9FF3?style=for-the-badge) | **CAHLP Company - 활동**<br/>• Role: IT Strategy Development & Implementation<br/>• Responsibility: Technology roadmap planning<br/>• Achievement: Enhanced organizational IT capabilities |
+| ![CEBU](https://img.shields.io/badge/🌏_CEBU_LCIC-International%20Experience-F9CA24?style=for-the-badge) | **CEBU LCIC University - International Experience**<br/>• Duration: July 2024 ~ August 2024<br/>• Focus: Global IT trends & cross-cultural communication<br/>• Growth: International IT market understanding |
+| ![K-ICT Week](https://img.shields.io/badge/💻_K--ICT_Week_Busan-Exhibition%20Booth%20Operation-6C5CE7?style=for-the-badge) | **K-ICT Week in Busan / IT EXPO - 부스 운영**<br/>• Role: Technology strategy presentation & networking<br/>• Activity: Technology trend presentation<br/>• Impact: Networking and technology promotion |
+| ![DSAC](https://img.shields.io/badge/🎓_DSAC_M2/M3-Certificate%20Completion-A8E6CF?style=for-the-badge) | **DSAC M2/M3 - 수료**<br/>• Focus: Advanced data science methodologies<br/>• Learning: Cutting-edge analysis techniques<br/>• Project: Real-world practical applications |
+| ![D-COSS](https://img.shields.io/badge/🤖_D--COSS-AI%20Capacity%20Building%20Completion-FFD93D?style=for-the-badge) | **D-COSS 인공지능 활용 역량강화 - 수료**<br/>• Program: AI application skill enhancement<br/>• Technology: Latest AI technology mastery<br/>• Application: Practical implementation capabilities |
 
 </details>
 
@@ -189,7 +183,7 @@
 
 | Achievement | Details |
 |:---:|:---|
-| ![Robotics Club](https://img.shields.io/badge/🤖_Robotics&Coding_Club-Coding%20Instructor-6BCF7F?style=for-the-badge) | **로봇&코딩 클럽 - 코딩 교사 재직 (2025~)**<br>• Position: Currently serving as Coding Instructor<br>• Mission: Youth coding education and mentorship<br>• Specialty: Programming instruction<br>• Impact: Nurturing next-generation tech talent |
+| ![Robotics Club](https://img.shields.io/badge/🤖_Robotics&Coding_Club-Coding%20Instructor-6BCF7F?style=for-the-badge) | **로봇&코딩 클럽 - 코딩 교사 재직 (2025~)**<br/>• Position: Currently serving as Coding Instructor<br/>• Mission: Youth coding education and mentorship<br/>• Specialty: Programming instruction<br/>• Impact: Nurturing next-generation tech talent |
 
 </details>
 
@@ -200,9 +194,7 @@
 
 <!--Educational Projects Section-->
 <h2 align="center">
-  <img src="https://media.giphy.com/media/LaVp0AyqR5bGsC5Cbm/giphy.gif" width="50">
-  Educational Impact & Student Projects
-  <img src="https://media.giphy.com/media/LaVp0AyqR5bGsC5Cbm/giphy.gif" width="50">
+  📚 Educational Impact & Student Projects 📚
 </h2>
 
 <div align="center">
@@ -215,12 +207,12 @@
           <img src="https://img.shields.io/badge/🩹_AI_Smart_Bandage-Healthcare%20Innovation-brightgreen?style=for-the-badge" />
         </td>
         <td align="left">
-          <strong>AI-Powered Smart Bandage Assessment Tool</strong><br>
-          -  <strong>Period:</strong> April 14-21, 2025 (7-day intensive sprint)<br>
-          -  <strong>Type:</strong> 1:1 Educational mentoring with pre-med student<br>
-          -  <strong>Innovation:</strong> QR-coded bandage packaging + AI web platform<br>
-          -  <strong>Tech Stack:</strong> Python Flask, Google Gemini Vision API, HTML/CSS/JS<br>
-          -  <strong>Repository:</strong> <a href="https://github.com/SUNWOOKLEE04/ai-wound-assessment-tool">ai-wound-assessment-tool</a>
+          <strong>AI-Powered Smart Bandage Assessment Tool</strong><br/>
+          • <strong>Period:</strong> April 14-21, 2025 (7-day intensive sprint)<br/>
+          • <strong>Type:</strong> 1:1 Educational mentoring with pre-med student<br/>
+          • <strong>Innovation:</strong> QR-coded bandage packaging + AI web platform<br/>
+          • <strong>Tech Stack:</strong> Python Flask, Google Gemini Vision API, HTML/CSS/JS<br/>
+          • <strong>Repository:</strong> <a href="https://github.com/SUNWOOKLEE04/ai-wound-assessment-tool">ai-wound-assessment-tool</a>
         </td>
       </tr>
       <tr>
@@ -228,13 +220,13 @@
           <img src="https://img.shields.io/badge/📖_Educational_Impact-Knowledge%20Transfer-blue?style=for-the-badge" />
         </td>
         <td align="left">
-          <strong>Learning Outcomes & Mentoring Impact</strong><br>
-          -  <strong>Methodology:</strong> Hands-on project-based learning approach<br>
-          -  <strong>Student Growth:</strong> From concept to working prototype with presentation<br>
-          -  <strong>Skills Developed:</strong> AI integration, web development, product thinking<br>
-          -  <strong>Real-world Application:</strong> Physical product + digital solution integration<br>
-          -  <strong>Educational Value:</strong> Bridging healthcare and technology sectors<br>
-          -  <strong>Timeline Success:</strong> Complete solution in 7-day sprint format
+          <strong>Learning Outcomes & Mentoring Impact</strong><br/>
+          • <strong>Methodology:</strong> Hands-on project-based learning approach<br/>
+          • <strong>Student Growth:</strong> From concept to working prototype with presentation<br/>
+          • <strong>Skills Developed:</strong> AI integration, web development, product thinking<br/>
+          • <strong>Real-world Application:</strong> Physical product + digital solution integration<br/>
+          • <strong>Educational Value:</strong> Bridging healthcare and technology sectors<br/>
+          • <strong>Timeline Success:</strong> Complete solution in 7-day sprint format
         </td>
       </tr>
     </table>
@@ -253,12 +245,12 @@
           <img src="https://img.shields.io/badge/🏀_Student_Portfolio-Web%20Development-orange?style=for-the-badge" />
         </td>
         <td align="left">
-          <strong>Collaborative Student Portfolio Website</strong><br>
-          -  <strong>Period:</strong> Semester Project 2025(~May)<br>
-          -  <strong>Type:</strong> Team-based educational project (3 students)<br>
-          -  <strong>Innovation:</strong> Multi-student portfolio with integrated basketball sub-project<br>
-          -  <strong>Tech Stack:</strong> HTML5, CSS3, JavaScript, Responsive Design<br>
-          -  <strong>Repository:</strong> <a href="https://github.com/SUNWOOKLEE04/student-portfolio">student-portfolio</a>
+          <strong>Collaborative Student Portfolio Website</strong><br/>
+          • <strong>Period:</strong> Semester Project 2025(~May)<br/>
+          • <strong>Type:</strong> Team-based educational project (3 students)<br/>
+          • <strong>Innovation:</strong> Multi-student portfolio with integrated basketball sub-project<br/>
+          • <strong>Tech Stack:</strong> HTML5, CSS3, JavaScript, Responsive Design<br/>
+          • <strong>Repository:</strong> <a href="https://github.com/SUNWOOKLEE04/student-portfolio">student-portfolio</a>
         </td>
       </tr>
       <tr>
@@ -266,13 +258,13 @@
           <img src="https://img.shields.io/badge/🎓_Educational_Impact-Team%20Collaboration-purple?style=for-the-badge" />
         </td>
         <td align="left">
-          <strong>Learning Outcomes & Project Structure</strong><br>
-          -  <strong>Methodology:</strong> Collaborative web development with individual sections<br>
-          -  <strong>Student Growth:</strong> Full-stack web development skills and teamwork<br>
-          -  <strong>Skills Developed:</strong> HTML/CSS/JS, responsive design, project management<br>
-          -  <strong>Features:</strong> 10+ pages including portfolio, gallery, skills, awards<br>
-          -  <strong>Educational Value:</strong> Real-world web development experience<br>
-          -  <strong>Special Feature:</strong> Integrated basketball information website
+          <strong>Learning Outcomes & Project Structure</strong><br/>
+          • <strong>Methodology:</strong> Collaborative web development with individual sections<br/>
+          • <strong>Student Growth:</strong> Full-stack web development skills and teamwork<br/>
+          • <strong>Skills Developed:</strong> HTML/CSS/JS, responsive design, project management<br/>
+          • <strong>Features:</strong> 10+ pages including portfolio, gallery, skills, awards<br/>
+          • <strong>Educational Value:</strong> Real-world web development experience<br/>
+          • <strong>Special Feature:</strong> Integrated basketball information website
         </td>
       </tr>
     </table>
@@ -283,9 +275,7 @@
 
 <!--Currently Learning-->
 <h2 align="center">
-  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35">
-  Current Learning Focus
-  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35">
+  📖 Current Learning Focus 📖
 </h2>
 <div align="center">
   <img src="https://img.shields.io/badge/IT%20Strategic%20Planning-9932CC?style=for-the-badge&logo=strategy&logoColor=white" />&nbsp
@@ -334,9 +324,7 @@
 
 <!--Connect-->
 <h2 align="center">
-  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60">
-  Let's Connect
-  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60">
+  🤝 Let's Connect 🤝
 </h2>
 
 <div align="center">
