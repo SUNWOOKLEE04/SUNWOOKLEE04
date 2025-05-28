@@ -150,11 +150,8 @@
 </h2>
 
 <div align="center">
-  <details>
-    <summary><h3>📋 Complete Professional Journey</h3></summary>
-    
-<details>
-<summary><strong>🏆 2021 - Foundation & Competitive Excellence</strong></summary>
+  
+## 🏆 2021 - Foundation & Competitive Excellence
 
 | Achievement | Details |
 |:---:|:---|
@@ -163,10 +160,9 @@
 | ![Sports Data](https://img.shields.io/badge/⚽_Sports_Data_Competition-Prize%20Winner%20\|%20Team%20Leader-45B7D1?style=for-the-badge) | **체육종합 데이터 활용 경진대회 - 입상 (팀장)**<br/>• Role: Team Leader & Data Strategy Planning<br/>• Project: **Adaptive Sports Recommendation System for People with Disabilities**<br/>• Innovation: Personalized sports activity recommendations through disability big data analysis<br/>• Technology: Machine learning-based personalized recommendation algorithms<br/>• Leadership: Integrated management of data analysis and app development teams<br/>• Impact: Enhanced sports accessibility and health promotion solutions for disabled individuals |
 | ![PNU Datathon](https://img.shields.io/badge/📊_PNU_Datathon-Participant-96CEB4?style=for-the-badge) | **PNU 데이터톤 - 참여**<br/>• Event: University-level data science competition<br/>• Experience: Collaborative team project execution<br/>• Learning: Real-world data science applications |
 
-</details>
+---
 
-<details>
-<summary><strong>🚀 2024 - Strategic Growth & Professional Development</strong></summary>
+## 🚀 2024 - Strategic Growth & Professional Development
 
 | Achievement | Details |
 |:---:|:---|
@@ -176,21 +172,18 @@
 | ![DSAC](https://img.shields.io/badge/🎓_DSAC_M2/M3-Certificate%20Completion-A8E6CF?style=for-the-badge) | **DSAC M2/M3 - 수료**<br/>• Focus: Advanced data science methodologies<br/>• Learning: Cutting-edge analysis techniques<br/>• Project: Real-world practical applications |
 | ![D-COSS](https://img.shields.io/badge/🤖_D--COSS-AI%20Capacity%20Building%20Completion-FFD93D?style=for-the-badge) | **D-COSS 인공지능 활용 역량강화 - 수료**<br/>• Program: AI application skill enhancement<br/>• Technology: Latest AI technology mastery<br/>• Application: Practical implementation capabilities |
 
-</details>
+---
 
-<details>
-<summary><strong>👨‍🏫 2025 - Leadership & Knowledge Transfer</strong></summary>
+## 👨‍🏫 2025 - Leadership & Knowledge Transfer
 
 | Achievement | Details |
 |:---:|:---|
 | ![Robotics Club](https://img.shields.io/badge/🤖_Robotics&Coding_Club-Coding%20Instructor-6BCF7F?style=for-the-badge) | **로봇&코딩 클럽 - 코딩 교사 재직 (2025~)**<br/>• Position: Currently serving as Coding Instructor<br/>• Mission: Youth coding education and mentorship<br/>• Specialty: Programming instruction<br/>• Impact: Nurturing next-generation tech talent |
 
-</details>
-
-  </details>
 </div>
 
 <br>
+
 
 <!--Educational Projects Section-->
 <h2 align="center">
