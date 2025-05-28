@@ -151,39 +151,43 @@
 
 <div align="center">
   
-## 🏆 2021 - Foundation & Competitive Excellence
+<details>
+<summary><h3>🏆 2021 - Foundation & Competitive Excellence</h3></summary>
 
 | Achievement | Details |
 |:---:|:---|
-| ![Busan AI](https://img.shields.io/badge/🏆_Busan_AI_Competition-Future%20Education%20Director's%20Award%20\|%20Team%20Leader-FF6B6B?style=for-the-badge) | **부산 AI 경진대회 - 미래교육원장상 입상 (팀장)**<br/>• Role: Team Leader & Technical Strategy Planning<br/>• Project: **AI Camera-based Physical Education Attendance System**<br/>• Innovation: COVID-era solution - Camera recognition of physical activities for automatic attendance<br/>• Achievement: Innovative solution for physical education in remote learning environments<br/>• Leadership: Cross-functional team coordination and strategic planning<br/>• Impact: Practical solution for educational digital transformation era |
-| ![ICT Hackathon](https://img.shields.io/badge/🎨_6th_ICT_Hackathon-Design%20Excellence%20Award%20\|%20Team%20Leader-4ECDC4?style=for-the-badge) | **제6회 ICT 융합 해커톤 - 디자인상 입상 (팀장)**<br/>• Role: Team Leader & UX Strategy Director<br/>• Project: **Intelligent Kiosk for Visually Impaired Users**<br/>• Innovation: Development of intelligent kiosk for visually impaired users<br/>• Features: Voice recognition, Braille support, accessibility-focused UI/UX design<br/>• Leadership: Integrated management of design-development-planning teams<br/>• Impact: Enhanced social value through improved digital accessibility |
-| ![Sports Data](https://img.shields.io/badge/⚽_Sports_Data_Competition-Prize%20Winner%20\|%20Team%20Leader-45B7D1?style=for-the-badge) | **체육종합 데이터 활용 경진대회 - 입상 (팀장)**<br/>• Role: Team Leader & Data Strategy Planning<br/>• Project: **Adaptive Sports Recommendation System for People with Disabilities**<br/>• Innovation: Personalized sports activity recommendations through disability big data analysis<br/>• Technology: Machine learning-based personalized recommendation algorithms<br/>• Leadership: Integrated management of data analysis and app development teams<br/>• Impact: Enhanced sports accessibility and health promotion solutions for disabled individuals |
-| ![PNU Datathon](https://img.shields.io/badge/📊_PNU_Datathon-Participant-96CEB4?style=for-the-badge) | **PNU 데이터톤 - 참여**<br/>• Event: University-level data science competition<br/>• Experience: Collaborative team project execution<br/>• Learning: Real-world data science applications |
+| ![Busan AI](https://img.shields.io/badge/🏆_Busan_AI_Competition-Future%20Education%20Director's%20Award%20\|%20Team%20Leader-FF6B6B?style=for-the-badge) | **Busan AI Competition - Future Education Director's Award (Team Leader)**<br/>• Role: Team Leader & Technical Strategy Planning<br/>• Project: **AI Camera-based Physical Education Attendance System**<br/>• Innovation: COVID-era solution - Camera recognition of physical activities for automatic attendance<br/>• Achievement: Innovative solution for physical education in remote learning environments<br/>• Leadership: Cross-functional team coordination and strategic planning<br/>• Impact: Practical solution for educational digital transformation era |
+| ![ICT Hackathon](https://img.shields.io/badge/🎨_6th_ICT_Hackathon-Design%20Excellence%20Award%20\|%20Team%20Leader-4ECDC4?style=for-the-badge) | **6th ICT Convergence Hackathon - Design Excellence Award (Team Leader)**<br/>• Role: Team Leader & UX Strategy Director<br/>• Project: **Intelligent Kiosk for Visually Impaired Users**<br/>• Innovation: Development of intelligent kiosk for visually impaired users<br/>• Features: Voice recognition, Braille support, accessibility-focused UI/UX design<br/>• Leadership: Integrated management of design-development-planning teams<br/>• Impact: Enhanced social value through improved digital accessibility |
+| ![Sports Data](https://img.shields.io/badge/⚽_Sports_Data_Competition-Prize%20Winner%20\|%20Team%20Leader-45B7D1?style=for-the-badge) | **Sports Comprehensive Data Utilization Competition - Prize Winner (Team Leader)**<br/>• Role: Team Leader & Data Strategy Planning<br/>• Project: **Adaptive Sports Recommendation System for People with Disabilities**<br/>• Innovation: Personalized sports activity recommendations through disability big data analysis<br/>• Technology: Machine learning-based personalized recommendation algorithms<br/>• Leadership: Integrated management of data analysis and app development teams<br/>• Impact: Enhanced sports accessibility and health promotion solutions for disabled individuals |
+| ![PNU Datathon](https://img.shields.io/badge/📊_PNU_Datathon-Participant-96CEB4?style=for-the-badge) | **PNU Datathon - Participant**<br/>• Event: University-level data science competition<br/>• Experience: Collaborative team project execution<br/>• Learning: Real-world data science applications |
 
----
+</details>
 
-## 🚀 2024 - Strategic Growth & Professional Development
+<details>
+<summary><h3>🚀 2024 - Strategic Growth & Professional Development</h3></summary>
 
 | Achievement | Details |
 |:---:|:---|
-| ![CAHLP](https://img.shields.io/badge/🏢_CAHLP_Company-Professional%20Activity-FF9FF3?style=for-the-badge) | **CAHLP Company - 활동**<br/>• Role: IT Strategy Development & Implementation<br/>• Responsibility: Technology roadmap planning<br/>• Achievement: Enhanced organizational IT capabilities |
+| ![CAHLP](https://img.shields.io/badge/🏢_CAHLP_Company-Professional%20Activity-FF9FF3?style=for-the-badge) | **CAHLP Company - Professional Activity**<br/>• Role: IT Strategy Development & Implementation<br/>• Responsibility: Technology roadmap planning<br/>• Achievement: Enhanced organizational IT capabilities |
 | ![CEBU](https://img.shields.io/badge/🌏_CEBU_LCIC-International%20Experience-F9CA24?style=for-the-badge) | **CEBU LCIC University - International Experience**<br/>• Duration: July 2024 ~ August 2024<br/>• Focus: Global IT trends & cross-cultural communication<br/>• Growth: International IT market understanding |
-| ![K-ICT Week](https://img.shields.io/badge/💻_K--ICT_Week_Busan-Exhibition%20Booth%20Operation-6C5CE7?style=for-the-badge) | **K-ICT Week in Busan / IT EXPO - 부스 운영**<br/>• Role: Technology strategy presentation & networking<br/>• Activity: Technology trend presentation<br/>• Impact: Networking and technology promotion |
-| ![DSAC](https://img.shields.io/badge/🎓_DSAC_M2/M3-Certificate%20Completion-A8E6CF?style=for-the-badge) | **DSAC M2/M3 - 수료**<br/>• Focus: Advanced data science methodologies<br/>• Learning: Cutting-edge analysis techniques<br/>• Project: Real-world practical applications |
-| ![D-COSS](https://img.shields.io/badge/🤖_D--COSS-AI%20Capacity%20Building%20Completion-FFD93D?style=for-the-badge) | **D-COSS 인공지능 활용 역량강화 - 수료**<br/>• Program: AI application skill enhancement<br/>• Technology: Latest AI technology mastery<br/>• Application: Practical implementation capabilities |
+| ![K-ICT Week](https://img.shields.io/badge/💻_K--ICT_Week_Busan-Exhibition%20Booth%20Operation-6C5CE7?style=for-the-badge) | **K-ICT Week in Busan / IT EXPO - Exhibition Booth Operation**<br/>• Role: Technology strategy presentation & networking<br/>• Activity: Technology trend presentation<br/>• Impact: Networking and technology promotion |
+| ![DSAC](https://img.shields.io/badge/🎓_DSAC_M2/M3-Certificate%20Completion-A8E6CF?style=for-the-badge) | **DSAC M2/M3 - Certificate Completion**<br/>• Focus: Advanced data science methodologies<br/>• Learning: Cutting-edge analysis techniques<br/>• Project: Real-world practical applications |
+| ![D-COSS](https://img.shields.io/badge/🤖_D--COSS-AI%20Capacity%20Building%20Completion-FFD93D?style=for-the-badge) | **D-COSS AI Utilization Capacity Building - Certificate Completion**<br/>• Program: AI application skill enhancement<br/>• Technology: Latest AI technology mastery<br/>• Application: Practical implementation capabilities |
 
----
+</details>
 
-## 👨‍🏫 2025 - Leadership & Knowledge Transfer
+<details>
+<summary><h3>👨‍🏫 2025 - Leadership & Knowledge Transfer</h3></summary>
 
 | Achievement | Details |
 |:---:|:---|
-| ![Robotics Club](https://img.shields.io/badge/🤖_Robotics&Coding_Club-Coding%20Instructor-6BCF7F?style=for-the-badge) | **로봇&코딩 클럽 - 코딩 교사 재직 (2025~)**<br/>• Position: Currently serving as Coding Instructor<br/>• Mission: Youth coding education and mentorship<br/>• Specialty: Programming instruction<br/>• Impact: Nurturing next-generation tech talent |
+| ![Robotics Club](https://img.shields.io/badge/🤖_Robotics&Coding_Club-Coding%20Instructor-6BCF7F?style=for-the-badge) | **Robotics & Coding Club - Coding Instructor (2025~)**<br/>• Position: Currently serving as Coding Instructor<br/>• Mission: Youth coding education and mentorship<br/>• Specialty: Programming instruction<br/>• Impact: Nurturing next-generation tech talent |
+
+</details>
 
 </div>
 
 <br>
-
 
 <!--Educational Projects Section-->
 <h2 align="center">
