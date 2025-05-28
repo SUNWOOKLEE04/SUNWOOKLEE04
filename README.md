@@ -174,6 +174,8 @@
 | ![CEBU](https://img.shields.io/badge/🌏_CEBU_LCIC-International%20Experience-F9CA24?style=for-the-badge) | **CEBU LCIC University - International Experience**<br/>• Duration: July 2024 ~ August 2024<br/>• Focus: Global IT trends & cross-cultural communication<br/>• Growth: International IT market understanding |
 | ![K-ICT Week](https://img.shields.io/badge/💻_K--ICT_Week_Busan-Exhibition%20Booth%20Operation-6C5CE7?style=for-the-badge) | **2024 K-ICT Week in BUSAN - Exhibition Participation (September 2024)**<br/>• Event: BEXCO Exhibition Center<br/>• Organization: Busan Digital Innovation Network Joint Pavilion<br/>• Role: Team member for technology demonstration and booth operation<br/>• Activity: Frontend technology showcase and networking<br/>• Impact: Industry networking and technology promotion |
 
+</details>
+
 <details>
 <summary><h3>👨‍🏫 2025 - Leadership & Knowledge Transfer</h3></summary>
 
