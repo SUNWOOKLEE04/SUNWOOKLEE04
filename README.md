@@ -190,7 +190,7 @@
 
 | Achievement | Details |
 |:---:|:---|
-| ![Robotics Club](https://img.shields.io/badge/🤖_Robotics&Coding_Club-Coding%20Instructor-6BCF7F?style=for-the-badge) | **로봇&코딩 클럽 - 코딩 교사 재직 (2025~)**<br>• Position: Currently serving as Coding Instructor<br>• Mission: Youth coding education and mentorship<br>• Specialty: Robotics programming instruction<br>• Impact: Nurturing next-generation tech talent |
+| ![Robotics Club](https://img.shields.io/badge/🤖_Robotics&Coding_Club-Coding%20Instructor-6BCF7F?style=for-the-badge) | **로봇&코딩 클럽 - 코딩 교사 재직 (2025~)**<br>• Position: Currently serving as Coding Instructor<br>• Mission: Youth coding education and mentorship<br>• Specialty: Programming instruction<br>• Impact: Nurturing next-generation tech talent |
 
 </details>
 
