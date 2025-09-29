@@ -182,8 +182,10 @@
 | Achievement | Details |
 |:---:|:---|
 | ![Robotics Club](https://img.shields.io/badge/🤖_Robotics&Coding_Club-Coding%20Instructor-6BCF7F?style=for-the-badge) | **Robotics & Coding Club - Coding Instructor (2025~)**<br/>• Position: Currently serving as Coding Instructor<br/>• Mission: Youth coding education and mentorship<br/>• Specialty: Programming instruction<br/>• Impact: Nurturing next-generation tech talent |
+| ![PHALANX](https://img.shields.io/badge/🛡️_PHALANX_Club-Strategic%20Planning%20\|%20Sep%202025~-FF4B4B?style=for-the-badge) | **PHALANX Club - Strategic Planning Activity (September 2025~)**<br/>• Position: Strategic Planning & Development<br/>• Mission: Club strategic direction and activity planning<br/>• Focus: Organizational development and strategic initiatives<br/>• Platform: <a href="https://www.instagram.com/phalanx.club/">PHALANX Club Instagram</a><br/>• Impact: Leadership development and strategic thinking application |
 
 </details>
+
 
 </div>
 
@@ -267,6 +269,43 @@
     </table>
   </details>
 </div>
+
+<div align="center">
+  <details>
+    <summary><h3>🎮 Python RPG Text Game Educational Project</h3></summary>
+    <br>
+    <table>
+      <tr>
+        <td align="center" width="350">
+          <img src="https://img.shields.io/badge/🎮_Python_RPG-Educational%20Mentoring-red?style=for-the-badge" />
+        </td>
+        <td align="left">
+          <strong>Python RPG Text Game - Student Mentoring Project</strong><br/>
+          • <strong>Student:</strong> Daniel Choi<br/>
+          • <strong>Type:</strong> Python fundamentals educational project<br/>
+          • <strong>Innovation:</strong> Console-based turn-based RPG game<br/>
+          • <strong>Tech Stack:</strong> Python (pure implementation)<br/>
+          • <strong>Repository:</strong> <a href="https://github.com/Daniel-choi-11/Python-RPG-text-game">Python-RPG-text-game</a>
+        </td>
+      </tr>
+      <tr>
+        <td align="center">
+          <img src="https://img.shields.io/badge/📖_Educational_Impact-Python%20Fundamentals-blue?style=for-the-badge" />
+        </td>
+        <td align="left">
+          <strong>Learning Outcomes & Game Features</strong><br/>
+          • <strong>Methodology:</strong> Learn-by-building approach with game development<br/>
+          • <strong>Student Growth:</strong> Python basics through engaging RPG mechanics<br/>
+          • <strong>Skills Developed:</strong> Classes, dictionaries, conditionals, loops, OS module<br/>
+          • <strong>Game Features:</strong> 4 job classes, monster battles, stat progression<br/>
+          • <strong>Educational Value:</strong> Practical programming through interactive gameplay<br/>
+          • <strong>Implementation:</strong> Turn-based combat system with character progression
+        </td>
+      </tr>
+    </table>
+  </details>
+</div>
+
 
 <br>
 
