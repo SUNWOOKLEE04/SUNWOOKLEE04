@@ -23,9 +23,9 @@
 
 <h2>📑 Portfolio & Resume</h2>
 <a href="여기에_노션_포트폴리오_링크를_넣어주세요">
-  <img src="https://img.shields.io/badge/🚀_Click_Here_to_View_My_Notion_Portfolio_🚀-000000?style=for-the-badge&logo=notion&logoColor=white&labelColor=101010" height="55" alt="Notion Portfolio" />
+  <img src="https://img.shields.io/badge/View_My_Notion_Portfolio-000000?style=for-the-badge&logo=notion&logoColor=white&labelColor=101010" height="50" alt="Notion Portfolio" />
 </a>
-<p><em>👆 기획 산출물(PRD, 와이어프레임)과 상세한 문제 해결 과정을 확인해 보세요! / Check out my PRDs and Wireframes!</em></p>
+<p><em>👉 View detailed PRDs, Wireframes, and Case Studies.</em></p>
 
 <br>
 
@@ -98,48 +98,48 @@
 
 <table>
   <tr>
-    <td align="center" width="20%"><img src="https://img.shields.io/badge/🏆_Busan_AI_Competition-Award_Winner-FF6B6B?style=for-the-badge" /></td>
+    <td align="center" width="20%"><img src="https://img.shields.io/badge/Busan_AI_Competition-Award_Winner-FF6B6B?style=for-the-badge" /></td>
     <td width="80%">
       <h4>AI Camera-based PE Attendance System (PM)</h4>
-      <strong>🎯 Problem (문제 정의)</strong><br/>
-      🇰🇷 비대면 체육 수업의 출결 관리 한계 및 학생 활동량 저하 문제<br/>
-      🇺🇸 Limitations in remote PE attendance tracking & reduced student activity<br/><br/>
-      <strong>💡 Strategy & Execution (전략 및 실행)</strong><br/>
-      🇰🇷 AI 모션 인식 기반 자동 출결 비즈니스 로직 기획 및 팀(개발/디자인) 일정 조율<br/>
-      🇺🇸 Planned AI motion-based logic & coordinated cross-functional sprints<br/><br/>
-      <strong>📈 Impact (성과)</strong><br/>
-      🇰🇷 에듀테크 솔루션 실효성 입증 → <b>교육감상 수상</b> 🏆<br/>
-      🇺🇸 Proved EdTech viability → <b>Won Superintendent of Education Award</b>
+      <strong>🎯 Problem</strong><br/>
+      🇰🇷 비대면 체육 수업의 출결 관리 한계 및 학생 활동량 저하<br/>
+      🇺🇸 Inefficient remote PE attendance tracking & reduced student physical activity<br/><br/>
+      <strong>💡 Strategy & Execution</strong><br/>
+      🇰🇷 AI 모션 인식 기반 자동 출결 비즈니스 로직 기획 및 교차 직군(Dev/Design) 일정 리딩<br/>
+      🇺🇸 Designed AI motion-based logic & managed cross-functional team sprints<br/><br/>
+      <strong>📈 Impact</strong><br/>
+      🇰🇷 에듀테크 솔루션 MVP 실효성 입증 ➔ <b>교육감상 수상</b><br/>
+      🇺🇸 Proved EdTech MVP viability ➔ <b>Won Superintendent of Education Award</b>
     </td>
   </tr>
   <tr>
-    <td align="center"><img src="https://img.shields.io/badge/🎨_ICT_Hackathon-Design_Award-4ECDC4?style=for-the-badge" /></td>
+    <td align="center"><img src="https://img.shields.io/badge/ICT_Hackathon-Design_Award-4ECDC4?style=for-the-badge" /></td>
     <td>
       <h4>Intelligent Kiosk for Visually Impaired Users (PM)</h4>
-      <strong>🎯 Problem (문제 정의)</strong><br/>
-      🇰🇷 시각장애인의 키오스크 접근성 부족 (페인포인트 도출)<br/>
-      🇺🇸 Lack of kiosk accessibility for visually impaired users<br/><br/>
-      <strong>💡 Strategy & Execution (전략 및 실행)</strong><br/>
-      🇰🇷 음성인식/점자 지원 중심의 배리어프리(Barrier-free) UI/UX 기획 및 프로토타입 리딩<br/>
-      🇺🇸 Led barrier-free UI/UX planning focusing on voice recognition & Braille<br/><br/>
-      <strong>📈 Impact (성과)</strong><br/>
-      🇰🇷 사회적 가치 창출 및 접근성 테스트 긍정적 피드백 → <b>디자인 우수상 수상</b> 🏆<br/>
-      🇺🇸 Created social value & received positive feedback → <b>Design Excellence Award</b>
+      <strong>🎯 Problem</strong><br/>
+      🇰🇷 시각장애인의 키오스크 접근성 부족 및 페인포인트(Pain-point) 도출<br/>
+      🇺🇸 Identified severe accessibility pain-points in public kiosks for visually impaired users<br/><br/>
+      <strong>💡 Strategy & Execution</strong><br/>
+      🇰🇷 음성인식/점자 지원 중심의 배리어프리(Barrier-free) UI/UX 기획 및 프로토타이핑<br/>
+      🇺🇸 Led barrier-free UI/UX planning focusing on voice command & Braille feedback<br/><br/>
+      <strong>📈 Impact</strong><br/>
+      🇰🇷 사회적 약자를 위한 UX 개선 검증 ➔ <b>디자인 우수상 수상</b><br/>
+      🇺🇸 Validated UX improvements for social inclusion ➔ <b>Design Excellence Award</b>
     </td>
   </tr>
   <tr>
-    <td align="center"><img src="https://img.shields.io/badge/⚽_Sports_Data-Prize_Winner-45B7D1?style=for-the-badge" /></td>
+    <td align="center"><img src="https://img.shields.io/badge/Sports_Data-Prize_Winner-45B7D1?style=for-the-badge" /></td>
     <td>
       <h4>Adaptive Sports Recommendation System (Data Strategist)</h4>
-      <strong>🎯 Problem (문제 정의)</strong><br/>
-      🇰🇷 장애인 개인 특성에 맞는 맞춤형 생활체육 정보 부족<br/>
-      🇺🇸 Lack of personalized sports information for individuals with disabilities<br/><br/>
-      <strong>💡 Strategy & Execution (전략 및 실행)</strong><br/>
-      🇰🇷 공공 빅데이터 기반 추천 알고리즘 서비스 플로우 설계 및 데이터-앱 개발팀 연결<br/>
-      🇺🇸 Designed recommendation service flow using big data & bridged Dev/Data teams<br/><br/>
-      <strong>📈 Impact (성과)</strong><br/>
-      🇰🇷 데이터 활용도 및 헬스케어 솔루션 가능성 인정 → <b>입상(Prize Winner)</b> 🏆<br/>
-      🇺🇸 Recognized for data utilization & healthcare potential → <b>Prize Winner</b>
+      <strong>🎯 Problem</strong><br/>
+      🇰🇷 장애인 개인 특성에 최적화된 맞춤형 생활체육 인프라 및 정보 부재<br/>
+      🇺🇸 Lack of personalized sports infrastructure data for individuals with disabilities<br/><br/>
+      <strong>💡 Strategy & Execution</strong><br/>
+      🇰🇷 공공 빅데이터 기반 추천 알고리즘 서비스 플로우 설계 및 데이터-앱 연동 기획<br/>
+      🇺🇸 Designed recommendation service flow using open data & bridged Dev/Data teams<br/><br/>
+      <strong>📈 Impact</strong><br/>
+      🇰🇷 데이터 활용성 및 헬스케어 확장성 입증 ➔ <b>입상(Prize Winner)</b><br/>
+      🇺🇸 Recognized for data utilization & healthcare scalability ➔ <b>Prize Winner</b>
     </td>
   </tr>
 </table>
@@ -151,15 +151,15 @@
 
 <table>
   <tr>
-    <td align="center" width="20%"><img src="https://img.shields.io/badge/🏢_CAHLP_Company-Tech_Strategist-FF9FF3?style=for-the-badge" /></td>
+    <td align="center" width="20%"><img src="https://img.shields.io/badge/CAHLP_Company-Tech_Strategist-FF9FF3?style=for-the-badge" /></td>
     <td width="80%">
       <h4>CAHLP Company (Tech Strategist & Developer)</h4>
-      <strong>🎯 Problem & Strategy (문제 및 전략)</strong><br/>
-      🇰🇷 관상어 산업 기업의 IT 역량 부족 → 기술 로드맵 기획 및 디지털 전환 주도<br/>
-      🇺🇸 Lack of IT capability in an ornamental fish company → Led digital transformation<br/><br/>
-      <strong>📈 Impact (성과)</strong><br/>
-      🇰🇷 효과적인 IT 기술 제안서 작성을 통해 <b>MOU 파트너십 체결 기여</b> 🤝<br/>
-      🇺🇸 Facilitated <b>MOU partnerships</b> through effective IT technical proposals
+      <strong>🎯 Problem & Strategy</strong><br/>
+      🇰🇷 관상어 산업 기업의 IT 역량 부재 ➔ 기술 로드맵 기획 및 프론트엔드 환경 구축 주도<br/>
+      🇺🇸 Addressed IT capability gaps in an ornamental fish company by leading digital transformation<br/><br/>
+      <strong>📈 Impact</strong><br/>
+      🇰🇷 타겟 맞춤형 IT 기술 제안서 도출을 통한 <b>MOU 파트너십 체결 기여</b><br/>
+      🇺🇸 Facilitated <b>strategic MOU partnerships</b> through tailored IT proposals
     </td>
   </tr>
 </table>
@@ -171,27 +171,27 @@
 
 <table>
   <tr>
-    <td align="center" width="20%"><img src="https://img.shields.io/badge/🩹_AI_Smart_Bandage-Product_Owner-brightgreen?style=for-the-badge" /></td>
+    <td align="center" width="20%"><img src="https://img.shields.io/badge/AI_Smart_Bandage-Product_Owner-brightgreen?style=for-the-badge" /></td>
     <td width="80%">
       <h4>AI-Powered Smart Bandage Platform (Product Owner)</h4>
-      <strong>🎯 Problem (문제 정의)</strong><br/>
-      🇰🇷 일반인의 초기 상처 상태 평가 및 대응의 어려움<br/>
-      🇺🇸 Difficulty in assessing and responding to initial wound conditions for the general public<br/><br/>
-      <strong>💡 Strategy & Execution (전략 및 실행)</strong><br/>
-      🇰🇷 7일 단기 스프린트(Agile) 도입, Google Gemini Vision API 활용 MVP 기능 정의<br/>
-      🇺🇸 Adopted 7-day Agile sprint, defined MVP using Google Gemini Vision API<br/><br/>
-      <strong>📈 Impact (성과)</strong><br/>
-      🇰🇷 실물 패키징(QR)과 디지털 웹 솔루션이 결합된 <b>프로토타입 성공적 런칭</b> 🚀<br/>
-      🇺🇸 Successfully launched a prototype combining physical QR packaging & web solution
+      <strong>🎯 Problem</strong><br/>
+      🇰🇷 의료 지식이 없는 일반인의 초기 상처 상태 평가 및 대응의 어려움<br/>
+      🇺🇸 Difficulty in assessing initial wound conditions for non-medical individuals<br/><br/>
+      <strong>💡 Strategy & Execution</strong><br/>
+      🇰🇷 7일 단기 스프린트(Agile) 도입, Google Gemini Vision API 연동 기반 MVP 정의<br/>
+      🇺🇸 Executed a 7-day Agile sprint, defining MVP via Google Gemini Vision API integration<br/><br/>
+      <strong>📈 Impact</strong><br/>
+      🇰🇷 실물 패키징(QR)과 디지털 웹 솔루션이 결합된 <b>프로토타입 런칭 완료</b><br/>
+      🇺🇸 Successfully launched a prototype merging physical QR packaging with a web platform
     </td>
   </tr>
   <tr>
-    <td align="center"><img src="https://img.shields.io/badge/🏀_Web_Platform-Scrum_Master-orange?style=for-the-badge" /></td>
+    <td align="center"><img src="https://img.shields.io/badge/Web_Platform-Scrum_Master-orange?style=for-the-badge" /></td>
     <td>
       <h4>Collaborative Student Portfolio Platform (Scrum Master)</h4>
-      <strong>💡 Execution & Impact (실행 및 성과)</strong><br/>
-      🇰🇷 3인 개발팀 리소스 관리, 화면 설계서 작성 및 일정 조율 (10+ 페이지 반응형 웹 완성)<br/>
-      🇺🇸 Managed 3-person dev team resources, created wireframes, completed 10+ page responsive web
+      <strong>💡 Execution & Impact</strong><br/>
+      🇰🇷 3인 개발팀 리소스 관리, 화면 설계(Wireframe) 작성 및 10+ 페이지 반응형 웹 퍼블리싱 리딩<br/>
+      🇺🇸 Managed dev resources, created wireframes, and led the publishing of a 10+ page responsive web
     </td>
   </tr>
 </table>
