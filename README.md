@@ -99,13 +99,13 @@
       <h4>AI Camera-based PE Attendance System (PM)</h4>
       <strong>🎯 Problem</strong><br/>
       🇰🇷 비대면 체육 수업의 출결 관리 한계 및 학생 활동량 저하<br/>
-      🇺🇸 Inefficient remote PE attendance tracking & reduced student physical activity<br/><br/>
+      🇺🇸 Addressed the limitations of remote PE attendance tracking and declining student physical activity.<br/><br/>
       <strong>💡 Strategy & Execution</strong><br/>
       🇰🇷 AI 모션 인식 기반 자동 출결 비즈니스 로직 기획 및 교차 직군(Dev/Design) 일정 리딩<br/>
-      🇺🇸 Designed AI motion-based logic & managed cross-functional team sprints<br/><br/>
+      🇺🇸 Designed the business logic for AI motion recognition and led cross-functional sprints across Dev and Design.<br/><br/>
       <strong>📈 Impact</strong><br/>
       🇰🇷 에듀테크 솔루션 MVP 실효성 입증 ➔ <b>교육감상 수상</b><br/>
-      🇺🇸 Proved EdTech MVP viability ➔ <b>Won Superintendent of Education Award</b>
+      🇺🇸 Validated the viability of the EdTech MVP ➔ <b>Won the Superintendent of Education Award</b>
     </td>
   </tr>
   <tr>
@@ -114,13 +114,13 @@
       <h4>Intelligent Kiosk for Visually Impaired Users (PM)</h4>
       <strong>🎯 Problem</strong><br/>
       🇰🇷 시각장애인의 키오스크 접근성 부족 및 페인포인트(Pain-point) 도출<br/>
-      🇺🇸 Identified severe accessibility pain-points in public kiosks for visually impaired users<br/><br/>
+      🇺🇸 Identified critical accessibility pain points for visually impaired users interacting with public kiosks.<br/><br/>
       <strong>💡 Strategy & Execution</strong><br/>
       🇰🇷 음성인식/점자 지원 배리어프리 UI/UX 기획 및 프로토타이핑 주도<br/>
-      🇺🇸 Led barrier-free UI/UX planning focusing on voice command & Braille feedback<br/><br/>
+      🇺🇸 Spearheaded barrier-free UI/UX prototyping, emphasizing voice recognition and Braille support.<br/><br/>
       <strong>📈 Impact</strong><br/>
       🇰🇷 사회적 약자를 위한 UX 개선 검증 ➔ <b>디자인 우수상 수상</b><br/>
-      🇺🇸 Validated UX improvements for social inclusion ➔ <b>Design Excellence Award</b><br/>
+      🇺🇸 Successfully validated UX improvements for marginalized groups ➔ <b>Design Excellence Award</b><br/>
       🔗 <strong>Link:</strong> <a href="https://github.com/SUNWOOKLEE04/Intelligent-Kiosk-System">Repository</a>
     </td>
   </tr>
@@ -130,13 +130,13 @@
       <h4>Adaptive Sports Recommendation System (Data Strategist)</h4>
       <strong>🎯 Problem</strong><br/>
       🇰🇷 장애인 개인 특성에 최적화된 맞춤형 생활체육 인프라 및 정보 부재<br/>
-      🇺🇸 Lack of personalized sports infrastructure data for individuals with disabilities<br/><br/>
+      🇺🇸 Addressed the absence of personalized sports infrastructure and information tailored for individuals with disabilities.<br/><br/>
       <strong>💡 Strategy & Execution</strong><br/>
       🇰🇷 공공 빅데이터 기반 추천 알고리즘 서비스 플로우 설계 및 데이터-앱 연동 기획<br/>
-      🇺🇸 Designed recommendation service flow using open data & bridged Dev/Data teams<br/><br/>
+      🇺🇸 Designed recommendation algorithms using public big data and orchestrated the data-to-app integration.<br/><br/>
       <strong>📈 Impact</strong><br/>
       🇰🇷 데이터 활용성 및 헬스케어 확장성 입증 ➔ <b>입상(Prize Winner)</b><br/>
-      🇺🇸 Recognized for data utilization & healthcare scalability ➔ <b>Prize Winner</b>
+      🇺🇸 Demonstrated high data utility and scalability in healthcare ➔ <b>Prize Winner</b>
     </td>
   </tr>
   <tr>
@@ -145,7 +145,7 @@
       <h4>PNU Datathon (Data Analyst)</h4>
       <strong>💡 Execution & Impact</strong><br/>
       🇰🇷 팀 단위 데이터 사이언스 실무 프로젝트 기획 및 데이터 인사이트 도출<br/>
-      🇺🇸 Executed collaborative data science projects and derived actionable insights
+      🇺🇸 Planned team-based data science projects and derived actionable business insights.
     </td>
   </tr>
 </table>
@@ -162,10 +162,10 @@
       <h4>CAHLP Company (Tech Strategist & Developer)</h4>
       <strong>🎯 Problem & Strategy</strong><br/>
       🇰🇷 관상어 산업 기업의 IT 역량 부재 ➔ 기술 로드맵 기획 및 프론트엔드 환경 구축 주도<br/>
-      🇺🇸 Addressed IT capability gaps in an ornamental fish company by leading digital transformation<br/><br/>
+      🇺🇸 Resolved IT capability gaps by establishing a technology roadmap and leading frontend infrastructure setup.<br/><br/>
       <strong>📈 Impact</strong><br/>
       🇰🇷 타겟 맞춤형 IT 기술 제안서 도출을 통한 <b>MOU 파트너십 체결 기여</b><br/>
-      🇺🇸 Facilitated <b>strategic MOU partnerships</b> through tailored IT proposals
+      🇺🇸 Facilitated <b>strategic MOU partnerships</b> by delivering targeted IT proposals.
     </td>
   </tr>
   <tr>
@@ -174,7 +174,7 @@
       <h4>Global Insights & B2B Networking</h4>
       <strong>💡 Execution & Impact</strong><br/>
       🇰🇷 글로벌 IT 트렌드 분석 (CEBU LCIC 연수) 및 자사 비즈니스 확장을 위한 B2B 네트워킹 (K-ICT Week BEXCO)<br/>
-      🇺🇸 Researched global IT trends in Cebu & conducted B2B networking at K-ICT Week
+      🇺🇸 Analyzed global IT trends (CEBU LCIC) and actively engaged in B2B networking to explore business expansion (K-ICT Week BEXCO).
     </td>
   </tr>
   <tr>
@@ -183,7 +183,7 @@
       <h4>Data & AI Capacity Building (DSAC & D-COSS)</h4>
       <strong>💡 Execution & Impact</strong><br/>
       🇰🇷 데이터 기반 의사결정을 위한 데이터 사이언스(DSAC M2/M3) 및 AI 활용 역량 강화 프로그램 수료<br/>
-      🇺🇸 Completed advanced certifications in data science and practical AI applications
+      🇺🇸 Completed Data Science (DSAC M2/M3) and AI proficiency programs to empower data-driven decision-making.
     </td>
   </tr>
 </table>
@@ -200,10 +200,10 @@
       <h4>AI-Powered Smart Bandage Platform (Product Owner)</h4>
       <strong>🎯 Problem & Strategy</strong><br/>
       🇰🇷 일반인의 초기 상처 상태 평가 한계 ➔ 7일 단기 스프린트(Agile)로 MVP 기능 정의 (Gemini Vision API 활용)<br/>
-      🇺🇸 Difficulty in assessing initial wounds ➔ 7-day Agile sprint to build MVP utilizing Google Gemini Vision API<br/><br/>
+      🇺🇸 Addressed limitations in consumer wound assessment ➔ Defined MVP features via a 7-day Agile sprint using the Gemini Vision API.<br/><br/>
       <strong>📈 Impact</strong><br/>
       🇰🇷 실물 패키징(QR)과 웹 솔루션이 결합된 <b>프로토타입 런칭 완료</b><br/>
-      🇺🇸 Successfully launched a prototype merging physical QR packaging with a web platform<br/>
+      🇺🇸 Successfully launched a prototype seamlessly integrating physical QR packaging with a web solution.<br/>
       🔗 <strong>Link:</strong> <a href="https://github.com/SUNWOOKLEE04/ai-wound-assessment-tool">Repository</a>
     </td>
   </tr>
@@ -213,7 +213,7 @@
       <h4>Collaborative Student Portfolio Platform (Scrum Master)</h4>
       <strong>💡 Execution & Impact</strong><br/>
       🇰🇷 3인 팀 리소스 관리, 와이어프레임 설계 및 10+ 페이지 반응형 웹 퍼블리싱 주도<br/>
-      🇺🇸 Managed dev resources, created wireframes, and led the publishing of a 10+ page responsive web<br/>
+      🇺🇸 Managed resources for a 3-person team, designed wireframes, and led the deployment of a 10+ page responsive web platform.<br/>
       🔗 <strong>Link:</strong> <a href="https://github.com/SUNWOOKLEE04/student-portfolio">Repository</a>
     </td>
   </tr>
@@ -223,7 +223,7 @@
       <h4>Python RPG Text Game (Technical Mentor)</h4>
       <strong>💡 Execution & Impact</strong><br/>
       🇰🇷 파이썬 기초 역량 강화를 위한 턴제 RPG 게임 로직 설계 및 1:1 멘토링 주도<br/>
-      🇺🇸 Mentored a student in Python fundamentals via turn-based RPG game system design<br/>
+      🇺🇸 Designed turn-based RPG logic and provided 1:1 technical mentoring to strengthen foundational Python skills.<br/>
       🔗 <strong>Link:</strong> <a href="https://github.com/Daniel-choi-11/Python-RPG-text-game">Repository</a>
     </td>
   </tr>
@@ -233,7 +233,7 @@
       <h4>Educational Leadership & Strategic Planning</h4>
       <strong>💡 Execution & Impact</strong><br/>
       🇰🇷 코딩 강사(Robotics Club) 활동 및 기획 동아리(PHALANX) 전략 방향 수립<br/>
-      🇺🇸 Coding instructor at Robotics Club & strategic planner at PHALANX Club<br/>
+      🇺🇸 Served as a coding instructor (Robotics Club) and established strategic directions for the PHALANX planning club.<br/>
       🔗 <strong>Link:</strong> <a href="https://www.instagram.com/phalanx.club/">PHALANX Instagram</a>
     </td>
   </tr>
