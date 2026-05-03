@@ -21,8 +21,8 @@
 
 <br>
 
-<h2>📑 Portfolio & Resume</h2>
-<a href="https://www.notion.so/0b9cebd74e48834eb7ca01a008be2ea4?source=copy_link">
+<h2>📑 Portfolio & Resume (WIP)</h2>
+<a href="notyethttps://www.notion.so/0b9cebd74e48834eb7ca01a008be2ea4?source=copy_link">
   <img src="https://img.shields.io/badge/View_My_Notion_Portfolio-000000?style=for-the-badge&logo=notion&logoColor=white&labelColor=101010" height="50" alt="Notion Portfolio" />
 </a>
 <p><em>👉 View detailed PRDs, Wireframes, and Case Studies.</em></p>
