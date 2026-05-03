@@ -144,7 +144,7 @@
     <td>
       <h4>PNU Datathon (Data Analyst)</h4>
       <strong>💡 Execution & Impact</strong><br/>
-      🇰🇷 팀 단위 데이터 사이언스 실무 프로젝트 기획 및 데이터 인사이트 도출<br/>
+      🇰🇷 팀 단위 데이터 사이언 실무 프로젝트 기획 및 데이터 인사이트 도출<br/>
       🇺🇸 Planned team-based data science projects and derived actionable business insights.
     </td>
   </tr>
@@ -235,6 +235,32 @@
       🇰🇷 코딩 강사(Robotics Club) 활동 및 기획 동아리(PHALANX) 전략 방향 수립<br/>
       🇺🇸 Served as a coding instructor (Robotics Club) and established strategic directions for the PHALANX planning club.<br/>
       🔗 <strong>Link:</strong> <a href="https://www.instagram.com/phalanx.club/">PHALANX Instagram</a>
+    </td>
+  </tr>
+</table>
+
+</details>
+
+<details open>
+<summary><h3>🌐 2026 - Global Product Strategy & Data-Driven UX</h3></summary>
+
+<table>
+  <tr>
+    <td align="center" width="20%"><img src="https://img.shields.io/badge/Planfit_Strategy-PHALANX_Club-0052CC?style=for-the-badge" /></td>
+    <td width="80%">
+      <h4>Planfit: Global User Retention & Social Feature Strategy (Product Strategist)</h4>
+      <strong>🎯 Focus & Strategy</strong><br/>
+      🇰🇷 글로벌 피트니스 앱 '플랜핏(Planfit)'의 미국 시장 진입 및 유저 리텐션 강화를 위한 '지속 가능한 운동 구조' 기획<br/>
+      🇺🇸 Devised product strategies for the global fitness app 'Planfit' to penetrate the US market and build sustainable user habits.<br/><br/>
+      <strong>💡 Execution & PRD Series</strong><br/>
+      🇰🇷 '고스트 싱크(Ghost Sync)', '달성률 동기화' 등 데이터 기반의 비동기적(Asynchronous) 소셜 기능 기획 및 5주간의 전략 아티클 연재<br/>
+      🇺🇸 Planned data-driven asynchronous social features like 'Ghost Sync' and published a 5-part series of strategic PM articles.<br/><br/>
+      <strong>🔗 Published Articles (PHALANX):</strong><br/>
+      • <a href="https://phalanx-club.tistory.com/2754">2026.03.08 | 글로벌 유저 40%를 위한 '지속 가능한 운동 구조' 기획</a><br/>
+      • <a href="https://phalanx-club.tistory.com/2769">2026.03.14 | 데이터만으로 '함께함'을 증명하다</a><br/>
+      • <a href="https://phalanx-club.tistory.com/2787">2026.03.21 | 미국 시장 진입을 위한 '고스트 싱크'의 기술적 실체화</a><br/>
+      • <a href="https://phalanx-club.tistory.com/2823">2026.03.29 | '속도 경쟁'에서 '달성률 동기화'로</a><br/>
+      • <a href="https://phalanx-club.tistory.com/2845">2026.04.04 | 데이터는 어떻게 고립된 유저를 연결하는가?</a>
     </td>
   </tr>
 </table>
