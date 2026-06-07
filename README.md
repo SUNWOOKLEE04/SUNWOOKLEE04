@@ -255,12 +255,6 @@
       <strong>💡 Execution & PRD Series</strong><br/>
       🇰🇷 '고스트 싱크(Ghost Sync)', '달성률 동기화' 등 데이터 기반의 비동기적(Asynchronous) 소셜 기능 기획 및 5주간의 전략 아티클 연재<br/>
       🇺🇸 Planned data-driven asynchronous social features like 'Ghost Sync' and published a 5-part series of strategic PM articles.<br/><br/>
-      <strong>🔗 Published Articles (PHALANX):</strong><br/>
-      • <a href="https://phalanx-club.tistory.com/2754">2026.03.08 | 글로벌 유저 40%를 위한 '지속 가능한 운동 구조' 기획</a><br/>
-      • <a href="https://phalanx-club.tistory.com/2769">2026.03.14 | 데이터만으로 '함께함'을 증명하다</a><br/>
-      • <a href="https://phalanx-club.tistory.com/2787">2026.03.21 | 미국 시장 진입을 위한 '고스트 싱크'의 기술적 실체화</a><br/>
-      • <a href="https://phalanx-club.tistory.com/2823">2026.03.29 | '속도 경쟁'에서 '달성률 동기화'로</a><br/>
-      • <a href="https://phalanx-club.tistory.com/2845">2026.04.04 | 데이터는 어떻게 고립된 유저를 연결하는가?</a>
     </td>
   </tr>
 </table>
