@@ -39,12 +39,20 @@
 <tr>
 <td valign="top">
 
-가설을 세우고, 실험으로 검증하고, 데이터로 다음 방향을 정하는 일을 좋아하는 **프로덕트 매니저** 지망생입니다. 사용자의 문제를 발견해 기획으로 풀어내는 동시에, 개발/디자인 팀과 같은 언어로 대화할 수 있도록 기술 이해력도 꾸준히 쌓고 있어요. 국내 채용뿐 아니라 해외 진출까지 염두에 두고 커리어를 준비하고 있습니다.
+가설을 세우고, 실험으로 검증하고, 데이터로 다음 방향을 정하는 일을 좋아하는 **프로덕트 매니저** 지망생입니다.
+
+사용자의 문제를 발견해 기획으로 풀어내는 동시에, 개발/디자인 팀과 같은 언어로 대화할 수 있도록 기술 이해력도 꾸준히 쌓고 있어요.
+
+국내 채용뿐 아니라 해외 진출까지 염두에 두고 커리어를 준비하고 있습니다.
 
 </td>
 <td valign="top">
 
-Aspiring **Product Manager** who bridges technology and users. I enjoy designing and running the full growth loop — hypothesis validation → data collection → insight generation — and I actively build technical fluency to collaborate closely with engineering and design teams. Currently exploring opportunities both in Korea and globally.
+Aspiring **Product Manager** who bridges technology and users.
+
+I enjoy designing and running the full growth loop — hypothesis validation → data collection → insight generation — and I actively build technical fluency to collaborate closely with engineering and design teams.
+
+Currently exploring opportunities both in Korea and globally.
 
 </td>
 </tr>
@@ -88,8 +96,8 @@ Aspiring **Product Manager** who bridges technology and users. I enjoy designing
 <td align="center"><b>2025.02~</b></td>
 <td>Robotics & Coding Club</td>
 <td align="center">Coding Instructor<br/><sub>(Ongoing)</sub></td>
-<td>학생 <b>USACO·AI SW 사고력대회</b> 출전 코칭 · 다수 프로젝트 지도</td>
-<td>Coached a student to <b>USACO & AI SW competitions</b> · mentored multiple student projects</td>
+<td>학생 <b>USACO / AI SW 사고력대회</b> 출전 코칭 · 다수 프로젝트 지도</td>
+<td>Coached a student for <b>USACO & AI SW competitions</b> · mentored multiple student projects</td>
 </tr>
 <tr>
 <td align="center"><b>2024</b></td>
@@ -114,7 +122,11 @@ Aspiring **Product Manager** who bridges technology and users. I enjoy designing
 </tr>
 </table>
 
-<sub>전체 배경과 과정은 아래 <b>Journey</b>에서 프로젝트별로 확인할 수 있습니다 · Full context for each project is available below in <b>Journey</b>.</sub>
+<div align="center">
+<sub>전체 배경과 과정은 아래 <b>Journey</b>에서 프로젝트별로 확인할 수 있습니다.</sub>
+<br/>
+<sub>Full context for each project is available below in <b>Journey</b>.</sub>
+</div>
 
 <br>
 
@@ -167,7 +179,7 @@ Aspiring **Product Manager** who bridges technology and users. I enjoy designing
 > 🇺🇸 Each card leads with status badges, then splits into 🇰🇷 / 🇺🇸 columns so role and impact are visible at a glance the moment you expand it.
 
 <details open>
-<summary><h3>🌐 2026 · Global Product Strategy & Applied AI</h3></summary>
+<summary align="center"><h3>🌐 2026 · Global Product Strategy & Applied AI</h3></summary>
 
 <table>
 <tr>
@@ -186,28 +198,34 @@ Aspiring **Product Manager** who bridges technology and users. I enjoy designing
 <td valign="top">
 
 **개요**
+
 인공지능그랜드ICT연구센터 주관, 부산정보산업진흥원 주최 160시간(8h×5일×4주) 심화 과정 (2026.06.24 ~ 07.22)
 
 **커리큘럼**
+
 - 머신러닝/딥러닝 원리: 데이터 전처리, 회귀·분류·앙상블, MLP·DNN·역전파, CNN/RNN/LSTM, Transformer 구조 이해
 - 생성형 AI 실전: AI 에이전트 개념, 프롬프트 설계(ROCK 기반), Gemini API 및 Supabase API 연동, 바이브 코딩으로 애플리케이션 구현
 - 팀 프로젝트: 생성형 AI/딥러닝 기반 주제 선정 및 협업 실습
 
 **PM 관점의 목적**
+
 비개발 직군인 PM으로서 AI 제품의 기술적 제약과 가능성을 정확히 이해하고, 개발팀과 더 정교하게 소통하기 위해 수강
 
 </td>
 <td valign="top">
 
 **Overview**
+
 A 160-hour intensive program (8h × 5 days × 4 weeks, Jun 24 – Jul 22, 2026) hosted by the AI Grand ICT Research Center and organized by Busan IT Industry Promotion Agency.
 
 **Curriculum**
+
 - ML/DL fundamentals: data preprocessing, regression/classification/ensembles, MLP/DNN & backpropagation, CNN/RNN/LSTM, and Transformer architecture
 - Applied Generative AI: AI agent concepts, prompt design (ROCK framework), Gemini API & Supabase API integration, building applications via vibe coding
 - Team project: collaborative build using a generative AI / deep learning theme
 
 **Why it matters for PM**
+
 As a non-engineering PM, I'm taking this to understand the real technical constraints and possibilities of AI products, so I can communicate more precisely with engineering teams.
 
 </td>
@@ -231,26 +249,48 @@ As a non-engineering PM, I'm taking this to understand the real technical constr
 <tr>
 <td valign="top">
 
-**Problem & Strategy**
-글로벌 피트니스 앱 '플랜핏(Planfit)'의 미국 시장 진입 및 유저 리텐션 강화를 위한 '지속 가능한 운동 구조' 기획. 개발 리소스 없이 텍스트 기반 'Ghost Sync' 로직을 설계하고 Wizard of Oz 방식으로 13주간 직접 가설 검증
+**문제 정의 및 전략**
 
-**Execution**
-'고스트 싱크(Ghost Sync)', '달성률 동기화' 등 데이터 기반 비동기적 소셜 기능 기획 및 5주간 전략 아티클 연재. 5팀 → 3팀(18명) → 4팀(20명) 순으로 실험 규모 피벗, 카카오톡 오픈채팅 + 구글폼/시트 자동 집계로 실사용자 데이터 수집
+글로벌 피트니스 앱 '플랜핏(Planfit)'의 미국 시장 진입 및 유저 리텐션 강화를 위한 '지속 가능한 운동 구조' 기획.
 
-**Impact**
-Ghost Ping 긍정 반응 **85.8%**(n=28), 하이브리드(홈트/야외) 인증 **45.2%**, 목표 달성률 **82.5%**. 4일차 참여도 최저점(40점) 이후 수동 개입으로 5일차 70점 반등 견인. 챌린지 종료 후 강제 인증 폐지·지인 초대 개방으로 **자율 커뮤니티 전환(Exit 전략)** 설계
+개발 리소스 없이 텍스트 기반 'Ghost Sync' 로직을 설계하고 Wizard of Oz 방식으로 13주간 직접 가설 검증
+
+**실행**
+
+'고스트 싱크(Ghost Sync)', '달성률 동기화' 등 데이터 기반 비동기적 소셜 기능 기획 및 5주간 전략 아티클 연재.
+
+5팀 → 3팀(18명) → 4팀(20명) 순으로 실험 규모 피벗, 카카오톡 오픈채팅 + 구글폼/시트 자동 집계로 실사용자 데이터 수집
+
+**성과**
+
+Ghost Ping 긍정 반응 **85.8%**(n=28), 하이브리드(홈트/야외) 인증 **45.2%**, 목표 달성률 **82.5%**.
+
+4일차 참여도 최저점(40점) 이후 수동 개입으로 5일차 70점 반등 견인.
+
+챌린지 종료 후 강제 인증 폐지·지인 초대 개방으로 **자율 커뮤니티 전환(Exit 전략)** 설계
 
 </td>
 <td valign="top">
 
 **Problem & Strategy**
-Devised product strategies for the global fitness app 'Planfit' to penetrate the US market and build sustainable user habits. Designed a text-based 'Ghost Sync' logic and validated the hypothesis over 13 weeks via a Wizard-of-Oz style MVP, without engineering resources.
+
+Devised product strategies for the global fitness app 'Planfit' to penetrate the US market and build sustainable user habits.
+
+Designed a text-based 'Ghost Sync' logic and validated the hypothesis over 13 weeks via a Wizard-of-Oz style MVP, without engineering resources.
 
 **Execution**
-Planned data-driven asynchronous social features like 'Ghost Sync' and 'achievement-rate sync,' publishing a 5-part series of strategic PM articles. Pivoted experiment scale from 5 teams → 3 teams (18 users) → 4 teams (20 users), collecting real user data via KakaoTalk open chats and an auto-aggregating Google Forms/Sheets dashboard.
+
+Planned data-driven asynchronous social features like 'Ghost Sync' and 'achievement-rate sync,' publishing a 5-part series of strategic PM articles.
+
+Pivoted experiment scale from 5 teams → 3 teams (18 users) → 4 teams (20 users), collecting real user data via KakaoTalk open chats and an auto-aggregating Google Forms/Sheets dashboard.
 
 **Impact**
-Achieved **85.8%** positive response to Ghost Ping (n=28), **45.2%** hybrid (home/outdoor) workout verification rate, and an **82.5%** goal-completion rate. Drove a rebound from the day-4 engagement low (40 pts) to 70 pts on day 5 through timed manual intervention. Also designed an **Exit Strategy**, transitioning the challenge into a self-sustaining community.
+
+Achieved **85.8%** positive response to Ghost Ping (n=28), **45.2%** hybrid (home/outdoor) workout verification rate, and an **82.5%** goal-completion rate.
+
+Drove a rebound from the day-4 engagement low (40 pts) to 70 pts on day 5 through timed manual intervention.
+
+Also designed an **Exit Strategy**, transitioning the challenge into a self-sustaining community.
 
 </td>
 </tr>
@@ -259,7 +299,7 @@ Achieved **85.8%** positive response to Ghost Ping (n=28), **45.2%** hybrid (hom
 </details>
 
 <details>
-<summary><h3>👨‍🏫 2025 · Product Leadership & Mentoring</h3></summary>
+<summary align="center"><h3>👨‍🏫 2025 · Product Leadership & Mentoring</h3></summary>
 
 <table>
 <tr>
@@ -277,16 +317,20 @@ Achieved **85.8%** positive response to Ghost Ping (n=28), **45.2%** hybrid (hom
 <td valign="top">
 
 **개요**
+
 2025년 2월부터 Robotics & Coding Club 학원에서 코딩·로보틱스 강사로 활동 중 (현재도 진행 중)
 
 **활동**
+
 학생 개개인의 관심사와 눈높이에 맞춘 프로젝트 기반 커리큘럼 설계, 1:1/소규모 멘토링, 대회 출전 코칭
 
 **대회 준비 지도**
-- 🏅 학생 1명을 **USACO(미국 컴퓨팅 올림피아드)** 및 **AI SW 사고력대회** 출전까지 코칭
+
+- 🏅 학생 1명을 **USACO(미국 컴퓨팅 올림피아드)** / **AI SW 사고력대회** 출전까지 코칭
 - 그 외 다수 학생들도 각자 수준에 맞춰 코딩·로보틱스 대회 준비 지도 중 → 여러 건의 **대회 참가·수상** 성과로 이어짐
 
 **프로젝트 하이라이트** <sub>(전체 중 일부 예시)</sub>
+
 - 🩹 **AI-Powered Smart Bandage Platform** (2025) — Gemini Vision API로 상처 상태를 평가하는 QR+웹 프로토타입 · [Repo](https://github.com/SUNWOOKLEE04/ai-wound-assessment-tool)
 - 🌐 **Collaborative Student Portfolio Platform** (2025) — 3인 학생 팀이 만든 10+ 페이지 반응형 포트폴리오 사이트 · [Repo](https://github.com/SUNWOOKLEE04/student-portfolio)
 - 🎮 **Python RPG Text Game** (2025) — 파이썬 기초 학습을 위한 턴제 RPG 게임 · [Repo](https://github.com/Daniel-choi-11/Python-RPG-text-game)
@@ -295,22 +339,29 @@ Achieved **85.8%** positive response to Ghost Ping (n=28), **45.2%** hybrid (hom
 <sub>※ 위는 대표 사례이며, 이 외에도 여러 학생들과 함께 진행 중인 프로젝트가 더 있습니다.</sub>
 
 **PM 관점의 의미**
-학생 개인의 관심사를 기술 학습과 연결해 몰입도를 높이는 커리큘럼 설계 경험은, 사용자의 맥락에 맞춰 기능을 기획하는 PM 역량과 맞닿아 있습니다. 학업·편입 준비와 병행하면서도 2025년 2월부터 꾸준히 이어온 활동입니다
+
+학생 개인의 관심사를 기술 학습과 연결해 몰입도를 높이는 커리큘럼 설계 경험은, 사용자의 맥락에 맞춰 기능을 기획하는 PM 역량과 맞닿아 있습니다.
+
+학업·편입 준비와 병행하면서도 2025년 2월부터 꾸준히 이어온 활동입니다
 
 </td>
 <td valign="top">
 
 **Overview**
+
 Coding & Robotics Instructor at a Robotics & Coding Club academy since February 2025 (currently active).
 
 **Activities**
+
 Designed project-based curricula tailored to each student's interests and level, provided 1:1/small-group mentoring, and coached students preparing for competitions.
 
 **Competition Coaching**
-- 🏅 Coached one student all the way to competing in **USACO (USA Computing Olympiad)** and the **AI SW Creative Thinking Competition**
+
+- 🏅 Coached one student all the way to competing in **USACO (USA Computing Olympiad)** / **AI SW Creative Thinking Competition**
 - Also coaching several other students at their own level for coding/robotics competitions → resulting in multiple **competition entries and wins**
 
 **Project Highlights** <sub>(a sample, not the full list)</sub>
+
 - 🩹 **AI-Powered Smart Bandage Platform** (2025) — QR + web prototype using the Gemini Vision API to assess wound conditions · [Repo](https://github.com/SUNWOOKLEE04/ai-wound-assessment-tool)
 - 🌐 **Collaborative Student Portfolio Platform** (2025) — A 10+ page responsive portfolio site built by a 3-person student team · [Repo](https://github.com/SUNWOOKLEE04/student-portfolio)
 - 🎮 **Python RPG Text Game** (2025) — A turn-based RPG built to reinforce foundational Python skills · [Repo](https://github.com/Daniel-choi-11/Python-RPG-text-game)
@@ -319,7 +370,10 @@ Designed project-based curricula tailored to each student's interests and level,
 <sub>※ These are representative examples — several more student projects are in progress beyond this list.</sub>
 
 **Why it matters for PM**
-Designing curricula that connect a student's personal interests to technical learning mirrors the PM skill of shaping features around real user context — sustained consistently since February 2025, alongside coursework and my university-transfer preparation.
+
+Designing curricula that connect a student's personal interests to technical learning mirrors the PM skill of shaping features around real user context.
+
+Sustained consistently since February 2025, alongside coursework and my university-transfer preparation.
 
 </td>
 </tr>
@@ -359,7 +413,7 @@ Contributed to establishing strategic direction and operations for the PHALANX p
 </details>
 
 <details>
-<summary><h3>🚀 2024 · Strategic Growth & Business Alignment</h3></summary>
+<summary align="center"><h3>🚀 2024 · Strategic Growth & Business Alignment</h3></summary>
 
 <table>
 <tr>
@@ -375,25 +429,31 @@ Contributed to establishing strategic direction and operations for the PHALANX p
 <tr>
 <td valign="top">
 
-**Problem & Strategy**
+**문제 정의 및 전략**
+
 관상어 산업 기업의 IT 역량 부재 ➔ 기술 로드맵 기획 및 프론트엔드 환경 구축 주도
 
-**Business Development**
+**비즈니스 개발**
+
 K-ICT Week BEXCO 참가를 통한 자사 비즈니스 확장 B2B 네트워킹 수행
 
-**Impact**
+**성과**
+
 타겟 맞춤형 IT 기술 제안서 도출을 통한 **MOU 파트너십 체결 기여**
 
 </td>
 <td valign="top">
 
 **Problem & Strategy**
+
 Resolved IT capability gaps by establishing a technology roadmap and leading frontend infrastructure setup.
 
 **Business Development**
+
 Conducted B2B networking at K-ICT Week BEXCO to explore business expansion for the company.
 
 **Impact**
+
 Facilitated **strategic MOU partnerships** by delivering targeted IT proposals.
 
 </td>
@@ -457,7 +517,7 @@ Completed Data Science (DSAC M2/M3) and AI proficiency programs to empower data-
 </details>
 
 <details>
-<summary><h3>🏆 2021 · PM Foundation & Problem Solving</h3></summary>
+<summary align="center"><h3>🏆 2021 · PM Foundation & Problem Solving</h3></summary>
 
 <table>
 <tr>
@@ -473,25 +533,31 @@ Completed Data Science (DSAC M2/M3) and AI proficiency programs to empower data-
 <tr>
 <td valign="top">
 
-**Problem**
+**문제**
+
 비대면 체육 수업의 출결 관리 한계 및 학생 활동량 저하
 
-**Strategy**
+**전략**
+
 AI 모션 인식 기반 자동 출결 비즈니스 로직 기획 및 교차 직군(Dev/Design) 일정 리딩
 
-**Impact**
+**성과**
+
 에듀테크 솔루션 MVP 실효성 입증 ➔ **교육감상 수상**
 
 </td>
 <td valign="top">
 
 **Problem**
+
 Addressed the limitations of remote PE attendance tracking and declining student physical activity.
 
 **Strategy**
+
 Designed the business logic for AI motion recognition and led cross-functional sprints across Dev and Design.
 
 **Impact**
+
 Validated the viability of the EdTech MVP ➔ **Won the Superintendent of Education Award**
 
 </td>
@@ -514,13 +580,16 @@ Validated the viability of the EdTech MVP ➔ **Won the Superintendent of Educat
 <tr>
 <td valign="top">
 
-**Problem**
+**문제**
+
 시각장애인의 키오스크 접근성 부족 및 페인포인트(Pain-point) 도출
 
-**Strategy**
+**전략**
+
 음성인식/점자 지원 배리어프리 UI/UX 기획 및 프로토타이핑 주도
 
-**Impact**
+**성과**
+
 사회적 약자를 위한 UX 개선 검증 ➔ **디자인 우수상 수상**
 
 🔗 [Repository](https://github.com/SUNWOOKLEE04/Intelligent-Kiosk-System)
@@ -529,12 +598,15 @@ Validated the viability of the EdTech MVP ➔ **Won the Superintendent of Educat
 <td valign="top">
 
 **Problem**
+
 Identified critical accessibility pain points for visually impaired users interacting with public kiosks.
 
 **Strategy**
+
 Spearheaded barrier-free UI/UX prototyping, emphasizing voice recognition and Braille support.
 
 **Impact**
+
 Successfully validated UX improvements for marginalized groups ➔ **Design Excellence Award**
 
 🔗 [Repository](https://github.com/SUNWOOKLEE04/Intelligent-Kiosk-System)
@@ -559,25 +631,31 @@ Successfully validated UX improvements for marginalized groups ➔ **Design Exce
 <tr>
 <td valign="top">
 
-**Problem**
+**문제**
+
 장애인 개인 특성에 최적화된 맞춤형 생활체육 인프라 및 정보 부재
 
-**Strategy**
+**전략**
+
 공공 빅데이터 기반 추천 알고리즘 서비스 플로우 설계 및 데이터-앱 연동 기획
 
-**Impact**
+**성과**
+
 데이터 활용성 및 헬스케어 확장성 입증 ➔ **입상(Prize Winner)**
 
 </td>
 <td valign="top">
 
 **Problem**
+
 Addressed the absence of personalized sports infrastructure and information tailored for individuals with disabilities.
 
 **Strategy**
+
 Designed recommendation algorithms using public big data and orchestrated the data-to-app integration.
 
 **Impact**
+
 Demonstrated high data utility and scalability in healthcare ➔ **Prize Winner**
 
 </td>
