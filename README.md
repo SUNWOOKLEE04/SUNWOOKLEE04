@@ -88,8 +88,8 @@ Aspiring **Product Manager** who bridges technology and users. I enjoy designing
 <td align="center"><b>2025.02~</b></td>
 <td>Robotics & Coding Club</td>
 <td align="center">Coding Instructor<br/><sub>(Ongoing)</sub></td>
-<td>지도 학생 코딩·로보틱스 대회 <b>참가·수상</b>, 학생 프로젝트 4건 진행</td>
-<td>Students I coached <b>competed and won</b> coding/robotics contests · 4 student projects delivered</td>
+<td>학생 <b>USACO·AI SW 사고력대회</b> 출전 코칭 · 다수 프로젝트 지도</td>
+<td>Coached a student to <b>USACO & AI SW competitions</b> · mentored multiple student projects</td>
 </tr>
 <tr>
 <td align="center"><b>2024</b></td>
@@ -162,8 +162,9 @@ Aspiring **Product Manager** who bridges technology and users. I enjoy designing
 
 ## 🚀 Journey
 
-> 각 카드는 상단 배지 → 🇰🇷 / 🇺🇸 두 열 순서로 구성되어, 펼치자마자 역할·성과가 한눈에 들어오도록 정리했습니다.
-> Each card leads with status badges, then splits into 🇰🇷 / 🇺🇸 columns so role and impact are visible at a glance the moment you expand it.
+> 🇰🇷 각 카드는 상단 배지 → 🇰🇷 / 🇺🇸 두 열 순서로 구성되어, 펼치자마자 역할·성과가 한눈에 들어오도록 정리했습니다.
+>
+> 🇺🇸 Each card leads with status badges, then splits into 🇰🇷 / 🇺🇸 columns so role and impact are visible at a glance the moment you expand it.
 
 <details open>
 <summary><h3>🌐 2026 · Global Product Strategy & Applied AI</h3></summary>
@@ -281,14 +282,17 @@ Achieved **85.8%** positive response to Ghost Ping (n=28), **45.2%** hybrid (hom
 **활동**
 학생 개개인의 관심사와 눈높이에 맞춘 프로젝트 기반 커리큘럼 설계, 1:1/소규모 멘토링, 대회 출전 코칭
 
-**성과**
-지도한 학생들이 다수의 코딩·로보틱스 대회에 참가해 **수상 성과**를 거둠
+**대회 준비 지도**
+- 🏅 학생 1명을 **USACO(미국 컴퓨팅 올림피아드)** 및 **AI SW 사고력대회** 출전까지 코칭
+- 그 외 다수 학생들도 각자 수준에 맞춰 코딩·로보틱스 대회 준비 지도 중 → 여러 건의 **대회 참가·수상** 성과로 이어짐
 
-**대표 학생 프로젝트**
+**프로젝트 하이라이트** <sub>(전체 중 일부 예시)</sub>
 - 🩹 **AI-Powered Smart Bandage Platform** (2025) — Gemini Vision API로 상처 상태를 평가하는 QR+웹 프로토타입 · [Repo](https://github.com/SUNWOOKLEE04/ai-wound-assessment-tool)
 - 🌐 **Collaborative Student Portfolio Platform** (2025) — 3인 학생 팀이 만든 10+ 페이지 반응형 포트폴리오 사이트 · [Repo](https://github.com/SUNWOOKLEE04/student-portfolio)
 - 🎮 **Python RPG Text Game** (2025) — 파이썬 기초 학습을 위한 턴제 RPG 게임 · [Repo](https://github.com/Daniel-choi-11/Python-RPG-text-game)
 - 🎤 **BOYNEXTDOOR Lovers Attendance Project** (2026.06) — 초등학생 학생이 좋아하는 아이돌 그룹을 소재로 함께 만든 출퇴근·스케줄 관리 콘솔 프로그램. 딕셔너리 기반 비밀번호/스케줄 바인딩, 리스트 언패킹, `.strip()` 입력 방어 코드 적용 · [Repo](https://github.com/BBIO-0530/BOYNEXTDOOR-LOVERS-ATTENDANCE-PROJECT)
+
+<sub>※ 위는 대표 사례이며, 이 외에도 여러 학생들과 함께 진행 중인 프로젝트가 더 있습니다.</sub>
 
 **PM 관점의 의미**
 학생 개인의 관심사를 기술 학습과 연결해 몰입도를 높이는 커리큘럼 설계 경험은, 사용자의 맥락에 맞춰 기능을 기획하는 PM 역량과 맞닿아 있습니다. 학업·편입 준비와 병행하면서도 2025년 2월부터 꾸준히 이어온 활동입니다
@@ -302,14 +306,17 @@ Coding & Robotics Instructor at a Robotics & Coding Club academy since February 
 **Activities**
 Designed project-based curricula tailored to each student's interests and level, provided 1:1/small-group mentoring, and coached students preparing for competitions.
 
-**Impact**
-Multiple students under my instruction went on to **participate in and win** coding/robotics competitions.
+**Competition Coaching**
+- 🏅 Coached one student all the way to competing in **USACO (USA Computing Olympiad)** and the **AI SW Creative Thinking Competition**
+- Also coaching several other students at their own level for coding/robotics competitions → resulting in multiple **competition entries and wins**
 
-**Representative Student Projects**
+**Project Highlights** <sub>(a sample, not the full list)</sub>
 - 🩹 **AI-Powered Smart Bandage Platform** (2025) — QR + web prototype using the Gemini Vision API to assess wound conditions · [Repo](https://github.com/SUNWOOKLEE04/ai-wound-assessment-tool)
 - 🌐 **Collaborative Student Portfolio Platform** (2025) — A 10+ page responsive portfolio site built by a 3-person student team · [Repo](https://github.com/SUNWOOKLEE04/student-portfolio)
 - 🎮 **Python RPG Text Game** (2025) — A turn-based RPG built to reinforce foundational Python skills · [Repo](https://github.com/Daniel-choi-11/Python-RPG-text-game)
 - 🎤 **BOYNEXTDOOR Lovers Attendance Project** (Jun 2026) — Built together with an elementary-school student around their favorite idol group: a console app for check-in/schedule management, using dictionary-based password/schedule binding, list unpacking, and `.strip()` input-guard logic · [Repo](https://github.com/BBIO-0530/BOYNEXTDOOR-LOVERS-ATTENDANCE-PROJECT)
+
+<sub>※ These are representative examples — several more student projects are in progress beyond this list.</sub>
 
 **Why it matters for PM**
 Designing curricula that connect a student's personal interests to technical learning mirrors the PM skill of shaping features around real user context — sustained consistently since February 2025, alongside coursework and my university-transfer preparation.
@@ -371,6 +378,9 @@ Contributed to establishing strategic direction and operations for the PHALANX p
 **Problem & Strategy**
 관상어 산업 기업의 IT 역량 부재 ➔ 기술 로드맵 기획 및 프론트엔드 환경 구축 주도
 
+**Business Development**
+K-ICT Week BEXCO 참가를 통한 자사 비즈니스 확장 B2B 네트워킹 수행
+
 **Impact**
 타겟 맞춤형 IT 기술 제안서 도출을 통한 **MOU 파트너십 체결 기여**
 
@@ -379,6 +389,9 @@ Contributed to establishing strategic direction and operations for the PHALANX p
 
 **Problem & Strategy**
 Resolved IT capability gaps by establishing a technology roadmap and leading frontend infrastructure setup.
+
+**Business Development**
+Conducted B2B networking at K-ICT Week BEXCO to explore business expansion for the company.
 
 **Impact**
 Facilitated **strategic MOU partnerships** by delivering targeted IT proposals.
@@ -392,8 +405,8 @@ Facilitated **strategic MOU partnerships** by delivering targeted IT proposals.
 <table>
 <tr>
 <td colspan="2" align="left">
-<img src="https://img.shields.io/badge/B2B_Networking-F9CA24?style=for-the-badge" />
-<h4>Global Insights & B2B Networking</h4>
+<img src="https://img.shields.io/badge/Global_Insight-F9CA24?style=for-the-badge" />
+<h4>Global IT Trend Research — CEBU LCIC</h4>
 </td>
 </tr>
 <tr>
@@ -403,12 +416,12 @@ Facilitated **strategic MOU partnerships** by delivering targeted IT proposals.
 <tr>
 <td valign="top">
 
-글로벌 IT 트렌드 분석 (CEBU LCIC 연수) 및 자사 비즈니스 확장을 위한 B2B 네트워킹 (K-ICT Week BEXCO)
+CEBU LCIC 연수를 통한 글로벌 IT 트렌드 분석
 
 </td>
 <td valign="top">
 
-Analyzed global IT trends (CEBU LCIC) and actively engaged in B2B networking to explore business expansion (K-ICT Week BEXCO).
+Analyzed global IT trends through the CEBU LCIC program.
 
 </td>
 </tr>
