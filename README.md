@@ -79,31 +79,17 @@ Aspiring **Product Manager** who bridges technology and users. I enjoy designing
 </tr>
 <tr>
 <td align="center"><b>2026</b></td>
-<td>Robotics & Coding Club</td>
-<td align="center">Coding Instructor<br/><sub>(1~2yr, Ongoing)</sub></td>
-<td>지도 학생 코딩·로보틱스 대회 <b>참가·수상</b></td>
-<td>Students I coached <b>competed and won</b> coding/robotics contests</td>
-</tr>
-<tr>
-<td align="center"><b>2026</b></td>
 <td>Planfit — Ghost Sync</td>
 <td align="center">Product Strategist</td>
 <td>Ghost Ping 긍정 반응 <b>85.8%</b> · 하이브리드 인증 <b>45.2%</b></td>
 <td>85.8% positive response to Ghost Ping · 45.2% hybrid workout rate</td>
 </tr>
 <tr>
-<td align="center"><b>2025</b></td>
-<td>AI Smart Bandage</td>
-<td align="center">Product Owner</td>
-<td>7일 스프린트로 QR+웹 프로토타입 런칭</td>
-<td>Launched QR+web prototype via a 7-day sprint</td>
-</tr>
-<tr>
-<td align="center"><b>2025</b></td>
-<td>Student Portfolio Platform</td>
-<td align="center">Scrum Master</td>
-<td>3인 팀 · 10+ 페이지 반응형 웹 퍼블리싱 리드</td>
-<td>Led a 3-person team building a 10+ page responsive site</td>
+<td align="center"><b>2025.02~</b></td>
+<td>Robotics & Coding Club</td>
+<td align="center">Coding Instructor<br/><sub>(Ongoing)</sub></td>
+<td>지도 학생 코딩·로보틱스 대회 <b>참가·수상</b>, 학생 프로젝트 4건 진행</td>
+<td>Students I coached <b>competed and won</b> coding/robotics contests · 4 student projects delivered</td>
 </tr>
 <tr>
 <td align="center"><b>2024</b></td>
@@ -232,55 +218,6 @@ As a non-engineering PM, I'm taking this to understand the real technical constr
 <table>
 <tr>
 <td colspan="2" align="left">
-<img src="https://img.shields.io/badge/🟢_Ongoing-2ECC71?style=for-the-badge" />
-<img src="https://img.shields.io/badge/1~2_Years-6A5ACD?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Coding_Instructor-DC2626?style=for-the-badge" />
-<h4>코딩 · 로보틱스 강사 — Robotics & Coding Club<br/>Coding & Robotics Instructor — Robotics & Coding Club</h4>
-</td>
-</tr>
-<tr>
-<th width="50%">🇰🇷 한국어</th>
-<th width="50%">🇺🇸 English</th>
-</tr>
-<tr>
-<td valign="top">
-
-**개요**
-Robotics & Coding Club 학원에서 1~2년째 코딩·로보틱스 강사로 활동 중 (현재도 진행 중)
-
-**활동**
-학생 눈높이에 맞춘 커리큘럼 운영, 프로젝트 기반 코딩/로보틱스 수업 진행, 대회 출전 학생 코칭
-
-**성과**
-지도한 학생들이 다수의 코딩·로보틱스 대회에 참가해 **수상 성과**를 거둠
-
-**PM 관점의 의미**
-비전공자·학생에게 기술 개념을 눈높이에 맞게 설명해온 경험은 이해관계자 커뮤니케이션 역량으로 이어집니다. 학업과 편입 준비를 병행하면서도 1~2년째 꾸준히 이어온 활동입니다
-
-</td>
-<td valign="top">
-
-**Overview**
-Coding & Robotics Instructor at a Robotics & Coding Club academy for 1–2 years and counting (currently active).
-
-**Activities**
-Ran project-based coding/robotics curriculum tailored to students' level, and coached students preparing for competitions.
-
-**Impact**
-Multiple students under my instruction went on to **participate in and win** coding/robotics competitions.
-
-**Why it matters for PM**
-Translating technical concepts for non-experts has directly built my stakeholder-communication skills — an activity I've sustained consistently for 1–2 years alongside coursework and my university-transfer preparation.
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-<table>
-<tr>
-<td colspan="2" align="left">
 <img src="https://img.shields.io/badge/Product_Strategist-0052CC?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Global-US_Market-2ECC71?style=for-the-badge" />
 <h4>Planfit — Global User Retention & Social Feature Strategy</h4>
@@ -326,8 +263,9 @@ Achieved **85.8%** positive response to Ghost Ping (n=28), **45.2%** hybrid (hom
 <table>
 <tr>
 <td colspan="2" align="left">
-<img src="https://img.shields.io/badge/Product_Owner-16A34A?style=for-the-badge" />
-<h4>AI-Powered Smart Bandage Platform</h4>
+<img src="https://img.shields.io/badge/🟢_Ongoing_Since_2025.02-2ECC71?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Coding_Instructor-DC2626?style=for-the-badge" />
+<h4>코딩 · 로보틱스 강사 — Robotics & Coding Club<br/>Coding & Robotics Instructor — Robotics & Coding Club</h4>
 </td>
 </tr>
 <tr>
@@ -337,86 +275,44 @@ Achieved **85.8%** positive response to Ghost Ping (n=28), **45.2%** hybrid (hom
 <tr>
 <td valign="top">
 
-**Problem & Strategy**
-일반인의 초기 상처 상태 평가 한계 ➔ 7일 단기 스프린트(Agile)로 MVP 기능 정의 (Gemini Vision API 활용)
+**개요**
+2025년 2월부터 Robotics & Coding Club 학원에서 코딩·로보틱스 강사로 활동 중 (현재도 진행 중)
+
+**활동**
+학생 개개인의 관심사와 눈높이에 맞춘 프로젝트 기반 커리큘럼 설계, 1:1/소규모 멘토링, 대회 출전 코칭
+
+**성과**
+지도한 학생들이 다수의 코딩·로보틱스 대회에 참가해 **수상 성과**를 거둠
+
+**대표 학생 프로젝트**
+- 🩹 **AI-Powered Smart Bandage Platform** (2025) — Gemini Vision API로 상처 상태를 평가하는 QR+웹 프로토타입 · [Repo](https://github.com/SUNWOOKLEE04/ai-wound-assessment-tool)
+- 🌐 **Collaborative Student Portfolio Platform** (2025) — 3인 학생 팀이 만든 10+ 페이지 반응형 포트폴리오 사이트 · [Repo](https://github.com/SUNWOOKLEE04/student-portfolio)
+- 🎮 **Python RPG Text Game** (2025) — 파이썬 기초 학습을 위한 턴제 RPG 게임 · [Repo](https://github.com/Daniel-choi-11/Python-RPG-text-game)
+- 🎤 **BOYNEXTDOOR Lovers Attendance Project** (2026.06) — 초등학생 학생이 좋아하는 아이돌 그룹을 소재로 함께 만든 출퇴근·스케줄 관리 콘솔 프로그램. 딕셔너리 기반 비밀번호/스케줄 바인딩, 리스트 언패킹, `.strip()` 입력 방어 코드 적용 · [Repo](https://github.com/BBIO-0530/BOYNEXTDOOR-LOVERS-ATTENDANCE-PROJECT)
+
+**PM 관점의 의미**
+학생 개인의 관심사를 기술 학습과 연결해 몰입도를 높이는 커리큘럼 설계 경험은, 사용자의 맥락에 맞춰 기능을 기획하는 PM 역량과 맞닿아 있습니다. 학업·편입 준비와 병행하면서도 2025년 2월부터 꾸준히 이어온 활동입니다
+
+</td>
+<td valign="top">
+
+**Overview**
+Coding & Robotics Instructor at a Robotics & Coding Club academy since February 2025 (currently active).
+
+**Activities**
+Designed project-based curricula tailored to each student's interests and level, provided 1:1/small-group mentoring, and coached students preparing for competitions.
 
 **Impact**
-실물 패키징(QR)과 웹 솔루션이 결합된 **프로토타입 런칭 완료**
+Multiple students under my instruction went on to **participate in and win** coding/robotics competitions.
 
-🔗 [Repository](https://github.com/SUNWOOKLEE04/ai-wound-assessment-tool)
+**Representative Student Projects**
+- 🩹 **AI-Powered Smart Bandage Platform** (2025) — QR + web prototype using the Gemini Vision API to assess wound conditions · [Repo](https://github.com/SUNWOOKLEE04/ai-wound-assessment-tool)
+- 🌐 **Collaborative Student Portfolio Platform** (2025) — A 10+ page responsive portfolio site built by a 3-person student team · [Repo](https://github.com/SUNWOOKLEE04/student-portfolio)
+- 🎮 **Python RPG Text Game** (2025) — A turn-based RPG built to reinforce foundational Python skills · [Repo](https://github.com/Daniel-choi-11/Python-RPG-text-game)
+- 🎤 **BOYNEXTDOOR Lovers Attendance Project** (Jun 2026) — Built together with an elementary-school student around their favorite idol group: a console app for check-in/schedule management, using dictionary-based password/schedule binding, list unpacking, and `.strip()` input-guard logic · [Repo](https://github.com/BBIO-0530/BOYNEXTDOOR-LOVERS-ATTENDANCE-PROJECT)
 
-</td>
-<td valign="top">
-
-**Problem & Strategy**
-Addressed limitations in consumer wound assessment ➔ Defined MVP features via a 7-day Agile sprint using the Gemini Vision API.
-
-**Impact**
-Successfully launched a prototype seamlessly integrating physical QR packaging with a web solution.
-
-🔗 [Repository](https://github.com/SUNWOOKLEE04/ai-wound-assessment-tool)
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-<table>
-<tr>
-<td colspan="2" align="left">
-<img src="https://img.shields.io/badge/Scrum_Master-F97316?style=for-the-badge" />
-<h4>Collaborative Student Portfolio Platform</h4>
-</td>
-</tr>
-<tr>
-<th width="50%">🇰🇷 한국어</th>
-<th width="50%">🇺🇸 English</th>
-</tr>
-<tr>
-<td valign="top">
-
-3인 팀 리소스 관리, 와이어프레임 설계 및 10+ 페이지 반응형 웹 퍼블리싱 주도
-
-🔗 [Repository](https://github.com/SUNWOOKLEE04/student-portfolio)
-
-</td>
-<td valign="top">
-
-Managed resources for a 3-person team, designed wireframes, and led the deployment of a 10+ page responsive web platform.
-
-🔗 [Repository](https://github.com/SUNWOOKLEE04/student-portfolio)
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-<table>
-<tr>
-<td colspan="2" align="left">
-<img src="https://img.shields.io/badge/Technical_Mentor-DC2626?style=for-the-badge" />
-<h4>Python RPG Text Game</h4>
-</td>
-</tr>
-<tr>
-<th width="50%">🇰🇷 한국어</th>
-<th width="50%">🇺🇸 English</th>
-</tr>
-<tr>
-<td valign="top">
-
-파이썬 기초 역량 강화를 위한 턴제 RPG 게임 로직 설계 및 1:1 멘토링 주도
-
-🔗 [Repository](https://github.com/Daniel-choi-11/Python-RPG-text-game)
-
-</td>
-<td valign="top">
-
-Designed turn-based RPG logic and provided 1:1 technical mentoring to strengthen foundational Python skills.
-
-🔗 [Repository](https://github.com/Daniel-choi-11/Python-RPG-text-game)
+**Why it matters for PM**
+Designing curricula that connect a student's personal interests to technical learning mirrors the PM skill of shaping features around real user context — sustained consistently since February 2025, alongside coursework and my university-transfer preparation.
 
 </td>
 </tr>
@@ -440,16 +336,12 @@ Designed turn-based RPG logic and provided 1:1 technical mentoring to strengthen
 
 기획 동아리(PHALANX) 전략 방향 수립 및 운영 참여
 
-<sub>※ 코딩·로보틱스 강사 활동은 현재도 이어지고 있어 위 2026 섹션에 별도로 정리했습니다.</sub>
-
 🔗 [PHALANX Instagram](https://www.instagram.com/phalanx.club/)
 
 </td>
 <td valign="top">
 
 Contributed to establishing strategic direction and operations for the PHALANX planning club.
-
-<sub>※ My coding/robotics instructor role is ongoing, so it's detailed separately in the 2026 section above.</sub>
 
 🔗 [PHALANX Instagram](https://www.instagram.com/phalanx.club/)
 
