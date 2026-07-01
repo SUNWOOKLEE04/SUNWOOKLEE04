@@ -16,9 +16,6 @@
 <a href="mailto:developsun04@gmail.com">
   <img src="https://img.shields.io/badge/✉️_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
-<a href="https://www.instagram.com/phalanx.club/">
-  <img src="https://img.shields.io/badge/PHALANX_Club-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-</a>
 
 <br><br>
 
@@ -261,6 +258,7 @@ As a non-engineering PM, I'm taking this to understand the real technical constr
 
 <img src="https://img.shields.io/badge/Product_Strategist-0052CC?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Global-US_Market-2ECC71?style=for-the-badge" />
+<img src="https://img.shields.io/badge/PHALANX_Club_Project-6BCF7F?style=for-the-badge" />
 <h4>플랜핏(Planfit) — 글로벌 유저 리텐션 & 소셜 기능 전략<br/>Planfit — Global User Retention & Social Feature Strategy</h4>
 
 </div>
@@ -354,7 +352,7 @@ Pivoted experiment scale from 5 teams → 3 teams (18 users) → 4 teams (20 use
 
 **대회 준비 지도**
 
-- 🏅 학생 **USACO(미국 컴퓨팅 올림피아드)** / **AI SW 사고력대회** 출전까지 코칭
+- 🏅 학생 1명을 **USACO(미국 컴퓨팅 올림피아드)** / **AI SW 사고력대회** 출전까지 코칭
 - 그 외 다수 학생들도 각자 수준에 맞춰 코딩·로보틱스 대회 준비 지도 중<br/>→ 여러 건의 **대회 참가·수상** 성과로 이어짐
 
 **프로젝트 하이라이트** <sub>(전체 중 일부 예시)</sub>
@@ -408,41 +406,6 @@ Designed project-based curricula tailored to each student's interests and level,
 Designing curricula that connect a student's personal interests to technical learning mirrors the PM skill of shaping features around real user context.
 
 Sustained consistently since February 2025, alongside coursework and my university-transfer preparation.
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-<table>
-<tr>
-<td colspan="2" align="center">
-<div align="center">
-
-<img src="https://img.shields.io/badge/Strategic_Planning-6BCF7F?style=for-the-badge" />
-<h4>PHALANX 동아리 — 전략 방향 수립<br/>PHALANX Club — Strategic Direction Setting</h4>
-
-</div>
-</td>
-</tr>
-<tr>
-<th width="50%">🇰🇷 한국어</th>
-<th width="50%">🇺🇸 English</th>
-</tr>
-<tr>
-<td valign="top">
-
-기획 동아리(PHALANX) 전략 방향 수립 및 운영 참여
-
-🔗 [PHALANX Instagram](https://www.instagram.com/phalanx.club/)
-
-</td>
-<td valign="top">
-
-Contributed to establishing strategic direction and operations for the PHALANX planning club.
-
-🔗 [PHALANX Instagram](https://www.instagram.com/phalanx.club/)
 
 </td>
 </tr>
