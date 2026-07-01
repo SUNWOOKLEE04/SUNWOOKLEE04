@@ -200,10 +200,14 @@ Currently exploring opportunities both in Korea and globally.
 <table>
 <tr>
 <td colspan="2" align="center">
+<div align="center">
+
 <img src="https://img.shields.io/badge/📚_In_Progress-FFA500?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Learner-6A5ACD?style=for-the-badge" />
 <img src="https://img.shields.io/badge/160h_Program-1abc9c?style=for-the-badge" />
 <h4>원리로 알아가는 딥러닝 기초와 생성형 AI 활용<br/>Deep Learning Fundamentals & Applied Generative AI</h4>
+
+</div>
 </td>
 </tr>
 <tr>
@@ -253,9 +257,13 @@ As a non-engineering PM, I'm taking this to understand the real technical constr
 <table>
 <tr>
 <td colspan="2" align="center">
+<div align="center">
+
 <img src="https://img.shields.io/badge/Product_Strategist-0052CC?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Global-US_Market-2ECC71?style=for-the-badge" />
 <h4>플랜핏(Planfit) — 글로벌 유저 리텐션 & 소셜 기능 전략<br/>Planfit — Global User Retention & Social Feature Strategy</h4>
+
+</div>
 </td>
 </tr>
 <tr>
@@ -320,9 +328,13 @@ Pivoted experiment scale from 5 teams → 3 teams (18 users) → 4 teams (20 use
 <table>
 <tr>
 <td colspan="2" align="center">
+<div align="center">
+
 <img src="https://img.shields.io/badge/🟢_Ongoing_Since_2025.02-2ECC71?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Coding_Instructor-DC2626?style=for-the-badge" />
-<h4>코딩 · 로보틱스 강사 — Robotics & Coding Club<br/>Coding & Robotics Instructor — Robotics & Coding Club</h4>
+<h4>코딩 · 로보틱스 강사 / Coding & Robotics Instructor<br/><sub>Robotics & Coding Club</sub></h4>
+
+</div>
 </td>
 </tr>
 <tr>
@@ -343,14 +355,17 @@ Pivoted experiment scale from 5 teams → 3 teams (18 users) → 4 teams (20 use
 **대회 준비 지도**
 
 - 🏅 학생 1명을 **USACO(미국 컴퓨팅 올림피아드)** / **AI SW 사고력대회** 출전까지 코칭
-- 그 외 다수 학생들도 각자 수준에 맞춰 코딩·로보틱스 대회 준비 지도 중 → 여러 건의 **대회 참가·수상** 성과로 이어짐
+- 그 외 다수 학생들도 각자 수준에 맞춰 코딩·로보틱스 대회 준비 지도 중<br/>→ 여러 건의 **대회 참가·수상** 성과로 이어짐
 
 **프로젝트 하이라이트** <sub>(전체 중 일부 예시)</sub>
 
-- 🩹 **AI-Powered Smart Bandage Platform** (2025) — Gemini Vision API로 상처 상태를 평가하는 QR+웹 프로토타입 · [Repo](https://github.com/SUNWOOKLEE04/ai-wound-assessment-tool)
-- 🌐 **Collaborative Student Portfolio Platform** (2025) — 3인 학생 팀이 만든 10+ 페이지 반응형 포트폴리오 사이트 · [Repo](https://github.com/SUNWOOKLEE04/student-portfolio)
-- 🎮 **Python RPG Text Game** (2025) — 파이썬 기초 학습을 위한 턴제 RPG 게임 · [Repo](https://github.com/Daniel-choi-11/Python-RPG-text-game)
-- 🎤 **BOYNEXTDOOR Lovers Attendance Project** (2026.06) — 초등학생 학생이 좋아하는 아이돌 그룹을 소재로 함께 만든 출퇴근·스케줄 관리 콘솔 프로그램. 딕셔너리 기반 비밀번호/스케줄 바인딩, 리스트 언패킹, `.strip()` 입력 방어 코드 적용 · [Repo](https://github.com/BBIO-0530/BOYNEXTDOOR-LOVERS-ATTENDANCE-PROJECT)
+- 🩹 **AI-Powered Smart Bandage Platform** <sub>(2025)</sub><br/>Gemini Vision API로 상처 상태를 평가하는 QR+웹 프로토타입<br/>🔗 [Repo](https://github.com/SUNWOOKLEE04/ai-wound-assessment-tool)
+
+- 🌐 **Collaborative Student Portfolio Platform** <sub>(2025)</sub><br/>3인 학생 팀이 만든 10+ 페이지 반응형 포트폴리오 사이트<br/>🔗 [Repo](https://github.com/SUNWOOKLEE04/student-portfolio)
+
+- 🎮 **Python RPG Text Game** <sub>(2025)</sub><br/>파이썬 기초 학습을 위한 턴제 RPG 게임<br/>🔗 [Repo](https://github.com/Daniel-choi-11/Python-RPG-text-game)
+
+- 🎤 **BOYNEXTDOOR Lovers Attendance Project** <sub>(2026.06)</sub><br/>초등학생이 좋아하는 아이돌 그룹을 소재로 함께 만든 출퇴근·스케줄 관리 콘솔 프로그램<br/>딕셔너리 기반 비밀번호/스케줄 바인딩, 리스트 언패킹, `.strip()` 입력 방어 코드 적용<br/>🔗 [Repo](https://github.com/BBIO-0530/BOYNEXTDOOR-LOVERS-ATTENDANCE-PROJECT)
 
 <sub>※ 위는 대표 사례이며, 이 외에도 여러 학생들과 함께 진행 중인 프로젝트가 더 있습니다.</sub>
 
@@ -374,14 +389,17 @@ Designed project-based curricula tailored to each student's interests and level,
 **Competition Coaching**
 
 - 🏅 Coached one student all the way to competing in **USACO (USA Computing Olympiad)** / **AI SW Creative Thinking Competition**
-- Also coaching several other students at their own level for coding/robotics competitions → resulting in multiple **competition entries and wins**
+- Also coaching several other students at their own level for coding/robotics competitions<br/>→ resulting in multiple **competition entries and wins**
 
 **Project Highlights** <sub>(a sample, not the full list)</sub>
 
-- 🩹 **AI-Powered Smart Bandage Platform** (2025) — QR + web prototype using the Gemini Vision API to assess wound conditions · [Repo](https://github.com/SUNWOOKLEE04/ai-wound-assessment-tool)
-- 🌐 **Collaborative Student Portfolio Platform** (2025) — A 10+ page responsive portfolio site built by a 3-person student team · [Repo](https://github.com/SUNWOOKLEE04/student-portfolio)
-- 🎮 **Python RPG Text Game** (2025) — A turn-based RPG built to reinforce foundational Python skills · [Repo](https://github.com/Daniel-choi-11/Python-RPG-text-game)
-- 🎤 **BOYNEXTDOOR Lovers Attendance Project** (Jun 2026) — Built together with an elementary-school student around their favorite idol group: a console app for check-in/schedule management, using dictionary-based password/schedule binding, list unpacking, and `.strip()` input-guard logic · [Repo](https://github.com/BBIO-0530/BOYNEXTDOOR-LOVERS-ATTENDANCE-PROJECT)
+- 🩹 **AI-Powered Smart Bandage Platform** <sub>(2025)</sub><br/>QR + web prototype using the Gemini Vision API to assess wound conditions<br/>🔗 [Repo](https://github.com/SUNWOOKLEE04/ai-wound-assessment-tool)
+
+- 🌐 **Collaborative Student Portfolio Platform** <sub>(2025)</sub><br/>A 10+ page responsive portfolio site built by a 3-person student team<br/>🔗 [Repo](https://github.com/SUNWOOKLEE04/student-portfolio)
+
+- 🎮 **Python RPG Text Game** <sub>(2025)</sub><br/>A turn-based RPG built to reinforce foundational Python skills<br/>🔗 [Repo](https://github.com/Daniel-choi-11/Python-RPG-text-game)
+
+- 🎤 **BOYNEXTDOOR Lovers Attendance Project** <sub>(Jun 2026)</sub><br/>Built with an elementary-school student around their favorite idol group: a console app for check-in/schedule management<br/>Dictionary-based password/schedule binding, list unpacking, and `.strip()` input-guard logic<br/>🔗 [Repo](https://github.com/BBIO-0530/BOYNEXTDOOR-LOVERS-ATTENDANCE-PROJECT)
 
 <sub>※ These are representative examples — several more student projects are in progress beyond this list.</sub>
 
@@ -400,8 +418,12 @@ Sustained consistently since February 2025, alongside coursework and my universi
 <table>
 <tr>
 <td colspan="2" align="center">
+<div align="center">
+
 <img src="https://img.shields.io/badge/Strategic_Planning-6BCF7F?style=for-the-badge" />
 <h4>PHALANX 동아리 — 전략 방향 수립<br/>PHALANX Club — Strategic Direction Setting</h4>
+
+</div>
 </td>
 </tr>
 <tr>
@@ -434,8 +456,12 @@ Contributed to establishing strategic direction and operations for the PHALANX p
 <table>
 <tr>
 <td colspan="2" align="center">
+<div align="center">
+
 <img src="https://img.shields.io/badge/Tech_Strategist-FF9FF3?style=for-the-badge" />
 <h4>CAHLP 컴퍼니 — IT 전략 수립 및 파트너십 구축<br/>CAHLP Company — Tech Strategy & Partnership Building</h4>
+
+</div>
 </td>
 </tr>
 <tr>
@@ -481,8 +507,12 @@ Facilitated **strategic MOU partnerships** by delivering targeted IT proposals.
 <table>
 <tr>
 <td colspan="2" align="center">
+<div align="center">
+
 <img src="https://img.shields.io/badge/Global_Insight-F9CA24?style=for-the-badge" />
 <h4>글로벌 IT 트렌드 리서치 — CEBU LCIC<br/>Global IT Trend Research — CEBU LCIC</h4>
+
+</div>
 </td>
 </tr>
 <tr>
@@ -508,8 +538,12 @@ Analyzed global IT trends through the CEBU LCIC program.
 <table>
 <tr>
 <td colspan="2" align="center">
+<div align="center">
+
 <img src="https://img.shields.io/badge/Certifications-A8E6CF?style=for-the-badge" />
 <h4>데이터·AI 역량 강화 프로그램 (DSAC & D-COSS)<br/>Data & AI Capacity Building (DSAC & D-COSS)</h4>
+
+</div>
 </td>
 </tr>
 <tr>
@@ -538,8 +572,12 @@ Completed Data Science (DSAC M2/M3) and AI proficiency programs to empower data-
 <table>
 <tr>
 <td colspan="2" align="center">
+<div align="center">
+
 <img src="https://img.shields.io/badge/Award_Winner-FF6B6B?style=for-the-badge" />
 <h4>AI 카메라 기반 체육 출결 시스템<br/>AI Camera-based PE Attendance System</h4>
+
+</div>
 </td>
 </tr>
 <tr>
@@ -585,8 +623,12 @@ Validated the viability of the EdTech MVP ➔ **Won the Superintendent of Educat
 <table>
 <tr>
 <td colspan="2" align="center">
+<div align="center">
+
 <img src="https://img.shields.io/badge/Design_Award-4ECDC4?style=for-the-badge" />
 <h4>시각장애인을 위한 지능형 키오스크<br/>Intelligent Kiosk for Visually Impaired Users</h4>
+
+</div>
 </td>
 </tr>
 <tr>
@@ -636,8 +678,12 @@ Successfully validated UX improvements for marginalized groups ➔ **Design Exce
 <table>
 <tr>
 <td colspan="2" align="center">
+<div align="center">
+
 <img src="https://img.shields.io/badge/Prize_Winner-45B7D1?style=for-the-badge" />
 <h4>장애인 맞춤형 생활체육 추천 시스템<br/>Adaptive Sports Recommendation System</h4>
+
+</div>
 </td>
 </tr>
 <tr>
@@ -683,8 +729,12 @@ Demonstrated high data utility and scalability in healthcare ➔ **Prize Winner*
 <table>
 <tr>
 <td colspan="2" align="center">
+<div align="center">
+
 <img src="https://img.shields.io/badge/Participant-96CEB4?style=for-the-badge" />
 <h4>PNU 데이터톤<br/>PNU Datathon</h4>
+
+</div>
 </td>
 </tr>
 <tr>
