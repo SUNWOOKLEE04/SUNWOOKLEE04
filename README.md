@@ -94,8 +94,8 @@ Currently exploring opportunities both in Korea and globally.
 <td align="center"><b>2026</b></td>
 <td>Planfit — Ghost Sync</td>
 <td align="center">Product Strategist</td>
-<td>Ghost Ping 긍정 반응 <b>85.8%</b> · 하이브리드 인증 <b>45.2%</b></td>
-<td>85.8% positive response to Ghost Ping · 45.2% hybrid workout rate</td>
+<td>가설 설계 → 개발 없이 13주 자체 검증(Wizard of Oz)<br/>Ghost Ping 긍정 반응 <b>85.8%</b> · 하이브리드 인증 <b>45.2%</b></td>
+<td>Designed hypothesis → validated over 13 weeks via Wizard-of-Oz MVP<br/>85.8% positive response to Ghost Ping · 45.2% hybrid workout rate</td>
 </tr>
 <tr>
 <td align="center"><b>2025.02~</b></td>
@@ -411,6 +411,10 @@ Sustained consistently since February 2025, alongside coursework and my universi
 </tr>
 </table>
 
+<div align="center">
+<sub>🔗 이 외 2025년부터 <b>PHALANX 기획 동아리</b> 활동에도 참여 중입니다 · Also active in the <b>PHALANX planning club</b> since 2025.</sub>
+</div>
+
 </details>
 
 <details>
@@ -473,38 +477,8 @@ Facilitated **strategic MOU partnerships** by delivering targeted IT proposals.
 <div align="center">
 
 <img src="https://img.shields.io/badge/Global_Insight-F9CA24?style=for-the-badge" />
-<h4>글로벌 IT 트렌드 리서치 — CEBU LCIC<br/>Global IT Trend Research — CEBU LCIC</h4>
-
-</div>
-</td>
-</tr>
-<tr>
-<th width="50%">🇰🇷 한국어</th>
-<th width="50%">🇺🇸 English</th>
-</tr>
-<tr>
-<td valign="top">
-
-CEBU LCIC 연수를 통한 글로벌 IT 트렌드 분석
-
-</td>
-<td valign="top">
-
-Analyzed global IT trends through the CEBU LCIC program.
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-<table>
-<tr>
-<td colspan="2" align="center">
-<div align="center">
-
 <img src="https://img.shields.io/badge/Certifications-A8E6CF?style=for-the-badge" />
-<h4>데이터·AI 역량 강화 프로그램 (DSAC & D-COSS)<br/>Data & AI Capacity Building (DSAC & D-COSS)</h4>
+<h4>글로벌 인사이트 & 데이터·AI 역량 강화<br/>Global Insight & Data/AI Capacity Building</h4>
 
 </div>
 </td>
@@ -516,12 +490,14 @@ Analyzed global IT trends through the CEBU LCIC program.
 <tr>
 <td valign="top">
 
-데이터 기반 의사결정을 위한 데이터 사이언스(DSAC M2/M3) 및 AI 활용 역량 강화 프로그램 수료
+- 🌏 **CEBU LCIC 연수** — 글로벌 IT 트렌드 분석
+- 📊 **DSAC M2/M3 수료** — 데이터 사이언스 및 AI 활용 역량 강화 프로그램
 
 </td>
 <td valign="top">
 
-Completed Data Science (DSAC M2/M3) and AI proficiency programs to empower data-driven decision-making.
+- 🌏 **CEBU LCIC Program** — Analyzed global IT trends
+- 📊 **DSAC M2/M3 Certification** — Data science & AI proficiency capacity-building program
 
 </td>
 </tr>
