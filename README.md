@@ -478,7 +478,7 @@ Facilitated **strategic MOU partnerships** by delivering targeted IT proposals.
 
 <img src="https://img.shields.io/badge/Global_Insight-F9CA24?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Certifications-A8E6CF?style=for-the-badge" />
-<h4>글로벌 인사이트 & 기술 역량 강화<br/>Global Insight & Technical Capacity Building</h4>
+<h4>글로벌 인사이트 & 데이터·AI 역량 강화<br/>Global Insight & Data/AI Capacity Building</h4>
 
 </div>
 </td>
@@ -491,13 +491,13 @@ Facilitated **strategic MOU partnerships** by delivering targeted IT proposals.
 <td valign="top">
 
 - 🌏 **CEBU LCIC 연수** — 글로벌 IT 트렌드 분석
-- 📊 **DSAC M2/M3 수료** — AI 활용 역량 강화 프로그램
+- 📊 **DSAC M2/M3 수료** — 데이터 사이언스 및 AI 활용 역량 강화 프로그램
 
 </td>
 <td valign="top">
 
 - 🌏 **CEBU LCIC Program** — Analyzed global IT trends
-- 📊 **DSAC M2/M3 Certification** — AI proficiency capacity-building program
+- 📊 **DSAC M2/M3 Certification** — Data science & AI proficiency capacity-building program
 
 </td>
 </tr>
@@ -638,11 +638,11 @@ Successfully validated UX improvements for marginalized groups ➔ **Design Exce
 
 **전략**
 
-공공 데이터를 활용한 추천 알고리즘 서비스 플로우 설계 및 앱 연동 기획
+공공 빅데이터 기반 추천 알고리즘 서비스 플로우 설계 및 데이터-앱 연동 기획
 
 **성과**
 
-서비스 확장성 및 헬스케어 적용 가능성 입증 ➔ **입상(Prize Winner)**
+데이터 활용성 및 헬스케어 확장성 입증 ➔ **입상(Prize Winner)**
 
 </td>
 <td valign="top">
@@ -653,11 +653,11 @@ Addressed the absence of personalized sports infrastructure and information tail
 
 **Strategy**
 
-Designed recommendation algorithms using public data and orchestrated app integration.
+Designed recommendation algorithms using public big data and orchestrated the data-to-app integration.
 
 **Impact**
 
-Demonstrated strong scalability and applicability in healthcare ➔ **Prize Winner**
+Demonstrated high data utility and scalability in healthcare ➔ **Prize Winner**
 
 </td>
 </tr>
@@ -683,12 +683,12 @@ Demonstrated strong scalability and applicability in healthcare ➔ **Prize Winn
 <tr>
 <td valign="top">
 
-팀 단위 실무 프로젝트 기획 및 인사이트 도출
+팀 단위 데이터 사이언스 실무 프로젝트 기획 및 데이터 인사이트 도출
 
 </td>
 <td valign="top">
 
-Planned team-based projects and derived actionable business insights.
+Planned team-based data science projects and derived actionable business insights.
 
 </td>
 </tr>
