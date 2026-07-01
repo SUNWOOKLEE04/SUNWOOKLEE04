@@ -22,7 +22,7 @@
 <br>
 
 <h2>📑 Portfolio & Resume (WIP)</h2>
-<a href="notyethttps://www.notion.so/0b9cebd74e48834eb7ca01a008be2ea4?source=copy_link">
+<a href="https://www.notion.so/0b9cebd74e48834eb7ca01a008be2ea4?source=copy_link">
   <img src="https://img.shields.io/badge/View_My_Notion_Portfolio-000000?style=for-the-badge&logo=notion&logoColor=white&labelColor=101010" height="50" alt="Notion Portfolio" />
 </a>
 <p><em>👉 View detailed PRDs, Wireframes, and Case Studies.</em></p>
@@ -54,7 +54,6 @@
 </div>
 
 <br>
-
 <br>
 
 <h2 align="center">⚡ PM & Planning Arsenal ⚡</h2>
@@ -88,7 +87,7 @@
 <h2 align="center">🚀 Product Management & Strategy Journey 🚀</h2>
 
 <div align="center">
-  
+
 <details open>
 <summary><h3>🏆 2021 - PM Foundation & Problem Solving</h3></summary>
 
@@ -249,12 +248,15 @@
     <td align="center" width="20%"><img src="https://img.shields.io/badge/Planfit_Strategy-PHALANX_Club-0052CC?style=for-the-badge" /></td>
     <td width="80%">
       <h4>Planfit: Global User Retention & Social Feature Strategy (Product Strategist)</h4>
-      <strong>🎯 Focus & Strategy</strong><br/>
-      🇰🇷 글로벌 피트니스 앱 '플랜핏(Planfit)'의 미국 시장 진입 및 유저 리텐션 강화를 위한 '지속 가능한 운동 구조' 기획<br/>
-      🇺🇸 Devised product strategies for the global fitness app 'Planfit' to penetrate the US market and build sustainable user habits.<br/><br/>
+      <strong>🎯 Problem & Strategy</strong><br/>
+      🇰🇷 글로벌 피트니스 앱 '플랜핏(Planfit)'의 미국 시장 진입 및 유저 리텐션 강화를 위한 '지속 가능한 운동 구조' 기획. 개발 리소스 없이 텍스트 기반 'Ghost Sync' 로직을 설계하고 Wizard of Oz 방식으로 13주간 직접 가설 검증<br/>
+      🇺🇸 Devised product strategies for the global fitness app 'Planfit' to penetrate the US market and build sustainable user habits. Designed a text-based 'Ghost Sync' logic and validated the hypothesis over 13 weeks via a Wizard-of-Oz style MVP, without engineering resources.<br/><br/>
       <strong>💡 Execution & PRD Series</strong><br/>
-      🇰🇷 '고스트 싱크(Ghost Sync)', '달성률 동기화' 등 데이터 기반의 비동기적(Asynchronous) 소셜 기능 기획 및 5주간의 전략 아티클 연재<br/>
-      🇺🇸 Planned data-driven asynchronous social features like 'Ghost Sync' and published a 5-part series of strategic PM articles.<br/><br/>
+      🇰🇷 '고스트 싱크(Ghost Sync)', '달성률 동기화' 등 데이터 기반의 비동기적(Asynchronous) 소셜 기능 기획 및 5주간의 전략 아티클 연재. 5팀 → 3팀(18명) → 4팀(20명) 순으로 실험 규모를 피벗하며 카카오톡 오픈채팅 + 구글폼/시트 자동 집계로 실사용자 데이터 수집<br/>
+      🇺🇸 Planned data-driven asynchronous social features like 'Ghost Sync' and 'achievement-rate sync', publishing a 5-part series of strategic PM articles. Pivoted experiment scale from 5 teams → 3 teams (18 users) → 4 teams (20 users), collecting real user data via KakaoTalk open chats and an auto-aggregating Google Forms/Sheets dashboard.<br/><br/>
+      <strong>📈 Impact</strong><br/>
+      🇰🇷 고스트 핑 긍정 반응 <b>85.8%</b>(n=28), 대체 운동(홈트/야외) 인증 비율 <b>45.2%</b>, 목표 100% 달성률 <b>82.5%</b> 확보. 4일차 참여도 최저점(40점) 이후 수동 개입으로 5일차 70점 반등 견인. 챌린지 종료 후 강제 인증 절차 폐지·지인 초대 개방 등으로 <b>자율 커뮤니티 전환(Exit 전략)</b>까지 설계<br/>
+      🇺🇸 Achieved <b>85.8%</b> positive response to Ghost Ping (n=28), <b>45.2%</b> hybrid (home/outdoor) workout verification rate, and an <b>82.5%</b> goal-completion rate. Drove a rebound from the day-4 engagement low (40 pts) to 70 pts on day 5 through timed manual intervention. Also designed an <b>Exit Strategy</b>, transitioning the challenge into a self-sustaining community by removing mandatory verification and opening peer invites.
     </td>
   </tr>
 </table>
