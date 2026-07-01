@@ -4,7 +4,9 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Comfortaa&weight=600&size=20&pause=1800&color=00D9FF&center=true&vCenter=true&width=620&lines=Bridging+Technology+and+User+Experience;기술과+사용자+경험을+연결합니다;Data-Driven+Product+Planning;데이터+기반+프로덕트+기획" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Comfortaa&weight=600&size=20&pause=1800&color=00D9FF&center=true&vCenter=true&width=620&lines=Bridging+Technology+and+User+Experience;Data-Driven+Product+Planning" alt="Typing SVG (EN)" />
+<br/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Do+Hyeon&weight=500&size=20&pause=1800&color=00D9FF&center=true&vCenter=true&width=620&lines=기술과+사용자+경험을+연결합니다;데이터+기반+프로덕트+기획" alt="Typing SVG (KR)" />
 
 <br><br>
 
@@ -37,7 +39,7 @@
 <tr>
 <td valign="top">
 
-기술과 사용자를 잇는 **프로덕트 매니저** 지망생입니다. 가설 검증 → 데이터 수집 → 인사이트 도출로 이어지는 그로스 사이클을 직접 설계하고 실행하는 것을 좋아하며, 개발/디자인 조직과 협업하기 위한 기술 문해력을 함께 키우고 있습니다. 국내뿐 아니라 해외 진출도 목표로 하고 있습니다.
+가설을 세우고, 실험으로 검증하고, 데이터로 다음 방향을 정하는 일을 좋아하는 **프로덕트 매니저** 지망생입니다. 사용자의 문제를 발견해 기획으로 풀어내는 동시에, 개발/디자인 팀과 같은 언어로 대화할 수 있도록 기술 이해력도 꾸준히 쌓고 있어요. 국내 채용뿐 아니라 해외 진출까지 염두에 두고 커리어를 준비하고 있습니다.
 
 </td>
 <td valign="top">
@@ -74,6 +76,13 @@ Aspiring **Product Manager** who bridges technology and users. I enjoy designing
 <td align="center">Learner<br/><sub>(DL / GenAI)</sub></td>
 <td>160시간 딥러닝·생성형 AI 심화 과정 <b>수강 중</b></td>
 <td><b>In progress</b> — 160h Deep Learning & GenAI program</td>
+</tr>
+<tr>
+<td align="center"><b>2026</b></td>
+<td>Robotics & Coding Club</td>
+<td align="center">Coding Instructor<br/><sub>(1~2yr, Ongoing)</sub></td>
+<td>지도 학생 코딩·로보틱스 대회 <b>참가·수상</b></td>
+<td>Students I coached <b>competed and won</b> coding/robotics contests</td>
 </tr>
 <tr>
 <td align="center"><b>2026</b></td>
@@ -190,7 +199,7 @@ Aspiring **Product Manager** who bridges technology and users. I enjoy designing
 <td valign="top">
 
 **개요**
-동의대학교 인공지능그랜드ICT연구센터 주관, 부산정보산업진흥원 주최 160시간(8h×5일×4주) 심화 과정 (2026.06.24 ~ 07.22)
+인공지능그랜드ICT연구센터 주관, 부산정보산업진흥원 주최 160시간(8h×5일×4주) 심화 과정 (2026.06.24 ~ 07.22)
 
 **커리큘럼**
 - 머신러닝/딥러닝 원리: 데이터 전처리, 회귀·분류·앙상블, MLP·DNN·역전파, CNN/RNN/LSTM, Transformer 구조 이해
@@ -204,7 +213,7 @@ Aspiring **Product Manager** who bridges technology and users. I enjoy designing
 <td valign="top">
 
 **Overview**
-A 160-hour intensive program (8h × 5 days × 4 weeks, Jun 24 – Jul 22, 2026) hosted by Dong-eui University's AI Grand ICT Research Center and organized by Busan IT Industry Promotion Agency.
+A 160-hour intensive program (8h × 5 days × 4 weeks, Jun 24 – Jul 22, 2026) hosted by the AI Grand ICT Research Center and organized by Busan IT Industry Promotion Agency.
 
 **Curriculum**
 - ML/DL fundamentals: data preprocessing, regression/classification/ensembles, MLP/DNN & backpropagation, CNN/RNN/LSTM, and Transformer architecture
@@ -213,6 +222,55 @@ A 160-hour intensive program (8h × 5 days × 4 weeks, Jun 24 – Jul 22, 2026) 
 
 **Why it matters for PM**
 As a non-engineering PM, I'm taking this to understand the real technical constraints and possibilities of AI products, so I can communicate more precisely with engineering teams.
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<table>
+<tr>
+<td colspan="2" align="left">
+<img src="https://img.shields.io/badge/🟢_Ongoing-2ECC71?style=for-the-badge" />
+<img src="https://img.shields.io/badge/1~2_Years-6A5ACD?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Coding_Instructor-DC2626?style=for-the-badge" />
+<h4>코딩 · 로보틱스 강사 — Robotics & Coding Club<br/>Coding & Robotics Instructor — Robotics & Coding Club</h4>
+</td>
+</tr>
+<tr>
+<th width="50%">🇰🇷 한국어</th>
+<th width="50%">🇺🇸 English</th>
+</tr>
+<tr>
+<td valign="top">
+
+**개요**
+Robotics & Coding Club 학원에서 1~2년째 코딩·로보틱스 강사로 활동 중 (현재도 진행 중)
+
+**활동**
+학생 눈높이에 맞춘 커리큘럼 운영, 프로젝트 기반 코딩/로보틱스 수업 진행, 대회 출전 학생 코칭
+
+**성과**
+지도한 학생들이 다수의 코딩·로보틱스 대회에 참가해 **수상 성과**를 거둠
+
+**PM 관점의 의미**
+비전공자·학생에게 기술 개념을 눈높이에 맞게 설명해온 경험은 이해관계자 커뮤니케이션 역량으로 이어집니다. 학업과 편입 준비를 병행하면서도 1~2년째 꾸준히 이어온 활동입니다
+
+</td>
+<td valign="top">
+
+**Overview**
+Coding & Robotics Instructor at a Robotics & Coding Club academy for 1–2 years and counting (currently active).
+
+**Activities**
+Ran project-based coding/robotics curriculum tailored to students' level, and coached students preparing for competitions.
+
+**Impact**
+Multiple students under my instruction went on to **participate in and win** coding/robotics competitions.
+
+**Why it matters for PM**
+Translating technical concepts for non-experts has directly built my stakeholder-communication skills — an activity I've sustained consistently for 1–2 years alongside coursework and my university-transfer preparation.
 
 </td>
 </tr>
@@ -370,7 +428,7 @@ Designed turn-based RPG logic and provided 1:1 technical mentoring to strengthen
 <tr>
 <td colspan="2" align="left">
 <img src="https://img.shields.io/badge/Strategic_Planning-6BCF7F?style=for-the-badge" />
-<h4>Educational Leadership & Strategic Planning</h4>
+<h4>PHALANX Club — Strategic Direction Setting</h4>
 </td>
 </tr>
 <tr>
@@ -380,14 +438,18 @@ Designed turn-based RPG logic and provided 1:1 technical mentoring to strengthen
 <tr>
 <td valign="top">
 
-코딩 강사(Robotics Club) 활동 및 기획 동아리(PHALANX) 전략 방향 수립
+기획 동아리(PHALANX) 전략 방향 수립 및 운영 참여
+
+<sub>※ 코딩·로보틱스 강사 활동은 현재도 이어지고 있어 위 2026 섹션에 별도로 정리했습니다.</sub>
 
 🔗 [PHALANX Instagram](https://www.instagram.com/phalanx.club/)
 
 </td>
 <td valign="top">
 
-Served as a coding instructor (Robotics Club) and established strategic directions for the PHALANX planning club.
+Contributed to establishing strategic direction and operations for the PHALANX planning club.
+
+<sub>※ My coding/robotics instructor role is ongoing, so it's detailed separately in the 2026 section above.</sub>
 
 🔗 [PHALANX Instagram](https://www.instagram.com/phalanx.club/)
 
