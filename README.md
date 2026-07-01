@@ -29,7 +29,11 @@
 
 <br>
 
+<div align="center">
+
 ## 🧑‍💼 About
+
+</div>
 
 <table>
 <tr>
@@ -68,7 +72,11 @@ Currently exploring opportunities both in Korea and globally.
 
 <br>
 
+<div align="center">
+
 ## 🧭 Quick Look
+
+</div>
 
 <table>
 <tr>
@@ -130,7 +138,11 @@ Currently exploring opportunities both in Korea and globally.
 
 <br>
 
+<div align="center">
+
 ## 🛠️ Stack
+
+</div>
 
 <div align="center">
 
@@ -172,7 +184,11 @@ Currently exploring opportunities both in Korea and globally.
 
 <br>
 
+<div align="center">
+
 ## 🚀 Journey
+
+</div>
 
 > 🇰🇷 각 카드는 상단 배지 → 🇰🇷 / 🇺🇸 두 열 순서로 구성되어, 펼치자마자 역할·성과가 한눈에 들어오도록 정리했습니다.
 >
@@ -183,7 +199,7 @@ Currently exploring opportunities both in Korea and globally.
 
 <table>
 <tr>
-<td colspan="2" align="left">
+<td colspan="2" align="center">
 <img src="https://img.shields.io/badge/📚_In_Progress-FFA500?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Learner-6A5ACD?style=for-the-badge" />
 <img src="https://img.shields.io/badge/160h_Program-1abc9c?style=for-the-badge" />
@@ -236,10 +252,10 @@ As a non-engineering PM, I'm taking this to understand the real technical constr
 
 <table>
 <tr>
-<td colspan="2" align="left">
+<td colspan="2" align="center">
 <img src="https://img.shields.io/badge/Product_Strategist-0052CC?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Global-US_Market-2ECC71?style=for-the-badge" />
-<h4>Planfit — Global User Retention & Social Feature Strategy</h4>
+<h4>플랜핏(Planfit) — 글로벌 유저 리텐션 & 소셜 기능 전략<br/>Planfit — Global User Retention & Social Feature Strategy</h4>
 </td>
 </tr>
 <tr>
@@ -263,11 +279,11 @@ As a non-engineering PM, I'm taking this to understand the real technical constr
 
 **성과**
 
-Ghost Ping 긍정 반응 **85.8%**(n=28), 하이브리드(홈트/야외) 인증 **45.2%**, 목표 달성률 **82.5%**.
-
-4일차 참여도 최저점(40점) 이후 수동 개입으로 5일차 70점 반등 견인.
-
-챌린지 종료 후 강제 인증 폐지·지인 초대 개방으로 **자율 커뮤니티 전환(Exit 전략)** 설계
+- Ghost Ping 긍정 반응 **85.8%** (n=28)
+- 하이브리드(홈트/야외) 인증 **45.2%**
+- 목표 달성률 **82.5%**
+- 4일차 참여도 최저점(40점) 이후 수동 개입으로 5일차 70점 반등 견인
+- 챌린지 종료 후 강제 인증 폐지·지인 초대 개방으로 **자율 커뮤니티 전환(Exit 전략)** 설계
 
 </td>
 <td valign="top">
@@ -286,11 +302,11 @@ Pivoted experiment scale from 5 teams → 3 teams (18 users) → 4 teams (20 use
 
 **Impact**
 
-Achieved **85.8%** positive response to Ghost Ping (n=28), **45.2%** hybrid (home/outdoor) workout verification rate, and an **82.5%** goal-completion rate.
-
-Drove a rebound from the day-4 engagement low (40 pts) to 70 pts on day 5 through timed manual intervention.
-
-Also designed an **Exit Strategy**, transitioning the challenge into a self-sustaining community.
+- **85.8%** positive response to Ghost Ping (n=28)
+- **45.2%** hybrid (home/outdoor) workout verification rate
+- **82.5%** goal-completion rate
+- Drove a rebound from the day-4 engagement low (40 pts) to 70 pts on day 5 through timed manual intervention
+- Designed an **Exit Strategy**, transitioning the challenge into a self-sustaining community
 
 </td>
 </tr>
@@ -303,7 +319,7 @@ Also designed an **Exit Strategy**, transitioning the challenge into a self-sust
 
 <table>
 <tr>
-<td colspan="2" align="left">
+<td colspan="2" align="center">
 <img src="https://img.shields.io/badge/🟢_Ongoing_Since_2025.02-2ECC71?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Coding_Instructor-DC2626?style=for-the-badge" />
 <h4>코딩 · 로보틱스 강사 — Robotics & Coding Club<br/>Coding & Robotics Instructor — Robotics & Coding Club</h4>
@@ -383,9 +399,9 @@ Sustained consistently since February 2025, alongside coursework and my universi
 
 <table>
 <tr>
-<td colspan="2" align="left">
+<td colspan="2" align="center">
 <img src="https://img.shields.io/badge/Strategic_Planning-6BCF7F?style=for-the-badge" />
-<h4>PHALANX Club — Strategic Direction Setting</h4>
+<h4>PHALANX 동아리 — 전략 방향 수립<br/>PHALANX Club — Strategic Direction Setting</h4>
 </td>
 </tr>
 <tr>
@@ -417,9 +433,9 @@ Contributed to establishing strategic direction and operations for the PHALANX p
 
 <table>
 <tr>
-<td colspan="2" align="left">
+<td colspan="2" align="center">
 <img src="https://img.shields.io/badge/Tech_Strategist-FF9FF3?style=for-the-badge" />
-<h4>CAHLP Company</h4>
+<h4>CAHLP 컴퍼니 — IT 전략 수립 및 파트너십 구축<br/>CAHLP Company — Tech Strategy & Partnership Building</h4>
 </td>
 </tr>
 <tr>
@@ -464,9 +480,9 @@ Facilitated **strategic MOU partnerships** by delivering targeted IT proposals.
 
 <table>
 <tr>
-<td colspan="2" align="left">
+<td colspan="2" align="center">
 <img src="https://img.shields.io/badge/Global_Insight-F9CA24?style=for-the-badge" />
-<h4>Global IT Trend Research — CEBU LCIC</h4>
+<h4>글로벌 IT 트렌드 리서치 — CEBU LCIC<br/>Global IT Trend Research — CEBU LCIC</h4>
 </td>
 </tr>
 <tr>
@@ -491,9 +507,9 @@ Analyzed global IT trends through the CEBU LCIC program.
 
 <table>
 <tr>
-<td colspan="2" align="left">
+<td colspan="2" align="center">
 <img src="https://img.shields.io/badge/Certifications-A8E6CF?style=for-the-badge" />
-<h4>Data & AI Capacity Building (DSAC & D-COSS)</h4>
+<h4>데이터·AI 역량 강화 프로그램 (DSAC & D-COSS)<br/>Data & AI Capacity Building (DSAC & D-COSS)</h4>
 </td>
 </tr>
 <tr>
@@ -521,9 +537,9 @@ Completed Data Science (DSAC M2/M3) and AI proficiency programs to empower data-
 
 <table>
 <tr>
-<td colspan="2" align="left">
+<td colspan="2" align="center">
 <img src="https://img.shields.io/badge/Award_Winner-FF6B6B?style=for-the-badge" />
-<h4>AI Camera-based PE Attendance System</h4>
+<h4>AI 카메라 기반 체육 출결 시스템<br/>AI Camera-based PE Attendance System</h4>
 </td>
 </tr>
 <tr>
@@ -568,9 +584,9 @@ Validated the viability of the EdTech MVP ➔ **Won the Superintendent of Educat
 
 <table>
 <tr>
-<td colspan="2" align="left">
+<td colspan="2" align="center">
 <img src="https://img.shields.io/badge/Design_Award-4ECDC4?style=for-the-badge" />
-<h4>Intelligent Kiosk for Visually Impaired Users</h4>
+<h4>시각장애인을 위한 지능형 키오스크<br/>Intelligent Kiosk for Visually Impaired Users</h4>
 </td>
 </tr>
 <tr>
@@ -619,9 +635,9 @@ Successfully validated UX improvements for marginalized groups ➔ **Design Exce
 
 <table>
 <tr>
-<td colspan="2" align="left">
+<td colspan="2" align="center">
 <img src="https://img.shields.io/badge/Prize_Winner-45B7D1?style=for-the-badge" />
-<h4>Adaptive Sports Recommendation System</h4>
+<h4>장애인 맞춤형 생활체육 추천 시스템<br/>Adaptive Sports Recommendation System</h4>
 </td>
 </tr>
 <tr>
@@ -666,9 +682,9 @@ Demonstrated high data utility and scalability in healthcare ➔ **Prize Winner*
 
 <table>
 <tr>
-<td colspan="2" align="left">
+<td colspan="2" align="center">
 <img src="https://img.shields.io/badge/Participant-96CEB4?style=for-the-badge" />
-<h4>PNU Datathon</h4>
+<h4>PNU 데이터톤<br/>PNU Datathon</h4>
 </td>
 </tr>
 <tr>
@@ -693,7 +709,11 @@ Planned team-based data science projects and derived actionable business insight
 
 <br>
 
+<div align="center">
+
 ## 📖 Current Focus
+
+</div>
 
 <div align="center">
   <img src="https://img.shields.io/badge/Product%20Strategy-9932CC?style=flat-square&logo=strategy&logoColor=white" />
@@ -705,7 +725,11 @@ Planned team-based data science projects and derived actionable business insight
 
 <br>
 
+<div align="center">
+
 ## 📊 Activity
+
+</div>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=SUNWOOKLEE04&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9" height="165" />
