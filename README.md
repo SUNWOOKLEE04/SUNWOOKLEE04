@@ -4,9 +4,9 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Comfortaa&weight=600&size=20&pause=1800&color=00D9FF&center=true&vCenter=true&width=620&lines=Bridging+Technology+and+User+Experience;Data-Driven+Product+Planning" alt="Typing SVG (EN)" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Comfortaa&weight=600&size=20&pause=1800&color=00D9FF&center=true&vCenter=true&width=620&lines=Bridging+Technology+and+User+Experience;Planning+Backed+by+Technical+Fluency" alt="Typing SVG (EN)" />
 <br/>
-<img src="https://readme-typing-svg.herokuapp.com?font=Do+Hyeon&weight=500&size=20&pause=1800&color=00D9FF&center=true&vCenter=true&width=620&lines=기술과+사용자+경험을+연결합니다;데이터+기반+프로덕트+기획" alt="Typing SVG (KR)" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Do+Hyeon&weight=500&size=20&pause=1800&color=00D9FF&center=true&vCenter=true&width=620&lines=기술과+사용자+경험을+연결합니다;기술을+이해하는+프로덕트+기획" alt="Typing SVG (KR)" />
 
 <br><br>
 
@@ -40,9 +40,9 @@
 <tr>
 <td valign="top">
 
-가설을 세우고, 실험으로 검증하고, 데이터로 다음 방향을 정하는 일을 좋아하는 **프로덕트 매니저** 지망생입니다.
+가설을 세우고, 실험으로 검증하고, 사용자 반응을 보며 다음 방향을 정하는 일을 좋아하는 **프로덕트 매니저** 지망생입니다.
 
-사용자의 문제를 발견해 기획으로 풀어내는 동시에, 개발/디자인 팀과 같은 언어로 대화할 수 있도록 기술 이해력도 꾸준히 쌓고 있어요.
+사용자의 문제를 발견해 기획으로 풀어내는 동시에, 개발 흐름을 이해하고 개발/디자인 팀과 같은 언어로 대화할 수 있는 것이 제 강점입니다.
 
 국내 채용뿐 아니라 해외 진출까지 염두에 두고 커리어를 준비하고 있습니다.
 
@@ -51,7 +51,7 @@
 
 Aspiring **Product Manager** who bridges technology and users.
 
-I enjoy designing and running the full growth loop — hypothesis validation → data collection → insight generation — and I actively build technical fluency to collaborate closely with engineering and design teams.
+I enjoy designing and running the full growth loop — hypothesis → validation → iteration — and being a planner who understands development is my core strength, letting me collaborate closely with engineering and design teams.
 
 Currently exploring opportunities both in Korea and globally.
 
@@ -153,7 +153,7 @@ Currently exploring opportunities both in Korea and globally.
 
 <br/><br/>
 
-**Data & Database**
+**Technical Literacy**
 <br/>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
@@ -279,7 +279,7 @@ As a non-engineering PM, I'm taking this to understand the real technical constr
 
 **실행**
 
-'고스트 싱크(Ghost Sync)', '달성률 동기화' 등 데이터 기반 비동기적 소셜 기능 기획 및 5주간 전략 아티클 연재.
+'고스트 싱크(Ghost Sync)', '달성률 동기화' 등 사용자 반응 기반 비동기적 소셜 기능 기획 및 5주간 전략 아티클 연재.
 
 5팀 → 3팀(18명) → 4팀(20명) 순으로 실험 규모 피벗, 카카오톡 오픈채팅 + 구글폼/시트 자동 집계로 실사용자 데이터 수집
 
@@ -302,7 +302,7 @@ Designed a text-based 'Ghost Sync' logic and validated the hypothesis over 13 we
 
 **Execution**
 
-Planned data-driven asynchronous social features like 'Ghost Sync' and 'achievement-rate sync,' publishing a 5-part series of strategic PM articles.
+Planned asynchronous social features driven by real user feedback, like 'Ghost Sync' and 'achievement-rate sync,' publishing a 5-part series of strategic PM articles.
 
 Pivoted experiment scale from 5 teams → 3 teams (18 users) → 4 teams (20 users), collecting real user data via KakaoTalk open chats and an auto-aggregating Google Forms/Sheets dashboard.
 
@@ -478,7 +478,7 @@ Facilitated **strategic MOU partnerships** by delivering targeted IT proposals.
 
 <img src="https://img.shields.io/badge/Global_Insight-F9CA24?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Certifications-A8E6CF?style=for-the-badge" />
-<h4>글로벌 인사이트 & 데이터·AI 역량 강화<br/>Global Insight & Data/AI Capacity Building</h4>
+<h4>글로벌 인사이트 & 기술 역량 강화<br/>Global Insight & Technical Capacity Building</h4>
 
 </div>
 </td>
@@ -491,13 +491,13 @@ Facilitated **strategic MOU partnerships** by delivering targeted IT proposals.
 <td valign="top">
 
 - 🌏 **CEBU LCIC 연수** — 글로벌 IT 트렌드 분석
-- 📊 **DSAC M2/M3 수료** — 데이터 사이언스 및 AI 활용 역량 강화 프로그램
+- 📊 **DSAC M2/M3 수료** — AI 활용 역량 강화 프로그램
 
 </td>
 <td valign="top">
 
 - 🌏 **CEBU LCIC Program** — Analyzed global IT trends
-- 📊 **DSAC M2/M3 Certification** — Data science & AI proficiency capacity-building program
+- 📊 **DSAC M2/M3 Certification** — AI proficiency capacity-building program
 
 </td>
 </tr>
@@ -638,11 +638,11 @@ Successfully validated UX improvements for marginalized groups ➔ **Design Exce
 
 **전략**
 
-공공 빅데이터 기반 추천 알고리즘 서비스 플로우 설계 및 데이터-앱 연동 기획
+공공 데이터를 활용한 추천 알고리즘 서비스 플로우 설계 및 앱 연동 기획
 
 **성과**
 
-데이터 활용성 및 헬스케어 확장성 입증 ➔ **입상(Prize Winner)**
+서비스 확장성 및 헬스케어 적용 가능성 입증 ➔ **입상(Prize Winner)**
 
 </td>
 <td valign="top">
@@ -653,11 +653,11 @@ Addressed the absence of personalized sports infrastructure and information tail
 
 **Strategy**
 
-Designed recommendation algorithms using public big data and orchestrated the data-to-app integration.
+Designed recommendation algorithms using public data and orchestrated app integration.
 
 **Impact**
 
-Demonstrated high data utility and scalability in healthcare ➔ **Prize Winner**
+Demonstrated strong scalability and applicability in healthcare ➔ **Prize Winner**
 
 </td>
 </tr>
@@ -683,12 +683,12 @@ Demonstrated high data utility and scalability in healthcare ➔ **Prize Winner*
 <tr>
 <td valign="top">
 
-팀 단위 데이터 사이언 실무 프로젝트 기획 및 데이터 인사이트 도출
+팀 단위 실무 프로젝트 기획 및 인사이트 도출
 
 </td>
 <td valign="top">
 
-Planned team-based data science projects and derived actionable business insights.
+Planned team-based projects and derived actionable business insights.
 
 </td>
 </tr>
@@ -706,7 +706,7 @@ Planned team-based data science projects and derived actionable business insight
 
 <div align="center">
   <img src="https://img.shields.io/badge/Product%20Strategy-9932CC?style=flat-square&logo=strategy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Data--Driven%20UX-00D9FF?style=flat-square&logo=googleanalytics&logoColor=white" />
+  <img src="https://img.shields.io/badge/Dev--Aware%20UX-00D9FF?style=flat-square&logo=googleanalytics&logoColor=white" />
   <img src="https://img.shields.io/badge/Agile%20Methodology-4169E1?style=flat-square&logo=jira&logoColor=white" />
   <img src="https://img.shields.io/badge/Business%20Model%20Analysis-FF6F00?style=flat-square&logo=chart-line&logoColor=white" />
   <img src="https://img.shields.io/badge/Applied%20Generative%20AI-8E75B2?style=flat-square&logo=googlegemini&logoColor=white" />
