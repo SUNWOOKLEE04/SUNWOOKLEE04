@@ -4,7 +4,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Comfortaa&weight=600&size=22&pause=2000&color=00D9FF&center=true&vCenter=true&width=560&lines=Bridging+Technology+and+User+Experience;Data-Driven+Product+Planning" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Comfortaa&weight=600&size=20&pause=1800&color=00D9FF&center=true&vCenter=true&width=620&lines=Bridging+Technology+and+User+Experience;기술과+사용자+경험을+연결합니다;Data-Driven+Product+Planning;데이터+기반+프로덕트+기획" alt="Typing SVG" />
 
 <br><br>
 
@@ -18,9 +18,35 @@
   <img src="https://img.shields.io/badge/PHALANX_Club-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
 
+<br><br>
+
+<img src="https://img.shields.io/badge/Open_to_Work-KR_%2F_Global-2ECC71?style=for-the-badge&logo=googlemaps&logoColor=white" />
+<img src="https://img.shields.io/badge/Currently_Learning-Generative_AI-FFA500?style=for-the-badge&logo=googlegemini&logoColor=white" />
+
 </div>
 
 <br>
+
+## 🧑‍💼 About
+
+<table>
+<tr>
+<th width="50%">🇰🇷 한국어</th>
+<th width="50%">🇺🇸 English</th>
+</tr>
+<tr>
+<td valign="top">
+
+기술과 사용자를 잇는 **프로덕트 매니저** 지망생입니다. 가설 검증 → 데이터 수집 → 인사이트 도출로 이어지는 그로스 사이클을 직접 설계하고 실행하는 것을 좋아하며, 개발/디자인 조직과 협업하기 위한 기술 문해력을 함께 키우고 있습니다. 국내뿐 아니라 해외 진출도 목표로 하고 있습니다.
+
+</td>
+<td valign="top">
+
+Aspiring **Product Manager** who bridges technology and users. I enjoy designing and running the full growth loop — hypothesis validation → data collection → insight generation — and I actively build technical fluency to collaborate closely with engineering and design teams. Currently exploring opportunities both in Korea and globally.
+
+</td>
+</tr>
+</table>
 
 <table align="center">
   <tr>
@@ -36,11 +62,18 @@
 
 <table>
 <tr>
-<th width="10%">Year</th>
-<th width="20%">Project</th>
-<th width="16%">Role</th>
-<th width="27%">🇰🇷 Key Result</th>
-<th width="27%">🇺🇸 Key Result</th>
+<th width="9%">Year</th>
+<th width="19%">Project</th>
+<th width="15%">Role</th>
+<th width="28%">🇰🇷 Key Result</th>
+<th width="29%">🇺🇸 Key Result</th>
+</tr>
+<tr>
+<td align="center"><b>2026</b></td>
+<td>AI Grand ICT Bootcamp</td>
+<td align="center">Learner<br/><sub>(DL / GenAI)</sub></td>
+<td>160시간 딥러닝·생성형 AI 심화 과정 <b>수강 중</b></td>
+<td><b>In progress</b> — 160h Deep Learning & GenAI program</td>
 </tr>
 <tr>
 <td align="center"><b>2026</b></td>
@@ -112,6 +145,15 @@
 
 <br/><br/>
 
+**AI & GenAI Tools**
+<br/>
+<img src="https://img.shields.io/badge/Gemini%20API-8E75B2?style=flat-square&logo=googlegemini&logoColor=white" />
+<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" />
+<img src="https://img.shields.io/badge/Vibe%20Coding-000000?style=flat-square&logo=codemagic&logoColor=white" />
+<img src="https://img.shields.io/badge/Prompt%20Engineering-FF6F61?style=flat-square&logo=openai&logoColor=white" />
+
+<br/><br/>
+
 **Dev Communication**
 <br/>
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
@@ -125,16 +167,67 @@
 
 ## 🚀 Journey
 
-> 각 카드는 🇰🇷 / 🇺🇸 두 열로 구성되어 있어 같은 내용을 두 언어로 나란히 확인할 수 있습니다.
-> Each card is split into 🇰🇷 / 🇺🇸 columns so the same content is readable side-by-side in both languages.
+> 각 카드는 상단 배지 → 🇰🇷 / 🇺🇸 두 열 순서로 구성되어, 펼치자마자 역할·성과가 한눈에 들어오도록 정리했습니다.
+> Each card leads with status badges, then splits into 🇰🇷 / 🇺🇸 columns so role and impact are visible at a glance the moment you expand it.
 
 <details open>
-<summary><h3>🌐 2026 · Global Product Strategy & Data-Driven UX</h3></summary>
+<summary><h3>🌐 2026 · Global Product Strategy & Applied AI</h3></summary>
 
 <table>
-<tr><td colspan="2">
-<img src="https://img.shields.io/badge/Planfit-Product_Strategist-0052CC?style=for-the-badge" />&nbsp;<b>Planfit — Global User Retention & Social Feature Strategy</b>
-</td></tr>
+<tr>
+<td colspan="2" align="left">
+<img src="https://img.shields.io/badge/📚_In_Progress-FFA500?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Learner-6A5ACD?style=for-the-badge" />
+<img src="https://img.shields.io/badge/160h_Program-1abc9c?style=for-the-badge" />
+<h4>원리로 알아가는 딥러닝 기초와 생성형 AI 활용<br/>Deep Learning Fundamentals & Applied Generative AI</h4>
+</td>
+</tr>
+<tr>
+<th width="50%">🇰🇷 한국어</th>
+<th width="50%">🇺🇸 English</th>
+</tr>
+<tr>
+<td valign="top">
+
+**개요**
+동의대학교 인공지능그랜드ICT연구센터 주관, 부산정보산업진흥원 주최 160시간(8h×5일×4주) 심화 과정 (2026.06.24 ~ 07.22)
+
+**커리큘럼**
+- 머신러닝/딥러닝 원리: 데이터 전처리, 회귀·분류·앙상블, MLP·DNN·역전파, CNN/RNN/LSTM, Transformer 구조 이해
+- 생성형 AI 실전: AI 에이전트 개념, 프롬프트 설계(ROCK 기반), Gemini API 및 Supabase API 연동, 바이브 코딩으로 애플리케이션 구현
+- 팀 프로젝트: 생성형 AI/딥러닝 기반 주제 선정 및 협업 실습
+
+**PM 관점의 목적**
+비개발 직군인 PM으로서 AI 제품의 기술적 제약과 가능성을 정확히 이해하고, 개발팀과 더 정교하게 소통하기 위해 수강
+
+</td>
+<td valign="top">
+
+**Overview**
+A 160-hour intensive program (8h × 5 days × 4 weeks, Jun 24 – Jul 22, 2026) hosted by Dong-eui University's AI Grand ICT Research Center and organized by Busan IT Industry Promotion Agency.
+
+**Curriculum**
+- ML/DL fundamentals: data preprocessing, regression/classification/ensembles, MLP/DNN & backpropagation, CNN/RNN/LSTM, and Transformer architecture
+- Applied Generative AI: AI agent concepts, prompt design (ROCK framework), Gemini API & Supabase API integration, building applications via vibe coding
+- Team project: collaborative build using a generative AI / deep learning theme
+
+**Why it matters for PM**
+As a non-engineering PM, I'm taking this to understand the real technical constraints and possibilities of AI products, so I can communicate more precisely with engineering teams.
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<table>
+<tr>
+<td colspan="2" align="left">
+<img src="https://img.shields.io/badge/Product_Strategist-0052CC?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Global-US_Market-2ECC71?style=for-the-badge" />
+<h4>Planfit — Global User Retention & Social Feature Strategy</h4>
+</td>
+</tr>
 <tr>
 <th width="50%">🇰🇷 한국어</th>
 <th width="50%">🇺🇸 English</th>
@@ -173,9 +266,12 @@ Achieved **85.8%** positive response to Ghost Ping (n=28), **45.2%** hybrid (hom
 <summary><h3>👨‍🏫 2025 · Product Leadership & Mentoring</h3></summary>
 
 <table>
-<tr><td colspan="2">
-<img src="https://img.shields.io/badge/Smart_Bandage-Product_Owner-16A34A?style=for-the-badge" />&nbsp;<b>AI-Powered Smart Bandage Platform</b>
-</td></tr>
+<tr>
+<td colspan="2" align="left">
+<img src="https://img.shields.io/badge/Product_Owner-16A34A?style=for-the-badge" />
+<h4>AI-Powered Smart Bandage Platform</h4>
+</td>
+</tr>
 <tr>
 <th width="50%">🇰🇷 한국어</th>
 <th width="50%">🇺🇸 English</th>
@@ -209,9 +305,12 @@ Successfully launched a prototype seamlessly integrating physical QR packaging w
 <br/>
 
 <table>
-<tr><td colspan="2">
-<img src="https://img.shields.io/badge/Web_Platform-Scrum_Master-F97316?style=for-the-badge" />&nbsp;<b>Collaborative Student Portfolio Platform</b>
-</td></tr>
+<tr>
+<td colspan="2" align="left">
+<img src="https://img.shields.io/badge/Scrum_Master-F97316?style=for-the-badge" />
+<h4>Collaborative Student Portfolio Platform</h4>
+</td>
+</tr>
 <tr>
 <th width="50%">🇰🇷 한국어</th>
 <th width="50%">🇺🇸 English</th>
@@ -237,9 +336,12 @@ Managed resources for a 3-person team, designed wireframes, and led the deployme
 <br/>
 
 <table>
-<tr><td colspan="2">
-<img src="https://img.shields.io/badge/Python_RPG-Technical_Mentor-DC2626?style=for-the-badge" />&nbsp;<b>Python RPG Text Game</b>
-</td></tr>
+<tr>
+<td colspan="2" align="left">
+<img src="https://img.shields.io/badge/Technical_Mentor-DC2626?style=for-the-badge" />
+<h4>Python RPG Text Game</h4>
+</td>
+</tr>
 <tr>
 <th width="50%">🇰🇷 한국어</th>
 <th width="50%">🇺🇸 English</th>
@@ -265,9 +367,12 @@ Designed turn-based RPG logic and provided 1:1 technical mentoring to strengthen
 <br/>
 
 <table>
-<tr><td colspan="2">
-<img src="https://img.shields.io/badge/Leadership-Strategic_Planning-6BCF7F?style=for-the-badge" />&nbsp;<b>Educational Leadership & Strategic Planning</b>
-</td></tr>
+<tr>
+<td colspan="2" align="left">
+<img src="https://img.shields.io/badge/Strategic_Planning-6BCF7F?style=for-the-badge" />
+<h4>Educational Leadership & Strategic Planning</h4>
+</td>
+</tr>
 <tr>
 <th width="50%">🇰🇷 한국어</th>
 <th width="50%">🇺🇸 English</th>
@@ -296,9 +401,12 @@ Served as a coding instructor (Robotics Club) and established strategic directio
 <summary><h3>🚀 2024 · Strategic Growth & Business Alignment</h3></summary>
 
 <table>
-<tr><td colspan="2">
-<img src="https://img.shields.io/badge/CAHLP-Tech_Strategist-FF9FF3?style=for-the-badge" />&nbsp;<b>CAHLP Company</b>
-</td></tr>
+<tr>
+<td colspan="2" align="left">
+<img src="https://img.shields.io/badge/Tech_Strategist-FF9FF3?style=for-the-badge" />
+<h4>CAHLP Company</h4>
+</td>
+</tr>
 <tr>
 <th width="50%">🇰🇷 한국어</th>
 <th width="50%">🇺🇸 English</th>
@@ -328,9 +436,12 @@ Facilitated **strategic MOU partnerships** by delivering targeted IT proposals.
 <br/>
 
 <table>
-<tr><td colspan="2">
-<img src="https://img.shields.io/badge/Global-B2B_Networking-F9CA24?style=for-the-badge" />&nbsp;<b>Global Insights & B2B Networking</b>
-</td></tr>
+<tr>
+<td colspan="2" align="left">
+<img src="https://img.shields.io/badge/B2B_Networking-F9CA24?style=for-the-badge" />
+<h4>Global Insights & B2B Networking</h4>
+</td>
+</tr>
 <tr>
 <th width="50%">🇰🇷 한국어</th>
 <th width="50%">🇺🇸 English</th>
@@ -352,9 +463,12 @@ Analyzed global IT trends (CEBU LCIC) and actively engaged in B2B networking to 
 <br/>
 
 <table>
-<tr><td colspan="2">
-<img src="https://img.shields.io/badge/AI_Capacity-Certifications-A8E6CF?style=for-the-badge" />&nbsp;<b>Data & AI Capacity Building (DSAC & D-COSS)</b>
-</td></tr>
+<tr>
+<td colspan="2" align="left">
+<img src="https://img.shields.io/badge/Certifications-A8E6CF?style=for-the-badge" />
+<h4>Data & AI Capacity Building (DSAC & D-COSS)</h4>
+</td>
+</tr>
 <tr>
 <th width="50%">🇰🇷 한국어</th>
 <th width="50%">🇺🇸 English</th>
@@ -379,9 +493,12 @@ Completed Data Science (DSAC M2/M3) and AI proficiency programs to empower data-
 <summary><h3>🏆 2021 · PM Foundation & Problem Solving</h3></summary>
 
 <table>
-<tr><td colspan="2">
-<img src="https://img.shields.io/badge/Busan_AI-Award_Winner-FF6B6B?style=for-the-badge" />&nbsp;<b>AI Camera-based PE Attendance System</b>
-</td></tr>
+<tr>
+<td colspan="2" align="left">
+<img src="https://img.shields.io/badge/Award_Winner-FF6B6B?style=for-the-badge" />
+<h4>AI Camera-based PE Attendance System</h4>
+</td>
+</tr>
 <tr>
 <th width="50%">🇰🇷 한국어</th>
 <th width="50%">🇺🇸 English</th>
@@ -417,9 +534,12 @@ Validated the viability of the EdTech MVP ➔ **Won the Superintendent of Educat
 <br/>
 
 <table>
-<tr><td colspan="2">
-<img src="https://img.shields.io/badge/ICT_Hackathon-Design_Award-4ECDC4?style=for-the-badge" />&nbsp;<b>Intelligent Kiosk for Visually Impaired Users</b>
-</td></tr>
+<tr>
+<td colspan="2" align="left">
+<img src="https://img.shields.io/badge/Design_Award-4ECDC4?style=for-the-badge" />
+<h4>Intelligent Kiosk for Visually Impaired Users</h4>
+</td>
+</tr>
 <tr>
 <th width="50%">🇰🇷 한국어</th>
 <th width="50%">🇺🇸 English</th>
@@ -459,9 +579,12 @@ Successfully validated UX improvements for marginalized groups ➔ **Design Exce
 <br/>
 
 <table>
-<tr><td colspan="2">
-<img src="https://img.shields.io/badge/Sports_Data-Prize_Winner-45B7D1?style=for-the-badge" />&nbsp;<b>Adaptive Sports Recommendation System</b>
-</td></tr>
+<tr>
+<td colspan="2" align="left">
+<img src="https://img.shields.io/badge/Prize_Winner-45B7D1?style=for-the-badge" />
+<h4>Adaptive Sports Recommendation System</h4>
+</td>
+</tr>
 <tr>
 <th width="50%">🇰🇷 한국어</th>
 <th width="50%">🇺🇸 English</th>
@@ -497,9 +620,12 @@ Demonstrated high data utility and scalability in healthcare ➔ **Prize Winner*
 <br/>
 
 <table>
-<tr><td colspan="2">
-<img src="https://img.shields.io/badge/PNU_Datathon-Participant-96CEB4?style=for-the-badge" />&nbsp;<b>PNU Datathon</b>
-</td></tr>
+<tr>
+<td colspan="2" align="left">
+<img src="https://img.shields.io/badge/Participant-96CEB4?style=for-the-badge" />
+<h4>PNU Datathon</h4>
+</td>
+</tr>
 <tr>
 <th width="50%">🇰🇷 한국어</th>
 <th width="50%">🇺🇸 English</th>
@@ -529,11 +655,17 @@ Planned team-based data science projects and derived actionable business insight
   <img src="https://img.shields.io/badge/Data--Driven%20UX-00D9FF?style=flat-square&logo=googleanalytics&logoColor=white" />
   <img src="https://img.shields.io/badge/Agile%20Methodology-4169E1?style=flat-square&logo=jira&logoColor=white" />
   <img src="https://img.shields.io/badge/Business%20Model%20Analysis-FF6F00?style=flat-square&logo=chart-line&logoColor=white" />
+  <img src="https://img.shields.io/badge/Applied%20Generative%20AI-8E75B2?style=flat-square&logo=googlegemini&logoColor=white" />
 </div>
 
 <br>
 
 ## 📊 Activity
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SUNWOOKLEE04&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SUNWOOKLEE04&theme=tokyonight&hide_border=true&background=1a1b27&stroke=70a5fd&ring=bf91f3&fire=38bdae" height="165" />
+</div>
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=SUNWOOKLEE04&theme=tokyo-night&hide_border=true&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true" width="100%" />
