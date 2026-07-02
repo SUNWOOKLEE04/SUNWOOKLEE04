@@ -715,18 +715,15 @@ Planned team-based data science projects and derived actionable business insight
 <br>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D4FF,50:090979,100:020024&height=260&section=header&text=Sunwook%20Lee&fontSize=64&fontColor=ffffff&fontAlignY=42&desc=Tech-Savvy%20Product%20Manager&descSize=18&descAlignY=62" />
-</div>
-
-<div align="center">
 
 ## 📊 Activity
 
 </div>
+
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=SUNWOOKLEE04&theme=tokyonight&hide_border=true&background=1a1b27&stroke=70a5fd&ring=bf91f3&fire=38bdae" height="165" />
 </div>
-</div>
+
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=SUNWOOKLEE04&theme=tokyo-night&hide_border=true&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true" width="100%" />
 </div>
@@ -748,4 +745,3 @@ Planned team-based data science projects and derived actionable business insight
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D4FF,50:090979,100:020024&height=100&section=footer" />
 </div>
-
