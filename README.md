@@ -720,8 +720,6 @@ Planned team-based data science projects and derived actionable business insight
 
 </div>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SUNWOOKLEE04&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9" height="165" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=SUNWOOKLEE04&theme=tokyonight&hide_border=true&background=1a1b27&stroke=70a5fd&ring=bf91f3&fire=38bdae" height="165" />
 </div>
 
