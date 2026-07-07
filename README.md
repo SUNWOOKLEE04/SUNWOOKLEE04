@@ -358,18 +358,18 @@ Pivoted experiment scale from 5 teams → 3 teams (18 users) → 4 teams (20 use
 
 **대회 준비 지도**
 
-- 🏅 학생 1명을 **USACO(미국 컴퓨팅 올림피아드)** / **AI SW 사고력대회** 출전까지 코칭
+- 학생 1명을 **USACO(미국 컴퓨팅 올림피아드)** / **AI SW 사고력대회** 출전까지 코칭
 - 그 외 다수 학생들도 각자 수준에 맞춰 코딩·로보틱스 대회 준비 지도 중<br/>→ 여러 건의 **대회 참가·수상** 성과로 이어짐
 
 **프로젝트 하이라이트** <sub>(전체 중 일부 예시)</sub>
 
-- 🩹 **AI-Powered Smart Bandage Platform** <sub>(2025)</sub><br/>Gemini Vision API로 상처 상태를 평가하는 QR+웹 프로토타입<br/>🔗 [Repo](https://github.com/SUNWOOKLEE04/ai-wound-assessment-tool)
+- **AI-Powered Smart Bandage Platform** <sub>(2025)</sub><br/>Gemini Vision API로 상처 상태를 평가하는 QR+웹 프로토타입<br/>🔗 [Repo](https://github.com/SUNWOOKLEE04/ai-wound-assessment-tool)
 
-- 🌐 **Collaborative Student Portfolio Platform** <sub>(2025)</sub><br/>3인 학생 팀이 만든 10+ 페이지 반응형 포트폴리오 사이트<br/>🔗 [Repo](https://github.com/SUNWOOKLEE04/student-portfolio)
+- **Collaborative Student Portfolio Platform** <sub>(2025)</sub><br/>3인 학생 팀이 만든 10+ 페이지 반응형 포트폴리오 사이트<br/>🔗 [Repo](https://github.com/SUNWOOKLEE04/student-portfolio)
 
-- 🎮 **Python RPG Text Game** <sub>(2025)</sub><br/>파이썬 기초 학습을 위한 턴제 RPG 게임<br/>🔗 [Repo](https://github.com/Daniel-choi-11/Python-RPG-text-game)
+- **Python RPG Text Game** <sub>(2025)</sub><br/>파이썬 기초 학습을 위한 턴제 RPG 게임<br/>🔗 [Repo](https://github.com/Daniel-choi-11/Python-RPG-text-game)
 
-- 🎤 **BOYNEXTDOOR Lovers Attendance Project** <sub>(2026.06)</sub><br/>초등학생이 좋아하는 아이돌 그룹을 소재로 함께 만든 출퇴근·스케줄 관리 콘솔 프로그램<br/>딕셔너리 기반 비밀번호/스케줄 바인딩, 리스트 언패킹, `.strip()` 입력 방어 코드 적용<br/>🔗 [Repo](https://github.com/BBIO-0530/BOYNEXTDOOR-LOVERS-ATTENDANCE-PROJECT)
+- **BOYNEXTDOOR Lovers Attendance Project** <sub>(2026.06)</sub><br/>초등학생이 좋아하는 아이돌 그룹을 소재로 함께 만든 출퇴근·스케줄 관리 콘솔 프로그램<br/>딕셔너리 기반 비밀번호/스케줄 바인딩, 리스트 언패킹, `.strip()` 입력 방어 코드 적용<br/>🔗 [Repo](https://github.com/BBIO-0530/BOYNEXTDOOR-LOVERS-ATTENDANCE-PROJECT)
 
 <sub>※ 위는 대표 사례이며, 이 외에도 여러 학생들과 함께 진행 중인 프로젝트가 더 있습니다.</sub>
 
@@ -392,18 +392,18 @@ Designed project-based curricula tailored to each student's interests and level,
 
 **Competition Coaching**
 
-- 🏅 Coached one student all the way to competing in **USACO (USA Computing Olympiad)** / **AI SW Creative Thinking Competition**
+- Coached one student all the way to competing in **USACO (USA Computing Olympiad)** / **AI SW Creative Thinking Competition**
 - Also coaching several other students at their own level for coding/robotics competitions<br/>→ resulting in multiple **competition entries and wins**
 
 **Project Highlights** <sub>(a sample, not the full list)</sub>
 
-- 🩹 **AI-Powered Smart Bandage Platform** <sub>(2025)</sub><br/>QR + web prototype using the Gemini Vision API to assess wound conditions<br/>🔗 [Repo](https://github.com/SUNWOOKLEE04/ai-wound-assessment-tool)
+- **AI-Powered Smart Bandage Platform** <sub>(2025)</sub><br/>QR + web prototype using the Gemini Vision API to assess wound conditions<br/>🔗 [Repo](https://github.com/SUNWOOKLEE04/ai-wound-assessment-tool)
 
-- 🌐 **Collaborative Student Portfolio Platform** <sub>(2025)</sub><br/>A 10+ page responsive portfolio site built by a 3-person student team<br/>🔗 [Repo](https://github.com/SUNWOOKLEE04/student-portfolio)
+- **Collaborative Student Portfolio Platform** <sub>(2025)</sub><br/>A 10+ page responsive portfolio site built by a 3-person student team<br/>🔗 [Repo](https://github.com/SUNWOOKLEE04/student-portfolio)
 
-- 🎮 **Python RPG Text Game** <sub>(2025)</sub><br/>A turn-based RPG built to reinforce foundational Python skills<br/>🔗 [Repo](https://github.com/Daniel-choi-11/Python-RPG-text-game)
+- **Python RPG Text Game** <sub>(2025)</sub><br/>A turn-based RPG built to reinforce foundational Python skills<br/>🔗 [Repo](https://github.com/Daniel-choi-11/Python-RPG-text-game)
 
-- 🎤 **BOYNEXTDOOR Lovers Attendance Project** <sub>(Jun 2026)</sub><br/>Built with an elementary-school student around their favorite idol group: a console app for check-in/schedule management<br/>Dictionary-based password/schedule binding, list unpacking, and `.strip()` input-guard logic<br/>🔗 [Repo](https://github.com/BBIO-0530/BOYNEXTDOOR-LOVERS-ATTENDANCE-PROJECT)
+- **BOYNEXTDOOR Lovers Attendance Project** <sub>(Jun 2026)</sub><br/>Built with an elementary-school student around their favorite idol group: a console app for check-in/schedule management<br/>Dictionary-based password/schedule binding, list unpacking, and `.strip()` input-guard logic<br/>🔗 [Repo](https://github.com/BBIO-0530/BOYNEXTDOOR-LOVERS-ATTENDANCE-PROJECT)
 
 <sub>※ These are representative examples — several more student projects are in progress beyond this list.</sub>
 
@@ -496,13 +496,13 @@ Facilitated **strategic MOU partnerships** by delivering targeted IT proposals.
 <tr>
 <td valign="top">
 
-- 🌏 **CEBU LCIC 연수** — 글로벌 IT 트렌드 분석
+- 🌏 **CEBU LCIC 연수** (여름방학, 1개월) — 어학연수를 통한 영어 커뮤니케이션 역량 강화
 - 📊 **DSAC M2/M3 수료** — 데이터 사이언스 및 AI 활용 역량 강화 프로그램
 
 </td>
 <td valign="top">
 
-- 🌏 **CEBU LCIC Program** — Analyzed global IT trends
+- 🌏 **CEBU LCIC Program** (1 month, summer break) — Strengthened English communication through an immersive language program
 - 📊 **DSAC M2/M3 Certification** — Data science & AI proficiency capacity-building program
 
 </td>
