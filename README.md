@@ -40,9 +40,9 @@
 <tr>
 <td valign="top">
 
-가설을 세우고, 실험으로 검증하고, 사용자 반응을 보며 다음 방향을 정하는 일을 좋아하는 **AI 프로덕트 전략가(Product Strategist)** 지망생입니다.
+가설을 세우고, 실험으로 검증하고, 사용자 반응을 보며 다음 방향을 정하는 일을 좋아하는 **AI 프로덕트 전략가(AI Product Strategist)** 지망생입니다.
 
-시장과 사용자의 문제를 발견해 제품 전략으로 풀어내는 동시에, 개발 흐름을 이해하고 개발/디자인 팀과 같은 언어로 대화할 수 있는 것이 제 강점입니다.
+시장과 사용자 행동을 분석해 제품 전략으로 연결하고, 개발 흐름을 이해해 엔지니어와 같은 언어로 협업하는 것을 강점으로 합니다.
 
 기능 명세보다는 "무엇을, 왜 만들어야 하는가"와 "어떻게 검증하고 성장시킬 것인가"를 고민하는 쪽에 더 가깝습니다.
 
@@ -53,7 +53,7 @@
 
 Aspiring **AI Product Strategist** who bridges technology, product strategy, and user behavior.
 
-I enjoy designing and running the full growth loop — hypothesis → validation → iteration — grounded in a strong understanding of development, which lets me collaborate closely with engineering and design teams.
+I connect market and user-behavior analysis into product strategy, and collaborate with engineers in their own language by understanding how development actually works.
 
 I lean less toward writing feature specs and more toward answering "what should we build, and why" and "how do we validate and grow it."
 
@@ -147,7 +147,7 @@ Currently exploring opportunities both in Korea and globally.
 
 <div align="center">
 
-**Planning & Collaboration**
+**Product Strategy & Collaboration**
 <br/>
 <img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white" />
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" />
@@ -230,7 +230,7 @@ Currently exploring opportunities both in Korea and globally.
 
 **제품 전략가 관점의 목적**
 
-비개발 직군의 프로덕트 전략가로서 AI 제품의 기술적 제약과 가능성을 정확히 이해하고, 개발팀과 더 정교하게 소통하기 위해 수강
+제품 전략을 담당하는 입장에서 AI 제품의 기술적 제약과 가능성을 정확히 이해하고, 개발팀과 더 정교하게 소통하기 위해 수강
 
 </td>
 <td valign="top">
@@ -247,7 +247,7 @@ A 160-hour intensive program (8h × 5 days × 4 weeks, Jun 24 – Jul 22, 2026) 
 
 **Why it matters for a Product Strategist**
 
-As a non-engineering product strategist, I'm taking this to understand the real technical constraints and possibilities of AI products, so I can communicate more precisely with engineering teams.
+As a product strategist, I'm taking this to understand the real technical constraints and possibilities of AI products, so I can communicate more precisely with engineering teams.
 
 </td>
 </tr>
@@ -294,6 +294,7 @@ As a non-engineering product strategist, I'm taking this to understand the real 
 - 목표 달성률 **82.5%**
 - 4일차 참여도 최저점(40점) 이후 수동 개입으로 5일차 70점 반등 견인
 - 챌린지 종료 후 강제 인증 폐지·지인 초대 개방으로 **자율 커뮤니티 전환(Exit 전략)** 설계
+- 개발 착수 전 행동 실험으로 가설을 검증해 실행 리스크를 사전에 축소
 
 </td>
 <td valign="top">
@@ -317,6 +318,7 @@ Pivoted experiment scale from 5 teams → 3 teams (18 users) → 4 teams (20 use
 - **82.5%** goal-completion rate
 - Drove a rebound from the day-4 engagement low (40 pts) to 70 pts on day 5 through timed manual intervention
 - Designed an **Exit Strategy**, transitioning the challenge into a self-sustaining community
+- Validated product hypotheses before implementation, reducing execution uncertainty through behavioral experiments
 
 </td>
 </tr>
@@ -373,7 +375,7 @@ Pivoted experiment scale from 5 teams → 3 teams (18 users) → 4 teams (20 use
 
 **제품 전략가 관점의 의미**
 
-학생 개인의 관심사를 기술 학습과 연결해 몰입도를 높이는 커리큘럼 설계 경험은, 사용자의 맥락에 맞춰 제품과 기능을 기획하는 전략가의 역량과 맞닿아 있습니다.
+학생 개인의 관심사를 기술 학습과 연결해 몰입도를 높이는 커리큘럼 설계 경험은, 사용자 행동에 맞춰 제품을 설계하는 전략가의 역량과 맞닿아 있습니다.
 
 학업·편입 준비와 병행하면서도 2025년 2월부터 꾸준히 이어온 활동입니다
 
@@ -407,7 +409,7 @@ Designed project-based curricula tailored to each student's interests and level,
 
 **Why it matters for a Product Strategist**
 
-Designing curricula that connect a student's personal interests to technical learning mirrors the skill of shaping products and features around real user context.
+Designing curricula that connect a student's personal interests to technical learning mirrors the skill of designing products around real user behavior.
 
 Sustained consistently since February 2025, alongside coursework and my university-transfer preparation.
 
@@ -704,16 +706,43 @@ Planned team-based data science projects and derived actionable business insight
 
 <div align="center">
 
+## 🛒 Shipped Product
+
+</div>
+
+<table>
+<tr>
+<th width="50%">🇰🇷 한국어</th>
+<th width="50%">🇺🇸 English</th>
+</tr>
+<tr>
+<td valign="top">
+
+_실제 유저가 사용하는 서비스로 이어지는 프로젝트를 준비 중입니다. 완료되는 대로 이 섹션에 업데이트할 예정입니다._
+
+</td>
+<td valign="top">
+
+_A project that ships as a real, user-facing product is in progress. This section will be updated once it's live._
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<div align="center">
+
 ## 📖 Current Focus
 
 </div>
 
 <div align="center">
   <img src="https://img.shields.io/badge/Product%20Strategy-9932CC?style=flat-square&logo=strategy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Dev--Aware%20UX-00D9FF?style=flat-square&logo=googleanalytics&logoColor=white" />
-  <img src="https://img.shields.io/badge/Agile%20Methodology-4169E1?style=flat-square&logo=jira&logoColor=white" />
-  <img src="https://img.shields.io/badge/Business%20Model%20Analysis-FF6F00?style=flat-square&logo=chart-line&logoColor=white" />
-  <img src="https://img.shields.io/badge/Applied%20Generative%20AI-8E75B2?style=flat-square&logo=googlegemini&logoColor=white" />
+  <img src="https://img.shields.io/badge/Behavioral%20Experiment-00D9FF?style=flat-square&logo=googleanalytics&logoColor=white" />
+  <img src="https://img.shields.io/badge/Growth%20Validation-2ECC71?style=flat-square&logo=chart-line&logoColor=white" />
+  <img src="https://img.shields.io/badge/Applied%20AI-8E75B2?style=flat-square&logo=googlegemini&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tech%20Communication-4169E1?style=flat-square&logo=jira&logoColor=white" />
 </div>
 
 <br>
