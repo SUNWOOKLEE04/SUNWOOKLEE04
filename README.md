@@ -4,9 +4,9 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Comfortaa&weight=600&size=20&pause=1800&color=00D9FF&center=true&vCenter=true&width=620&lines=Bridging+Technology%2C+Product+Strategy%2C+and+User+Behavior;Turning+Hypotheses+Into+Growth+Loops" alt="Typing SVG (EN)" />
+<img src="https://readme-typing-svg.demolab.com?font=Comfortaa&weight=600&size=20&pause=1800&color=00D9FF&center=true&vCenter=true&width=620&lines=Bridging+Technology%2C+Product+Strategy%2C+and+User+Behavior;Turning+Hypotheses+Into+Growth+Loops" alt="Typing SVG (EN)" />
 <br/>
-<img src="https://readme-typing-svg.herokuapp.com?font=Do+Hyeon&weight=500&size=20&pause=1800&color=00D9FF&center=true&vCenter=true&width=620&lines=기술%2C+제품+전략%2C+사용자+행동을+연결합니다;가설을+세우고+성장+루프를+설계합니다" alt="Typing SVG (KR)" />
+<img src="https://readme-typing-svg.demolab.com?font=Do+Hyeon&weight=500&size=20&pause=1800&color=00D9FF&center=true&vCenter=true&width=620&lines=기술%2C+제품+전략%2C+사용자+행동을+연결합니다;가설을+세우고+성장+루프를+설계합니다" alt="Typing SVG (KR)" />
 
 <br><br>
 
