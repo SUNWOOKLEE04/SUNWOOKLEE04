@@ -118,14 +118,14 @@ Currently exploring opportunities both in Korea and globally.
 <tr>
 <td align="center"><b>2021</b></td>
 <td>AI PE Attendance System</td>
-<td align="center">Product Lead</td>
+<td align="center">Product Planner</td>
 <td>부산 AI 경진대회 <b>교육감상</b> 수상</td>
 <td><b>Superintendent of Education Award</b>, Busan AI Competition</td>
 </tr>
 <tr>
 <td align="center"><b>2021</b></td>
 <td>Barrier-free Kiosk</td>
-<td align="center">Product Lead</td>
+<td align="center">Product Planner</td>
 <td>ICT 해커톤 <b>디자인 우수상</b></td>
 <td><b>Design Excellence Award</b>, ICT Hackathon</td>
 </tr>
@@ -230,7 +230,7 @@ Currently exploring opportunities both in Korea and globally.
 
 **제품 전략가 관점의 목적**
 
-제품 전략을 담당하는 입장에서 AI 제품의 기술적 제약과 가능성을 정확히 이해하고, 개발팀과 더 정교하게 소통하기 위해 수강
+AI 제품이 기술적으로 어디까지 가능하고 어디서 한계에 부딪히는지 직접 체감하고, 개발팀과 정교하게 소통하기 위해 수강
 
 </td>
 <td valign="top">
@@ -247,7 +247,7 @@ A 160-hour intensive program (8h × 5 days × 4 weeks, Jun 24 – Jul 22, 2026) 
 
 **Why it matters for a Product Strategist**
 
-As a product strategist, I'm taking this to understand the real technical constraints and possibilities of AI products, so I can communicate more precisely with engineering teams.
+This program lets me see firsthand where AI products are technically feasible and where they break down, so my conversations with engineering teams stay grounded in reality rather than intuition.
 
 </td>
 </tr>
@@ -303,7 +303,7 @@ As a product strategist, I'm taking this to understand the real technical constr
 
 Devised product strategies for the global fitness app 'Planfit' to penetrate the US market and build sustainable user habits.
 
-Designed a text-based 'Ghost Sync' logic and validated the hypothesis over 13 weeks via a Wizard-of-Oz style MVP, without engineering resources.
+Designed a text-based 'Ghost Sync' logic and validated the hypothesis over 13 weeks via a Wizard-of-Oz style MVP.
 
 **Execution**
 
@@ -375,7 +375,7 @@ Pivoted experiment scale from 5 teams → 3 teams (18 users) → 4 teams (20 use
 
 **제품 전략가 관점의 의미**
 
-학생 개인의 관심사를 기술 학습과 연결해 몰입도를 높이는 커리큘럼 설계 경험은, 사용자 행동에 맞춰 제품을 설계하는 전략가의 역량과 맞닿아 있습니다.
+각 학생의 흥미를 학습 동기로 바꾸는 커리큘럼을 짜다 보면, 결국 사용자가 실제로 어떻게 움직이는지부터 관찰하게 됩니다 — 제품을 설계할 때와 같은 순서입니다.
 
 학업·편입 준비와 병행하면서도 2025년 2월부터 꾸준히 이어온 활동입니다
 
@@ -409,7 +409,7 @@ Designed project-based curricula tailored to each student's interests and level,
 
 **Why it matters for a Product Strategist**
 
-Designing curricula that connect a student's personal interests to technical learning mirrors the skill of designing products around real user behavior.
+Building a curriculum around what actually keeps a student engaged starts from the same place product design does: watching how people behave, not assuming how they will.
 
 Sustained consistently since February 2025, alongside coursework and my university-transfer preparation.
 
@@ -754,7 +754,7 @@ _A project that ships as a real, user-facing product is in progress. This sectio
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SUNWOOKLEE04&theme=tokyonight&hide_border=true&background=1a1b27&stroke=70a5fd&ring=bf91f3&fire=38bdae" height="165" />
+  <img src="https://streak-stats.demolab.com/?user=SUNWOOKLEE04&theme=tokyonight&hide_border=true&background=1a1b27&stroke=70a5fd&ring=bf91f3&fire=38bdae" height="165" />
 </div>
 
 <div align="center">
