@@ -1,12 +1,12 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D4FF,50:090979,100:020024&height=260&section=header&text=Sunwook%20Lee&fontSize=64&fontColor=ffffff&fontAlignY=42&desc=Tech-Savvy%20Product%20Manager&descSize=18&descAlignY=62" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D4FF,50:090979,100:020024&height=260&section=header&text=Sunwook%20Lee&fontSize=64&fontColor=ffffff&fontAlignY=42&desc=AI%20Product%20Strategist&descSize=18&descAlignY=62" />
 </div>
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Comfortaa&weight=600&size=20&pause=1800&color=00D9FF&center=true&vCenter=true&width=620&lines=Bridging+Technology+and+User+Experience;Planning+Backed+by+Technical+Fluency" alt="Typing SVG (EN)" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Comfortaa&weight=600&size=20&pause=1800&color=00D9FF&center=true&vCenter=true&width=620&lines=Bridging+Technology%2C+Product+Strategy%2C+and+User+Behavior;Turning+Hypotheses+Into+Growth+Loops" alt="Typing SVG (EN)" />
 <br/>
-<img src="https://readme-typing-svg.herokuapp.com?font=Do+Hyeon&weight=500&size=20&pause=1800&color=00D9FF&center=true&vCenter=true&width=620&lines=기술과+사용자+경험을+연결합니다;기술을+이해하는+프로덕트+기획" alt="Typing SVG (KR)" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Do+Hyeon&weight=500&size=20&pause=1800&color=00D9FF&center=true&vCenter=true&width=620&lines=기술%2C+제품+전략%2C+사용자+행동을+연결합니다;가설을+세우고+성장+루프를+설계합니다" alt="Typing SVG (KR)" />
 
 <br><br>
 
@@ -40,18 +40,22 @@
 <tr>
 <td valign="top">
 
-가설을 세우고, 실험으로 검증하고, 사용자 반응을 보며 다음 방향을 정하는 일을 좋아하는 **프로덕트 매니저** 지망생입니다.
+가설을 세우고, 실험으로 검증하고, 사용자 반응을 보며 다음 방향을 정하는 일을 좋아하는 **AI 프로덕트 전략가(Product Strategist)** 지망생입니다.
 
-사용자의 문제를 발견해 기획으로 풀어내는 동시에, 개발 흐름을 이해하고 개발/디자인 팀과 같은 언어로 대화할 수 있는 것이 제 강점입니다.
+시장과 사용자의 문제를 발견해 제품 전략으로 풀어내는 동시에, 개발 흐름을 이해하고 개발/디자인 팀과 같은 언어로 대화할 수 있는 것이 제 강점입니다.
+
+기능 명세보다는 "무엇을, 왜 만들어야 하는가"와 "어떻게 검증하고 성장시킬 것인가"를 고민하는 쪽에 더 가깝습니다.
 
 국내 채용뿐 아니라 해외 진출까지 염두에 두고 커리어를 준비하고 있습니다.
 
 </td>
 <td valign="top">
 
-Aspiring **Product Manager** who bridges technology and users.
+Aspiring **AI Product Strategist** who bridges technology, product strategy, and user behavior.
 
-I enjoy designing and running the full growth loop — hypothesis → validation → iteration — and being a planner who understands development is my core strength, letting me collaborate closely with engineering and design teams.
+I enjoy designing and running the full growth loop — hypothesis → validation → iteration — grounded in a strong understanding of development, which lets me collaborate closely with engineering and design teams.
+
+I lean less toward writing feature specs and more toward answering "what should we build, and why" and "how do we validate and grow it."
 
 Currently exploring opportunities both in Korea and globally.
 
@@ -62,7 +66,7 @@ Currently exploring opportunities both in Korea and globally.
 <table align="center">
   <tr>
     <td align="center" width="200"><b>📍 Location</b><br/>South Korea</td>
-    <td align="center" width="200"><b>🎯 Focus</b><br/>IT Strategy & PM</td>
+    <td align="center" width="200"><b>🎯 Focus</b><br/>Product Strategy & AI</td>
     <td align="center" width="200"><b>🤝 Status</b><br/>Open to Work<br/><sub>(KR / Global)</sub></td>
   </tr>
 </table>
@@ -114,14 +118,14 @@ Currently exploring opportunities both in Korea and globally.
 <tr>
 <td align="center"><b>2021</b></td>
 <td>AI PE Attendance System</td>
-<td align="center">PM</td>
+<td align="center">Product Lead</td>
 <td>부산 AI 경진대회 <b>교육감상</b> 수상</td>
 <td><b>Superintendent of Education Award</b>, Busan AI Competition</td>
 </tr>
 <tr>
 <td align="center"><b>2021</b></td>
 <td>Barrier-free Kiosk</td>
-<td align="center">PM</td>
+<td align="center">Product Lead</td>
 <td>ICT 해커톤 <b>디자인 우수상</b></td>
 <td><b>Design Excellence Award</b>, ICT Hackathon</td>
 </tr>
@@ -224,9 +228,9 @@ Currently exploring opportunities both in Korea and globally.
 - 생성형 AI 실전: AI 에이전트 개념, 프롬프트 설계(ROCK 기반), Gemini API 및 Supabase API 연동, 바이브 코딩으로 애플리케이션 구현
 - 팀 프로젝트: 생성형 AI/딥러닝 기반 주제 선정 및 협업 실습
 
-**PM 관점의 목적**
+**제품 전략가 관점의 목적**
 
-비개발 직군인 PM으로서 AI 제품의 기술적 제약과 가능성을 정확히 이해하고, 개발팀과 더 정교하게 소통하기 위해 수강
+비개발 직군의 프로덕트 전략가로서 AI 제품의 기술적 제약과 가능성을 정확히 이해하고, 개발팀과 더 정교하게 소통하기 위해 수강
 
 </td>
 <td valign="top">
@@ -241,9 +245,9 @@ A 160-hour intensive program (8h × 5 days × 4 weeks, Jun 24 – Jul 22, 2026) 
 - Applied Generative AI: AI agent concepts, prompt design (ROCK framework), Gemini API & Supabase API integration, building applications via vibe coding
 - Team project: collaborative build using a generative AI / deep learning theme
 
-**Why it matters for PM**
+**Why it matters for a Product Strategist**
 
-As a non-engineering PM, I'm taking this to understand the real technical constraints and possibilities of AI products, so I can communicate more precisely with engineering teams.
+As a non-engineering product strategist, I'm taking this to understand the real technical constraints and possibilities of AI products, so I can communicate more precisely with engineering teams.
 
 </td>
 </tr>
@@ -302,7 +306,7 @@ Designed a text-based 'Ghost Sync' logic and validated the hypothesis over 13 we
 
 **Execution**
 
-Planned asynchronous social features driven by real user feedback, like 'Ghost Sync' and 'achievement-rate sync,' publishing a 5-part series of strategic PM articles.
+Planned asynchronous social features driven by real user feedback, like 'Ghost Sync' and 'achievement-rate sync,' publishing a 5-part series of strategic articles.
 
 Pivoted experiment scale from 5 teams → 3 teams (18 users) → 4 teams (20 users), collecting real user data via KakaoTalk open chats and an auto-aggregating Google Forms/Sheets dashboard.
 
@@ -367,9 +371,9 @@ Pivoted experiment scale from 5 teams → 3 teams (18 users) → 4 teams (20 use
 
 <sub>※ 위는 대표 사례이며, 이 외에도 여러 학생들과 함께 진행 중인 프로젝트가 더 있습니다.</sub>
 
-**PM 관점의 의미**
+**제품 전략가 관점의 의미**
 
-학생 개인의 관심사를 기술 학습과 연결해 몰입도를 높이는 커리큘럼 설계 경험은, 사용자의 맥락에 맞춰 기능을 기획하는 PM 역량과 맞닿아 있습니다.
+학생 개인의 관심사를 기술 학습과 연결해 몰입도를 높이는 커리큘럼 설계 경험은, 사용자의 맥락에 맞춰 제품과 기능을 기획하는 전략가의 역량과 맞닿아 있습니다.
 
 학업·편입 준비와 병행하면서도 2025년 2월부터 꾸준히 이어온 활동입니다
 
@@ -401,9 +405,9 @@ Designed project-based curricula tailored to each student's interests and level,
 
 <sub>※ These are representative examples — several more student projects are in progress beyond this list.</sub>
 
-**Why it matters for PM**
+**Why it matters for a Product Strategist**
 
-Designing curricula that connect a student's personal interests to technical learning mirrors the PM skill of shaping features around real user context.
+Designing curricula that connect a student's personal interests to technical learning mirrors the skill of shaping products and features around real user context.
 
 Sustained consistently since February 2025, alongside coursework and my university-transfer preparation.
 
@@ -506,7 +510,7 @@ Facilitated **strategic MOU partnerships** by delivering targeted IT proposals.
 </details>
 
 <details>
-<summary align="center"><h3>🏆 2021 · PM Foundation & Problem Solving</h3></summary>
+<summary align="center"><h3>🏆 2021 · Product Foundation & Problem Solving</h3></summary>
 
 <table>
 <tr>
