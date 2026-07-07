@@ -228,7 +228,7 @@ Currently exploring opportunities both in Korea and globally.
 - 생성형 AI 실전: AI 에이전트 개념, 프롬프트 설계(ROCK 기반), Gemini API 및 Supabase API 연동, 바이브 코딩으로 애플리케이션 구현
 - 팀 프로젝트: 생성형 AI/딥러닝 기반 주제 선정 및 협업 실습
 
-**제품 전략가 관점의 목적**
+**수강 목적**
 
 AI 제품이 기술적으로 어디까지 가능하고 어디서 한계에 부딪히는지 직접 체감하고, 개발팀과 정교하게 소통하기 위해 수강
 
@@ -245,7 +245,7 @@ A 160-hour intensive program (8h × 5 days × 4 weeks, Jun 24 – Jul 22, 2026) 
 - Applied Generative AI: AI agent concepts, prompt design (ROCK framework), Gemini API & Supabase API integration, building applications via vibe coding
 - Team project: collaborative build using a generative AI / deep learning theme
 
-**Why it matters for a Product Strategist**
+**Purpose**
 
 This program lets me see firsthand where AI products are technically feasible and where they break down, so my conversations with engineering teams stay grounded in reality rather than intuition.
 
@@ -373,11 +373,7 @@ Pivoted experiment scale from 5 teams → 3 teams (18 users) → 4 teams (20 use
 
 <sub>※ 위는 대표 사례이며, 이 외에도 여러 학생들과 함께 진행 중인 프로젝트가 더 있습니다.</sub>
 
-**제품 전략가 관점의 의미**
-
-각 학생의 흥미를 학습 동기로 바꾸는 커리큘럼을 짜다 보면, 결국 사용자가 실제로 어떻게 움직이는지부터 관찰하게 됩니다 — 제품을 설계할 때와 같은 순서입니다.
-
-학업·편입 준비와 병행하면서도 2025년 2월부터 꾸준히 이어온 활동입니다
+각 학생의 흥미를 학습 동기로 바꾸는 커리큘럼을 짜다 보면, 결국 사용자가 실제로 어떻게 움직이는지부터 관찰하게 됩니다. 학업·편입 준비와 병행하면서도 2025년 2월부터 꾸준히 이어온 활동입니다.
 
 </td>
 <td valign="top">
@@ -407,11 +403,7 @@ Designed project-based curricula tailored to each student's interests and level,
 
 <sub>※ These are representative examples — several more student projects are in progress beyond this list.</sub>
 
-**Why it matters for a Product Strategist**
-
-Building a curriculum around what actually keeps a student engaged starts from the same place product design does: watching how people behave, not assuming how they will.
-
-Sustained consistently since February 2025, alongside coursework and my university-transfer preparation.
+Building a curriculum around what actually keeps a student engaged starts from the same place product design does: watching how people behave, not assuming how they will. Sustained consistently since February 2025, alongside coursework and my university-transfer preparation.
 
 </td>
 </tr>
