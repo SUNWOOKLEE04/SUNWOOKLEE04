@@ -98,8 +98,8 @@ Currently exploring opportunities both in Korea and globally.
 <td align="center"><b>2026</b></td>
 <td>AI Grand ICT Bootcamp</td>
 <td align="center">Learner<br/><sub>(DL / GenAI)</sub></td>
-<td>160시간 딥러닝·생성형 AI 심화 과정 <b>수강 중</b></td>
-<td><b>In progress</b> — 160h Deep Learning & GenAI program</td>
+<td>160시간 딥러닝·생성형 AI 심화 과정 <b>수료</b></td>
+<td><b>Completed</b> — 160h Deep Learning & GenAI program</td>
 </tr>
 <tr>
 <td align="center"><b>2026</b></td>
@@ -271,7 +271,7 @@ Joined to practice rapid hypothesis validation and cross-functional communicatio
 <td colspan="2" align="center">
 <div align="center">
 
-<img src="https://img.shields.io/badge/📚_In_Progress-FFA500?style=for-the-badge" />
+<img src="https://img.shields.io/badge/✅_Completed-2ECC71?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Learner-6A5ACD?style=for-the-badge" />
 <img src="https://img.shields.io/badge/160h_Program-1abc9c?style=for-the-badge" />
 <h4>원리로 알아가는 딥러닝 기초와 생성형 AI 활용<br/>Deep Learning Fundamentals & Applied Generative AI</h4>
