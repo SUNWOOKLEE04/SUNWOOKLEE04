@@ -89,6 +89,13 @@ Currently exploring opportunities both in Korea and globally.
 </tr>
 <tr>
 <td align="center"><b>2026</b></td>
+<td>Change Maker TR2 Program</td>
+<td align="center">Participant<br/><sub>(Design Thinking)</sub></td>
+<td>SDGs 주제 디자인씽킹 프로젝트 참여 · 2박3일 타 대학 교류 및 협업</td>
+<td>Joined an SDGs-themed design-thinking project · 3-day cross-university collaboration</td>
+</tr>
+<tr>
+<td align="center"><b>2026</b></td>
 <td>AI Grand ICT Bootcamp</td>
 <td align="center">Learner<br/><sub>(DL / GenAI)</sub></td>
 <td>160시간 딥러닝·생성형 AI 심화 과정 <b>수강 중</b></td>
@@ -197,6 +204,67 @@ Currently exploring opportunities both in Korea and globally.
 
 <details open>
 <summary align="center"><h3>🌐 2026 · Global Product Strategy & Applied AI</h3></summary>
+
+<table>
+<tr>
+<td colspan="2" align="center">
+<div align="center">
+
+<img src="https://img.shields.io/badge/Participant-6BCF7F?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Design_Thinking-FF9F1C?style=for-the-badge" />
+<img src="https://img.shields.io/badge/SDGs-2ECC71?style=for-the-badge" />
+<h4>학습이룸 Change Maker TR2 프로그램<br/>Interuniversity Change Maker TR2 Program</h4>
+
+</div>
+</td>
+</tr>
+<tr>
+<th width="50%">🇰🇷 한국어</th>
+<th width="50%">🇺🇸 English</th>
+</tr>
+<tr>
+<td valign="top">
+
+**개요**
+
+대학혁신지원사업 참여 대학 간 교류 프로그램 (2026.8.10~8.12, 2박 3일, 담양)
+
+'지속가능발전목표(SDGs)'를 주제로 실제 이슈를 이해하고 디자인씽킹 방법론으로 문제를 해결하는 팀 프로젝트 수행
+
+**활동**
+
+- 디자인씽킹 프로젝트: 경험/주제 선정 → 사용자 공감 → 문제 정의 → 프로토타입 & 사용자 테스트 → 결과물 발표
+- 지역 문화자원을 활용한 SDGs 메시지 탐색 및 창의적 문제해결 워크숍(협력 체험) 참여
+- 타 대학 학생들과의 팀빌딩 및 다학제 간 협업 경험
+
+**참여 목적**
+
+전공과 배경이 다른 학생들과 짧은 기간 안에 문제를 정의하고 프로토타입까지 만들어보는 경험을 통해, 실제 프로덕트 개발에서 요구되는 빠른 가설 검증과 협업 커뮤니케이션 역량을 기르고자 참여
+
+</td>
+<td valign="top">
+
+**Overview**
+
+A cross-university exchange program under a university innovation initiative (Aug 10–12, 2026, 3 days/2 nights, Damyang)
+
+Ran a team project applying design thinking to understand and address real-world issues under the theme of the 'Sustainable Development Goals (SDGs).'
+
+**Activities**
+
+- Design-thinking project: topic selection → empathize → define → prototype & user testing → final presentation
+- Participated in a collaborative workshop exploring SDG messaging through local cultural resources and creative problem-solving
+- Team-building and cross-disciplinary collaboration with students from another university
+
+**Purpose**
+
+Joined to practice rapid hypothesis validation and cross-functional communication — defining a problem and building a prototype with students from different majors and backgrounds within a short timeframe, skills directly relevant to real product development.
+
+</td>
+</tr>
+</table>
+
+<br/>
 
 <table>
 <tr>
