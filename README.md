@@ -225,6 +225,12 @@ Currently exploring opportunities both in Korea and globally.
 <tr>
 <td valign="top">
 
+**개요**
+
+대학혁신지원사업 참여 대학 간 교류 프로그램 (2026.8.10~8.12, 2박 3일, 담양)
+
+'지속가능발전목표(SDGs)'를 주제로 실제 이슈를 이해하고 디자인씽킹 방법론으로 문제를 해결하는 팀 프로젝트 수행
+
 **문제 정의**
 
 수산업 현장에서는 상품성이 낮거나 규격에 맞지 않는다는 이유로 아직 먹을 수 있는 수산물이 대량 폐기되는 반면, 소비자는 유통 단계마다 마진이 붙어 신선한 수산물을 상대적으로 비싸게 구매하는 구조적 비효율이 존재함
@@ -251,6 +257,12 @@ Currently exploring opportunities both in Korea and globally.
 
 </td>
 <td valign="top">
+
+**Overview**
+
+A cross-university exchange program under a university innovation initiative (Aug 10–12, 2026, 3 days/2 nights, Damyang)
+
+Ran a team project applying design thinking to understand and address real-world issues under the theme of the 'Sustainable Development Goals (SDGs).'
 
 **Problem**
 
