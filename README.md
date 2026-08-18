@@ -90,9 +90,9 @@ Currently exploring opportunities both in Korea and globally.
 <tr>
 <td align="center"><b>2026</b></td>
 <td>Change Maker TR2 Program</td>
-<td align="center">Participant<br/><sub>(Design Thinking)</sub></td>
-<td>SDGs 주제 디자인씽킹 프로젝트 참여 · 2박3일 타 대학 교류 및 협업</td>
-<td>Joined an SDGs-themed design-thinking project · 3-day cross-university collaboration</td>
+<td align="center">Product Planner<br/><sub>(Design Thinking)</sub></td>
+<td>SDGs 주제 디자인씽킹 프로젝트 <b>대상 수상</b><br/>어민-대학상권 직납 B2B 플랫폼 기획</td>
+<td><b>Won Grand Prize</b> for an SDGs-themed design-thinking project<br/>Planned a direct-to-campus B2B platform for fishers</td>
 </tr>
 <tr>
 <td align="center"><b>2026</b></td>
@@ -210,7 +210,7 @@ Currently exploring opportunities both in Korea and globally.
 <td colspan="2" align="center">
 <div align="center">
 
-<img src="https://img.shields.io/badge/Participant-6BCF7F?style=for-the-badge" />
+<img src="https://img.shields.io/badge/🏆_Grand_Prize-FFD700?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Design_Thinking-FF9F1C?style=for-the-badge" />
 <img src="https://img.shields.io/badge/SDGs-2ECC71?style=for-the-badge" />
 <h4>학습이룸 Change Maker TR2 프로그램<br/>Interuniversity Change Maker TR2 Program</h4>
