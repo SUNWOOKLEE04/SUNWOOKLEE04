@@ -225,40 +225,56 @@ Currently exploring opportunities both in Korea and globally.
 <tr>
 <td valign="top">
 
-**개요**
+**문제 정의**
 
-대학혁신지원사업 참여 대학 간 교류 프로그램 (2026.8.10~8.12, 2박 3일, 담양)
+수산업 현장에서는 상품성이 낮거나 규격에 맞지 않는다는 이유로 아직 먹을 수 있는 수산물이 대량 폐기되는 반면, 소비자는 유통 단계마다 마진이 붙어 신선한 수산물을 상대적으로 비싸게 구매하는 구조적 비효율이 존재함
 
-'지속가능발전목표(SDGs)'를 주제로 실제 이슈를 이해하고 디자인씽킹 방법론으로 문제를 해결하는 팀 프로젝트 수행
+**전략**
+
+어민과 대학상권(자취생·1인 가구 중심 소비 밀집 지역)을 하나의 채널로 직접 연결해, 기존 다단계 유통 구조를 **1단계 직납 구조**로 압축하는 B2B 플랫폼을 설계. 버려질 뻔한 수산물을 저비용에 확보해 정상 판매하는 동시에, 학생 소비자에게는 시세 대비 합리적인 가격을 제공하는 양면 시장(Two-sided market) 모델로 문제를 재정의
 
 **활동**
 
-- 디자인씽킹 프로젝트: 경험/주제 선정 → 사용자 공감 → 문제 정의 → 프로토타입 & 사용자 테스트 → 결과물 발표
+- 디자인씽킹 프로젝트: 경험/주제 선정 → 사용자 공감(어민·대학상권 양측 인터뷰) → 문제 정의 → 프로토타입 & 사용자 테스트 → 결과물 발표
 - 지역 문화자원을 활용한 SDGs 메시지 탐색 및 창의적 문제해결 워크숍(협력 체험) 참여
 - 타 대학 학생들과의 팀빌딩 및 다학제 간 협업 경험
+
+**성과**
+
+버려지는 수산물을 살리고 유통 단계를 1단계로 압축한 **어민-대학상권 직납 B2B 플랫폼('Today-sea')** 기획 및 프로토타입 제작 ➔ 2박 3일 프로그램 최종 결과물 발표에서 **대상(우수팀) 수상**
 
 **참여 목적**
 
 전공과 배경이 다른 학생들과 짧은 기간 안에 문제를 정의하고 프로토타입까지 만들어보는 경험을 통해, 실제 프로덕트 개발에서 요구되는 빠른 가설 검증과 협업 커뮤니케이션 역량을 기르고자 참여
 
+🔗 [Repo](https://github.com/SUNWOOKLEE04/Today-sea)
+
 </td>
 <td valign="top">
 
-**Overview**
+**Problem**
 
-A cross-university exchange program under a university innovation initiative (Aug 10–12, 2026, 3 days/2 nights, Damyang)
+Seafood that is still edible is routinely discarded at scale simply because it doesn't meet market-grade or size standards, while consumers pay inflated prices for fresh seafood due to markups at each layer of the distribution chain — a structural inefficiency on both ends.
 
-Ran a team project applying design thinking to understand and address real-world issues under the theme of the 'Sustainable Development Goals (SDGs).'
+**Strategy**
+
+Designed a B2B platform that connects fishers directly with university commercial districts (dense consumption hubs of students and single-person households), compressing the traditional multi-tier distribution chain into a **single direct-supply step**. Reframed the problem as a two-sided market: fishers offload otherwise-discarded catch at low cost, while student consumers get seafood at a more reasonable price than market rate.
 
 **Activities**
 
-- Design-thinking project: topic selection → empathize → define → prototype & user testing → final presentation
+- Design-thinking project: topic selection → empathize (interviewed both fishers and university-district consumers) → define → prototype & user testing → final presentation
 - Participated in a collaborative workshop exploring SDG messaging through local cultural resources and creative problem-solving
 - Team-building and cross-disciplinary collaboration with students from another university
+
+**Impact**
+
+Planned and prototyped **'Today-sea,'** a direct-to-campus B2B platform connecting fishers and university commercial districts — rescuing discarded seafood catch and compressing the distribution chain to a single step ➔ **Won the Grand Prize** at the program's final showcase.
 
 **Purpose**
 
 Joined to practice rapid hypothesis validation and cross-functional communication — defining a problem and building a prototype with students from different majors and backgrounds within a short timeframe, skills directly relevant to real product development.
+
+🔗 [Repo](https://github.com/SUNWOOKLEE04/Today-sea)
 
 </td>
 </tr>
