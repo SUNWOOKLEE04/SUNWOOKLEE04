@@ -29,21 +29,30 @@
 
 <br>
 
+<div align="center">
+
 ## 🧑‍💼 About
 
-**개발을 이해하고, 직접 만들어서 검증하는 기획자**입니다. 컴퓨터공학과 2학년이며, 진로는 서비스 기획(PM)입니다.
+**개발을 이해하고, 직접 만들어서 검증하는 기획자**<br/>
+<sub>컴퓨터공학과 2학년 · 서비스 기획(PM) 지망</sub>
+
+</div>
 
 문제를 정의하고, 가설을 세우고, 사용자 반응으로 검증한 뒤 다음 방향을 정하는 일을 좋아합니다. 기능 명세보다 "무엇을, 왜 만들어야 하는가"와 "어떻게 검증하고 키울 것인가"에 더 관심이 많습니다.
 
 전공 덕분에 개발 흐름을 이해하고 엔지니어와 같은 언어로 이야기할 수 있고, 필요하면 AI 코딩 에이전트로 MVP를 직접 만들어 시장 반응을 확인합니다. 지금은 이커머스 셀러용 SaaS **SellerGuard**를 기획부터 출시까지 혼자 진행하고 있습니다. 국내 채용뿐 아니라 해외 진출까지 염두에 두고 커리어를 준비하고 있습니다.
 
+<div align="center">
+
 | 📍 Location | 🎯 Focus | 🤝 Status |
 | :---: | :---: | :---: |
 | South Korea | Product Planning & AI | Open to Work (KR / Global) |
 
+</div>
+
 <br>
 
-<table>
+<table align="center">
 <tr>
 <td align="center" width="25%"><h3>🏆 대상</h3><sub>Change Maker TR2<br/>디자인씽킹 프로젝트</sub></td>
 <td align="center" width="25%"><h3>🧪 13주</h3><sub>개발 없이 진행한<br/>행동 실험</sub></td>
@@ -54,7 +63,11 @@
 
 <br>
 
+<div align="center">
+
 ## 🧭 Quick Look
+
+</div>
 
 | Year | Project | Role | Key Result |
 | :---: | --- | :---: | --- |
@@ -70,11 +83,15 @@
 
 <br>
 
+<div align="center">
+
 ## 🛡️ Flagship · SellerGuard
 
 <img src="https://img.shields.io/badge/🚧_Launching_Oct_2026-0096C7?style=for-the-badge" /> <img src="https://img.shields.io/badge/Founder_·_Planner-090979?style=for-the-badge" />
 
 **스마트스토어 셀러를 위한 가격·리뷰 모니터링 SaaS** · 🔗 [sellerguard.kr](https://sellerguard.kr)
+
+</div>
 
 <!-- TODO: 스크린샷·데모 GIF를 레포의 assets 폴더에 올린 뒤 아래 주석을 풀어주세요
 <p align="center">
@@ -115,7 +132,11 @@ flowchart LR
 
 <br>
 
+<div align="center">
+
 ## 🚀 Journey
+
+</div>
 
 <details open>
 <summary><h3>2026 · 기획과 응용 AI</h3></summary>
@@ -306,9 +327,13 @@ flowchart LR
 
 <br>
 
+<div align="center">
+
 ## 🛠️ Toolkit
 
-<p>
+</div>
+
+<p align="center">
   <img src="https://skillicons.dev/icons?i=figma,notion,py,mysql,react,vue,nodejs,supabase" alt="Figma, Notion, Python, MySQL, React, Vue, Node.js, Supabase" />
 </p>
 
@@ -321,14 +346,18 @@ flowchart LR
 
 <br>
 
+<div align="center">
+
 ## 📖 Current Focus
 
 <img src="https://img.shields.io/badge/Product_Planning-090979?style=flat-square" /> <img src="https://img.shields.io/badge/Behavioral_Experiment-0096C7?style=flat-square" /> <img src="https://img.shields.io/badge/Growth_Validation-090979?style=flat-square" /> <img src="https://img.shields.io/badge/Applied_AI-0096C7?style=flat-square&logo=googlegemini&logoColor=white" /> <img src="https://img.shields.io/badge/SaaS_Launch-090979?style=flat-square" /> <img src="https://img.shields.io/badge/Tech_Communication-0096C7?style=flat-square" />
 
+</div>
+
 <br>
 
 <details>
-<summary><h2>📊 Activity</h2></summary>
+<summary align="center"><h2>📊 Activity</h2></summary>
 
 <div align="center">
   <picture>
