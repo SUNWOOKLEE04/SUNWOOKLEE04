@@ -1,7 +1,7 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D4FF,50:090979,100:020024&height=240&section=header&text=Sunwook%20Lee&fontSize=60&fontColor=ffffff&fontAlignY=40&desc=AI%20Product%20Planner&descSize=18&descAlignY=60" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D4FF,50:090979,100:020024&height=240&section=header&text=Sunwook%20Lee&fontSize=60&fontColor=ffffff&fontAlignY=40&desc=AI%20Product%20Manager&descSize=18&descAlignY=60" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Comfortaa&weight=600&size=20&pause=1800&color=00B4D8&center=true&vCenter=true&width=640&lines=A+product+planner+who+builds+to+validate;Bridging+Technology%2C+Product+Strategy%2C+and+User+Behavior;Turning+Hypotheses+Into+Growth+Loops" alt="A product planner who builds to validate" />
+<img src="https://readme-typing-svg.demolab.com?font=Comfortaa&weight=600&size=20&pause=1800&color=00B4D8&center=true&vCenter=true&width=640&lines=An+aspiring+AI+PM+who+builds+to+validate;Bridging+Technology%2C+Product+Strategy%2C+and+User+Behavior;Turning+Hypotheses+Into+Growth+Loops" alt="An aspiring AI PM who builds to validate" />
 
 <br><br>
 
@@ -27,8 +27,8 @@
 
 ## 🧑‍💼 About
 
-**A product planner who understands engineering and builds to validate**<br/>
-<sub>Second-year Computer Science student · pursuing product management</sub>
+**Understands engineering, builds to validate**<br/>
+<sub>Second-year Computer Science student · aspiring AI Product Manager (PM)</sub>
 
 </div>
 
@@ -40,7 +40,7 @@ My CS background lets me speak the same language as engineers, and when it helps
 
 | 📍 Location | 🎯 Focus | 🤝 Status |
 | :---: | :---: | :---: |
-| South Korea | Product Planning & AI | Open to Work (KR / Global) |
+| South Korea | AI Product Management | Open to Work (KR / Global) |
 
 </div>
 
@@ -65,7 +65,7 @@ My CS background lets me speak the same language as engineers, and when it helps
 
 | Year | Project | Role | Key Result |
 | :---: | --- | :---: | --- |
-| **2026.10** | SellerGuard | Founder · Planner | Planned and built an MVP of a price & review monitoring SaaS for Smart Store sellers, **launching Oct 2026** |
+| **2026.10** | SellerGuard | Founder · PM | Planned and built an MVP of a price & review monitoring SaaS for Smart Store sellers, **launching Oct 2026** |
 | **2026.09~** | GDGoC | Member | Joined Google Developer Groups on Campus |
 | **2026.08** | Change Maker TR2 | Product Planner | **Grand Prize** for an SDG design-thinking project · planned a direct-to-campus B2B platform for fishers |
 | **2026** | Planfit Case Study | Product Planner | 13-week experiment with no development · **85.8%** positive response to Ghost Ping · **45.2%** hybrid workout rate |
@@ -81,7 +81,7 @@ My CS background lets me speak the same language as engineers, and when it helps
 
 ## 🛡️ Flagship · SellerGuard
 
-<img src="https://img.shields.io/badge/🚧_Launching_Oct_2026-0096C7?style=for-the-badge" /> <img src="https://img.shields.io/badge/Founder_·_Planner-090979?style=for-the-badge" />
+<img src="https://img.shields.io/badge/🚧_Launching_Oct_2026-0096C7?style=for-the-badge" /> <img src="https://img.shields.io/badge/Founder_·_PM-090979?style=for-the-badge" />
 
 **Price & review monitoring SaaS for Naver Smart Store sellers** · 🔗 [sellerguard.kr](https://sellerguard.kr)
 
@@ -340,7 +340,7 @@ The planning club behind the Planfit case study above; active since 2025.
 
 ## 📖 Current Focus
 
-<img src="https://img.shields.io/badge/Product_Planning-090979?style=flat-square" /> <img src="https://img.shields.io/badge/Behavioral_Experiment-0096C7?style=flat-square" /> <img src="https://img.shields.io/badge/Growth_Validation-090979?style=flat-square" /> <img src="https://img.shields.io/badge/Applied_AI-0096C7?style=flat-square&logo=googlegemini&logoColor=white" /> <img src="https://img.shields.io/badge/SaaS_Launch-090979?style=flat-square" /> <img src="https://img.shields.io/badge/Tech_Communication-0096C7?style=flat-square" />
+<img src="https://img.shields.io/badge/AI_Product_Management-090979?style=flat-square" /> <img src="https://img.shields.io/badge/Behavioral_Experiment-0096C7?style=flat-square" /> <img src="https://img.shields.io/badge/Growth_Validation-090979?style=flat-square" /> <img src="https://img.shields.io/badge/Applied_AI-0096C7?style=flat-square&logo=googlegemini&logoColor=white" /> <img src="https://img.shields.io/badge/SaaS_Launch-090979?style=flat-square" /> <img src="https://img.shields.io/badge/Tech_Communication-0096C7?style=flat-square" />
 
 </div>
 
