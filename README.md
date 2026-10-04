@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D4FF,50:090979,100:020024&height=240&section=header&text=Sunwook%20Lee&fontSize=60&fontColor=ffffff&fontAlignY=40&desc=AI%20Product%20Planner&descSize=18&descAlignY=60" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D4FF,50:090979,100:020024&height=240&section=header&text=Sunwook%20Lee&fontSize=60&fontColor=ffffff&fontAlignY=40&desc=AI%20Product%20Manager&descSize=18&descAlignY=60" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Do+Hyeon&weight=500&size=22&pause=1800&color=00B4D8&center=true&vCenter=true&width=640&lines=%EC%A7%81%EC%A0%91+%EB%A7%8C%EB%93%A4%EC%96%B4%EC%84%9C+%EA%B2%80%EC%A6%9D%ED%95%98%EB%8A%94+%EA%B8%B0%ED%9A%8D%EC%9E%90" alt="직접 만들어서 검증하는 기획자" />
 
@@ -21,7 +21,7 @@
 
 <br>
 
-<img src="https://img.shields.io/badge/Open_to-기획_인턴십_·_프로젝트_협업-0096C7?style=flat-square" />
+<img src="https://img.shields.io/badge/Open_to-PM·기획_인턴십_·_프로젝트_협업-0096C7?style=flat-square" />
 <img src="https://img.shields.io/badge/KR_/_Global-090979?style=flat-square" />
 <img src="https://img.shields.io/badge/Currently_Learning-Generative_AI-020024?style=flat-square&logo=googlegemini&logoColor=white" />
 
@@ -34,7 +34,7 @@
 ## 🧑‍💼 About
 
 **개발을 이해하고, 직접 만들어서 검증하는 기획자**<br/>
-<sub>컴퓨터공학과 2학년 · 서비스 기획(PM) 지망</sub>
+<sub>컴퓨터공학과 2학년 · AI 프로덕트 매니저(PM) 지망</sub>
 
 </div>
 
@@ -46,7 +46,7 @@
 
 | 📍 Location | 🎯 Focus | 🤝 Status |
 | :---: | :---: | :---: |
-| South Korea | Product Planning & AI | Open to Work (KR / Global) |
+| South Korea | AI Product Management | Open to Work (KR / Global) |
 
 </div>
 
@@ -71,7 +71,7 @@
 
 | Year | Project | Role | Key Result |
 | :---: | --- | :---: | --- |
-| **2026.10** | SellerGuard | Founder · Planner | 스마트스토어 셀러용 가격·리뷰 모니터링 SaaS 기획·MVP 개발, **10월 출시 목표** |
+| **2026.10** | SellerGuard | Founder · PM | 스마트스토어 셀러용 가격·리뷰 모니터링 SaaS 기획·MVP 개발, **10월 출시 목표** |
 | **2026.09~** | GDGoC | Member | Google Developer Groups on Campus 활동 시작 |
 | **2026.08** | Change Maker TR2 | Product Planner | SDGs 디자인씽킹 프로젝트 **대상** · 어민-대학상권 직납 B2B 플랫폼 기획 |
 | **2026** | Planfit 케이스 스터디 | Product Planner | 개발 없이 13주 행동 실험 · Ghost Ping 긍정 반응 **85.8%** · 하이브리드 인증 **45.2%** |
@@ -87,7 +87,7 @@
 
 ## 🛡️ Flagship · SellerGuard
 
-<img src="https://img.shields.io/badge/🚧_Launching_Oct_2026-0096C7?style=for-the-badge" /> <img src="https://img.shields.io/badge/Founder_·_Planner-090979?style=for-the-badge" />
+<img src="https://img.shields.io/badge/🚧_Launching_Oct_2026-0096C7?style=for-the-badge" /> <img src="https://img.shields.io/badge/Founder_·_PM-090979?style=for-the-badge" />
 
 **스마트스토어 셀러를 위한 가격·리뷰 모니터링 SaaS** · 🔗 [sellerguard.kr](https://sellerguard.kr)
 
@@ -350,7 +350,7 @@ flowchart LR
 
 ## 📖 Current Focus
 
-<img src="https://img.shields.io/badge/Product_Planning-090979?style=flat-square" /> <img src="https://img.shields.io/badge/Behavioral_Experiment-0096C7?style=flat-square" /> <img src="https://img.shields.io/badge/Growth_Validation-090979?style=flat-square" /> <img src="https://img.shields.io/badge/Applied_AI-0096C7?style=flat-square&logo=googlegemini&logoColor=white" /> <img src="https://img.shields.io/badge/SaaS_Launch-090979?style=flat-square" /> <img src="https://img.shields.io/badge/Tech_Communication-0096C7?style=flat-square" />
+<img src="https://img.shields.io/badge/AI_Product_Management-090979?style=flat-square" /> <img src="https://img.shields.io/badge/Behavioral_Experiment-0096C7?style=flat-square" /> <img src="https://img.shields.io/badge/Growth_Validation-090979?style=flat-square" /> <img src="https://img.shields.io/badge/Applied_AI-0096C7?style=flat-square&logo=googlegemini&logoColor=white" /> <img src="https://img.shields.io/badge/SaaS_Launch-090979?style=flat-square" /> <img src="https://img.shields.io/badge/Tech_Communication-0096C7?style=flat-square" />
 
 </div>
 
