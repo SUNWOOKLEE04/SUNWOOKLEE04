@@ -23,21 +23,30 @@
 
 <br>
 
+<div align="center">
+
 ## 🧑‍💼 About
 
-**A product planner who understands engineering and builds to validate.** I'm a second-year Computer Science student pursuing a career in product management.
+**A product planner who understands engineering and builds to validate**<br/>
+<sub>Second-year Computer Science student · pursuing product management</sub>
+
+</div>
 
 I enjoy defining problems, forming hypotheses, validating them through real user behavior, and deciding what comes next. I care less about writing feature specs and more about "what should we build, and why" and "how do we validate and grow it."
 
 My CS background lets me speak the same language as engineers, and when it helps, I build MVPs myself with AI coding agents to test the market. Right now I'm taking **SellerGuard**, a SaaS for e-commerce sellers, from idea to launch on my own. I'm exploring opportunities both in Korea and globally.
 
+<div align="center">
+
 | 📍 Location | 🎯 Focus | 🤝 Status |
 | :---: | :---: | :---: |
 | South Korea | Product Planning & AI | Open to Work (KR / Global) |
 
+</div>
+
 <br>
 
-<table>
+<table align="center">
 <tr>
 <td align="center" width="25%"><h3>🏆 Grand Prize</h3><sub>Change Maker TR2<br/>design-thinking project</sub></td>
 <td align="center" width="25%"><h3>🧪 13 weeks</h3><sub>behavioral experiment<br/>with no development</sub></td>
@@ -48,7 +57,11 @@ My CS background lets me speak the same language as engineers, and when it helps
 
 <br>
 
+<div align="center">
+
 ## 🧭 Quick Look
+
+</div>
 
 | Year | Project | Role | Key Result |
 | :---: | --- | :---: | --- |
@@ -64,11 +77,15 @@ My CS background lets me speak the same language as engineers, and when it helps
 
 <br>
 
+<div align="center">
+
 ## 🛡️ Flagship · SellerGuard
 
 <img src="https://img.shields.io/badge/🚧_Launching_Oct_2026-0096C7?style=for-the-badge" /> <img src="https://img.shields.io/badge/Founder_·_Planner-090979?style=for-the-badge" />
 
 **Price & review monitoring SaaS for Naver Smart Store sellers** · 🔗 [sellerguard.kr](https://sellerguard.kr)
+
+</div>
 
 <!-- TODO: after uploading screenshots/GIF to the repo's assets folder, uncomment below
 <p align="center">
@@ -107,7 +124,11 @@ flowchart LR
 
 <br>
 
+<div align="center">
+
 ## 🚀 Journey
+
+</div>
 
 <details open>
 <summary><h3>2026 · Product Planning & Applied AI</h3></summary>
@@ -296,9 +317,13 @@ The planning club behind the Planfit case study above; active since 2025.
 
 <br>
 
+<div align="center">
+
 ## 🛠️ Toolkit
 
-<p>
+</div>
+
+<p align="center">
   <img src="https://skillicons.dev/icons?i=figma,notion,py,mysql,react,vue,nodejs,supabase" alt="Figma, Notion, Python, MySQL, React, Vue, Node.js, Supabase" />
 </p>
 
@@ -311,9 +336,13 @@ The planning club behind the Planfit case study above; active since 2025.
 
 <br>
 
+<div align="center">
+
 ## 📖 Current Focus
 
 <img src="https://img.shields.io/badge/Product_Planning-090979?style=flat-square" /> <img src="https://img.shields.io/badge/Behavioral_Experiment-0096C7?style=flat-square" /> <img src="https://img.shields.io/badge/Growth_Validation-090979?style=flat-square" /> <img src="https://img.shields.io/badge/Applied_AI-0096C7?style=flat-square&logo=googlegemini&logoColor=white" /> <img src="https://img.shields.io/badge/SaaS_Launch-090979?style=flat-square" /> <img src="https://img.shields.io/badge/Tech_Communication-0096C7?style=flat-square" />
+
+</div>
 
 <br>
 
