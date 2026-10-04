@@ -4,7 +4,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Do+Hyeon&weight=500&size=20&pause=1800&color=00D9FF&center=true&vCenter=true&width=640&lines=직접+만들어서+검증하는+기획자;A+product+planner+who+builds+to+validate" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Do+Hyeon&weight=500&size=20&pause=1800&color=00D9FF&center=true&vCenter=true&width=640&lines=%EC%A7%81%EC%A0%91+%EB%A7%8C%EB%93%A4%EC%96%B4%EC%84%9C+%EA%B2%80%EC%A6%9D%ED%95%98%EB%8A%94+%EA%B8%B0%ED%9A%8D%EC%9E%90;A+product+planner+who+builds+to+validate" alt="Typing SVG" />
 
 <br><br>
 
