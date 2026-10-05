@@ -367,9 +367,6 @@ flowchart LR
   </picture>
 </div>
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SUNWOOKLEE04&theme=tokyo-night&hide_border=true&bg_color=1a1b27&color=70a5fd&line=00B4D8&point=00D4FF&area=true" width="100%" />
-</div>
 
 <div align="center">
   <picture>
