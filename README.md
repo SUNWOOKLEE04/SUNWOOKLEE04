@@ -77,7 +77,6 @@
 | **2026** | Planfit 케이스 스터디 | Product Planner | 개발 없이 13주 행동 실험 · Ghost Ping 긍정 반응 **85.8%** · 하이브리드 인증 **45.2%** |
 | **2026.06~07** | AI Grand ICT Bootcamp | Learner | 딥러닝·생성형 AI 160시간 과정 **수료** |
 | **2025.02~** | Robotics & Coding Club | Coding Instructor | 학생 USACO·AI SW 사고력대회 출전 코칭 · 다수 프로젝트 지도 |
-| **2024** | CAHLP Company | Tech Planning | IT 제안서 작성으로 MOU 체결에 기여 |
 | **2021** | AI PE Attendance System | Product Planner | 부산 AI 경진대회 **교육감상** |
 | **2021** | Barrier-free Kiosk | Product Planner | ICT 해커톤 **디자인 우수상** |
 
@@ -261,15 +260,15 @@ flowchart LR
 </details>
 
 <details>
-<summary><h3>2024 · 비즈니스와 기술 기획</h3></summary>
+<summary><h3>2024 · 기업 연계 활동과 역량 강화</h3></summary>
 
-### CAHLP 컴퍼니 — IT 전략 수립 및 파트너십 구축
+### CAHLP 기업 연계 동아리 — IT 기획 참여
 
 <img src="https://img.shields.io/badge/Tech_Planning-090979?style=flat-square" />
 
-- **문제 정의 및 전략** · 관상어 산업 기업의 IT 역량 부재 ➔ 기술 로드맵 기획 및 프론트엔드 환경 구축 담당
-- **비즈니스 개발** · K-ICT Week BEXCO 참가를 통한 자사 비즈니스 확장 B2B 네트워킹 수행
-- **성과** · 타깃 맞춤형 IT 기술 제안서 작성으로 **MOU 파트너십 체결에 기여**
+- 관상어 산업 기업 대표와 직접 소통하며 기업의 IT 도입 방향을 함께 기획
+- 기업 맞춤형 IT 제안서 작성에 참여
+- K-ICT Week(BEXCO)에서 B2B 네트워킹 참여
 
 ---
 
@@ -367,6 +366,12 @@ flowchart LR
   </picture>
 </div>
 
+<!-- 활동 그래프: github-readme-activity-graph.vercel.app 서비스가 2026년 8월 말부터 중단(402 DEPLOYMENT_DISABLED)되어 잠시 숨겨둠.
+     서비스가 복구되거나 GitHub Actions로 직접 생성하게 되면 아래 주석을 풀어서 다시 사용.
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SUNWOOKLEE04&theme=tokyo-night&hide_border=true&bg_color=1a1b27&color=70a5fd&line=00B4D8&point=00D4FF&area=true" width="100%" />
+</div>
+-->
 
 <div align="center">
   <picture>
