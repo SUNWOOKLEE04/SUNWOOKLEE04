@@ -71,7 +71,6 @@ My CS background lets me speak the same language as engineers, and when it helps
 | **2026** | Planfit Case Study | Product Planner | 13-week experiment with no development · **85.8%** positive response to Ghost Ping · **45.2%** hybrid workout rate |
 | **2026.06~07** | AI Grand ICT Bootcamp | Learner | **Completed** a 160h deep learning & GenAI program |
 | **2025.02~** | Robotics & Coding Club | Coding Instructor | Coached students for USACO & AI SW competitions · mentored multiple projects |
-| **2024** | CAHLP Company | Tech Planning | Contributed to MOU partnerships through IT proposals |
 | **2021** | AI PE Attendance System | Product Planner | **Superintendent of Education Award**, Busan AI Competition |
 | **2021** | Barrier-free Kiosk | Product Planner | **Design Excellence Award**, ICT Hackathon |
 
@@ -251,15 +250,15 @@ The planning club behind the Planfit case study above; active since 2025.
 </details>
 
 <details>
-<summary><h3>2024 · Business & Tech Planning</h3></summary>
+<summary><h3>2024 · Industry Collaboration & Capacity Building</h3></summary>
 
-### CAHLP Company — Tech Planning & Partnership Building
+### CAHLP Industry-Partnered Club — IT Planning
 
 <img src="https://img.shields.io/badge/Tech_Planning-090979?style=flat-square" />
 
-- **Problem & Strategy** · Addressed the company's lack of IT capability by planning a technology roadmap and setting up the frontend environment
-- **Business Development** · Conducted B2B networking at K-ICT Week (BEXCO) to explore business expansion
-- **Impact** · Contributed to **MOU partnerships** by writing targeted IT proposals
+- Worked directly with the CEO of an ornamental-fish company to plan the company's IT adoption
+- Took part in writing IT proposals tailored to the company
+- Joined B2B networking at K-ICT Week (BEXCO)
 
 ---
 
