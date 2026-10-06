@@ -262,13 +262,12 @@ flowchart LR
 <details>
 <summary><h3>2024 · 기업 연계 활동과 역량 강화</h3></summary>
 
-### CAHLP 기업 연계 동아리 — IT 기획 참여
+### CAHLP 기업 연계 동아리 — B2B 비즈니스 경험
 
-<img src="https://img.shields.io/badge/Tech_Planning-090979?style=flat-square" />
+<img src="https://img.shields.io/badge/B2B_Networking-090979?style=flat-square" />
 
-- 관상어 산업 기업 대표와 직접 소통하며 기업의 IT 도입 방향을 함께 기획
-- 기업 맞춤형 IT 제안서 작성에 참여
-- K-ICT Week(BEXCO)에서 B2B 네트워킹 참여
+- **B2B 네트워킹** · K-ICT Week(BEXCO)에 참여해 IT 기업들과 교류하며 B2B 비즈니스 현장을 경험
+- **동아리 과제** · 연습용 앱 제작 ([toonflix](https://github.com/SUNWOOKLEE04/toonflix), [naver_map_weather](https://github.com/SUNWOOKLEE04/naver_map_weather))
 
 ---
 
