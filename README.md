@@ -3,7 +3,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Do+Hyeon&weight=500&size=22&pause=1800&color=00B4D8&center=true&vCenter=true&width=640&lines=%EC%A7%81%EC%A0%91+%EB%A7%8C%EB%93%A4%EC%96%B4%EC%84%9C+%EA%B2%80%EC%A6%9D%ED%95%98%EB%8A%94+%EA%B8%B0%ED%9A%8D%EC%9E%90" alt="직접 만들어서 검증하는 기획자" />
 
-<sub>기술, 제품 전략, 사용자 행동을 연결합니다 · 가설을 세우고 성장 루프를 설계합니다</sub>
+<sub>문제를 찾고, 직접 만들어서 확인합니다</sub>
 
 <br><br>
 
@@ -22,7 +22,6 @@
 <br>
 
 <img src="https://img.shields.io/badge/Open_to-PM·기획_인턴십_·_프로젝트_협업-0096C7?style=flat-square" />
-<img src="https://img.shields.io/badge/KR_/_Global-090979?style=flat-square" />
 <img src="https://img.shields.io/badge/Currently_Learning-Generative_AI-020024?style=flat-square&logo=googlegemini&logoColor=white" />
 
 </div>
@@ -40,13 +39,13 @@
 
 문제를 정의하고, 가설을 세우고, 사용자 반응으로 검증한 뒤 다음 방향을 정하는 일을 좋아합니다. 기능 명세보다 "무엇을, 왜 만들어야 하는가"와 "어떻게 검증하고 키울 것인가"에 더 관심이 많습니다.
 
-전공 덕분에 개발 흐름을 이해하고 엔지니어와 같은 언어로 이야기할 수 있고, 필요하면 AI 코딩 에이전트로 MVP를 직접 만들어 시장 반응을 확인합니다. 지금은 이커머스 셀러용 SaaS **SellerGuard**를 기획부터 출시까지 혼자 진행하고 있습니다. 국내 채용뿐 아니라 해외 진출까지 염두에 두고 커리어를 준비하고 있습니다.
+전공 덕분에 개발 흐름을 이해하고 엔지니어와 같은 언어로 이야기할 수 있고, 필요하면 AI 코딩 에이전트로 MVP를 직접 만들어 시장 반응을 확인합니다. 지금은 이커머스 셀러용 SaaS **SellerGuard**를 기획부터 개발까지 혼자 만들고 있고, 코딩 강사로 일하며 만든 수업 교재를 강사용 제품으로 다듬어 판매를 준비하고 있습니다.
 
 <div align="center">
 
 | 📍 Location | 🎯 Focus | 🤝 Status |
 | :---: | :---: | :---: |
-| South Korea | AI Product Management | Open to Work (KR / Global) |
+| South Korea | AI Product Management | 인턴십 · 프로젝트 협업 환영 |
 
 </div>
 
@@ -55,9 +54,9 @@
 <table align="center">
 <tr>
 <td align="center" width="25%"><h3>🏆 대상</h3><sub>Change Maker TR2<br/>디자인씽킹 프로젝트</sub></td>
-<td align="center" width="25%"><h3>🧪 13주</h3><sub>개발 없이 진행한<br/>행동 실험</sub></td>
-<td align="center" width="25%"><h3>📈 85.8%</h3><sub>Ghost Ping<br/>긍정 반응 (n=28)</sub></td>
-<td align="center" width="25%"><h3>🚀 2026.10</h3><sub>SellerGuard<br/>SaaS 출시 목표</sub></td>
+<td align="center" width="25%"><h3>🧑‍🏫 2025.02~</h3><sub>코딩 · 로보틱스 강사<br/>현재 진행 중</sub></td>
+<td align="center" width="25%"><h3>📚 160시간</h3><sub>딥러닝 · 생성형 AI<br/>심화 과정 수료</sub></td>
+<td align="center" width="25%"><h3>🥇 교육감상</h3><sub>부산 AI 경진대회<br/>(2021)</sub></td>
 </tr>
 </table>
 
@@ -71,14 +70,15 @@
 
 | Year | Project | Role | Key Result |
 | :---: | --- | :---: | --- |
-| **2026.10** | SellerGuard | Founder · PM | 스마트스토어 셀러용 가격·리뷰 모니터링 SaaS 기획·MVP 개발, **10월 출시 목표** |
+| **2026~** | SellerGuard | 1인 기획·개발 | 스마트스토어 셀러용 가격·리뷰 모니터링 SaaS **개발 중** |
+| **2026.10** | 강사용 수업 교재 | 기획·제작 | AP CSA 자바 · 웹 표준 교재 2종 제작, **크몽 판매 준비 중** |
 | **2026.09~** | GDGoC | Member | Google Developer Groups on Campus 활동 시작 |
-| **2026.08** | Change Maker TR2 | Product Planner | SDGs 디자인씽킹 프로젝트 **대상** · 어민-대학상권 직납 B2B 플랫폼 기획 |
-| **2026** | Planfit 케이스 스터디 | Product Planner | 개발 없이 13주 행동 실험 · Ghost Ping 긍정 반응 **85.8%** · 하이브리드 인증 **45.2%** |
+| **2026.08** | Change Maker TR2 | 팀원 | SDGs 디자인씽킹 2박 3일 팀 프로젝트 **대상** · 수산물 직거래 아이디어 |
+| **2026** | Planfit 케이스 스터디 | 동아리 프로젝트 기획 | 개발 없이 13주 행동 실험 운영 · 20명 안팎 소규모 실험 |
 | **2026.06~07** | AI Grand ICT Bootcamp | Learner | 딥러닝·생성형 AI 160시간 과정 **수료** |
-| **2025.02~** | Robotics & Coding Club | Coding Instructor | 학생 USACO·AI SW 사고력대회 출전 코칭 · 다수 프로젝트 지도 |
-| **2021** | AI PE Attendance System | Product Planner | 부산 AI 경진대회 **교육감상** |
-| **2021** | Barrier-free Kiosk | Product Planner | ICT 해커톤 **디자인 우수상** |
+| **2025.02~** | Robotics & Coding Club | 코딩 강사 | 1:1·소그룹 수업 · 학생 USACO 출전 코칭 · 학생 프로젝트 지도 |
+| **2021** | AI 체육 출결 시스템 | 고교 팀원 · 기획 | 부산 AI 경진대회 **교육감상** |
+| **2021** | 배리어프리 키오스크 | 고교 팀원 · 기획 | ICT 해커톤 **디자인 우수상** |
 
 <br>
 
@@ -86,7 +86,7 @@
 
 ## 🛡️ Flagship · SellerGuard
 
-<img src="https://img.shields.io/badge/🚧_Launching_Oct_2026-0096C7?style=for-the-badge" /> <img src="https://img.shields.io/badge/Founder_·_PM-090979?style=for-the-badge" />
+<img src="https://img.shields.io/badge/🚧_In_Development-0096C7?style=for-the-badge" /> <img src="https://img.shields.io/badge/Solo_Planning_·_Dev-090979?style=for-the-badge" />
 
 **스마트스토어 셀러를 위한 가격·리뷰 모니터링 SaaS** · 🔗 [sellerguard.kr](https://sellerguard.kr)
 
@@ -121,7 +121,7 @@ flowchart LR
 - **수익 모델** · 모니터링 상품 수와 점검 주기 기준 3단계 구독 요금제
 - **빠른 검증** · 개발팀 없이 Antigravity·Claude Code 등 AI 코딩 에이전트로 MVP를 직접 구현
 
-**다음 단계 (출시 후 검증 계획)**
+**다음 단계 (출시 후 확인할 것)**
 
 - 베타 셀러 피드백으로 핵심 가치 검증 → 유료 전환
 - 체험 가입 → 첫 알림 도달 → 유료 전환 → 이탈 순의 퍼널 지표 추적
@@ -140,6 +140,24 @@ flowchart LR
 <details open>
 <summary><h3>2026 · 기획과 응용 AI</h3></summary>
 
+### 강사용 수업 교재 제품화 — 「AP CSA로 가는 첫 자바」 · 「바로 수업하는 웹 표준」
+
+<img src="https://img.shields.io/badge/Preparing_Launch-0096C7?style=flat-square" /> <img src="https://img.shields.io/badge/Planning_·_Build-090979?style=flat-square" />
+
+**발견한 문제** · 코딩 강사로 일하면서, 처음 맡는 과목이나 전공이 아닌 과목은 수업 준비에 시간이 많이 들고 강사마다 수업 품질이 달라진다는 점을 직접 겪음
+
+**만든 것** · 화면에 띄우면 바로 수업할 수 있는 강사용 웹 교재 2종 (AI 코딩 에이전트로 제작하고, 내용과 예제는 직접 검수)
+- 선생님 노트(설명 요령 · 예상 질문 · 시간 배분), 발표 모드, 차시별 수업 일정표
+- 학생용 · 정답지 워크시트, 실습과 퀴즈
+- 예제 코드를 실제로 컴파일 · 실행해서 확인하는 검증 스크립트
+- 자바 교재는 2025-26 AP CSA 4단원 개편 내용 반영
+
+**판매 설계** · 무료 샘플로 먼저 써보게 하고, 개인 강사용 / 소규모 학원용 / 학원 전체 3단계로 패키지를 나눔
+
+**현재** · 실제 수업에 쓰면서 다듬는 중이며, 크몽 판매를 준비하고 있습니다. 판매 결과는 숫자로 업데이트할 예정입니다.
+
+---
+
 ### GDGoC — Google Developer Groups on Campus
 
 <img src="https://img.shields.io/badge/Ongoing_Since_2026.09-0096C7?style=flat-square" /> <img src="https://img.shields.io/badge/Member-090979?style=flat-square" />
@@ -149,7 +167,7 @@ flowchart LR
 
 ---
 
-### 학습이룸 Change Maker TR2 — 어민-대학상권 직납 B2B 플랫폼 'Today-sea'
+### 학습이룸 Change Maker TR2 — 수산물 직거래 아이디어 'Today-sea'
 
 <img src="https://img.shields.io/badge/🏆_Grand_Prize-D4A017?style=flat-square" /> <img src="https://img.shields.io/badge/Design_Thinking_·_SDGs-090979?style=flat-square" />
 
@@ -157,28 +175,28 @@ flowchart LR
 
 **문제 정의** · 수산업 현장에서는 상품성이 낮거나 규격에 맞지 않는다는 이유로 아직 먹을 수 있는 수산물이 대량 폐기되는 반면, 소비자는 유통 단계마다 마진이 붙어 신선한 수산물을 상대적으로 비싸게 구매하는 구조적 비효율이 존재함
 
-**전략** · 어민과 대학상권(자취생·1인 가구 중심 소비 밀집 지역)을 하나의 채널로 직접 연결해, 기존 다단계 유통 구조를 **1단계 직납 구조**로 압축하는 B2B 플랫폼을 설계. 버려질 뻔한 수산물을 저비용에 확보해 정상 판매하는 동시에, 학생 소비자에게는 시세 대비 합리적인 가격을 제공하는 양면 시장(Two-sided market) 모델로 문제를 재정의
+**아이디어** · 버려질 수산물을 어민에게서 직접 받아, 대학가 자취생 · 1인 가구에게 시세보다 싸게 연결하는 직거래 플랫폼
 
 **활동**
 - 디자인씽킹 프로젝트: 경험/주제 선정 → 사용자 공감(어민·대학상권 양측 인터뷰) → 문제 정의 → 프로토타입 & 사용자 테스트 → 결과물 발표
 - 지역 문화자원을 활용한 SDGs 메시지 탐색 및 창의적 문제해결 워크숍(협력 체험) 참여
 - 타 대학 학생들과의 팀빌딩 및 다학제 간 협업 경험
 
-**성과** · 버려지는 수산물을 살리고 유통 단계를 1단계로 압축한 **어민-대학상권 직납 B2B 플랫폼('Today-sea')** 기획 및 프로토타입 제작 ➔ 최종 결과물 발표에서 **대상 수상**
+**결과** · 팀으로 'Today-sea' 아이디어를 기획하고 프로토타입을 만들어 최종 발표에서 **대상** 수상
 
-**참여 목적** · 전공과 배경이 다른 학생들과 짧은 기간 안에 문제를 정의하고 프로토타입까지 만들어보며, 빠른 가설 검증과 협업 커뮤니케이션 역량을 기르고자 참여
+**참여 목적** · 전공이 다른 학생들과 짧은 기간 안에 문제를 정하고 프로토타입까지 만들어 보기 위해 참여
 
 🔗 [Repo](https://github.com/SUNWOOKLEE04/Today-sea)
 
 ---
 
-### 플랜핏 케이스 스터디 — 글로벌 유저 리텐션 & 소셜 기능 전략
+### 플랜핏 케이스 스터디 — 비동기 소셜 기능 행동 실험
 
 <img src="https://img.shields.io/badge/Behavioral_Experiment-0096C7?style=flat-square" /> <img src="https://img.shields.io/badge/PHALANX_Club_Project-090979?style=flat-square" />
 
-<sub>PHALANX 기획 동아리에서 진행한 자체 케이스 스터디입니다.</sub>
+<sub>PHALANX 기획 동아리에서 진행한 자체 케이스 스터디이며, 플랜핏 회사와는 관계가 없습니다.</sub>
 
-**문제** · 글로벌 피트니스 앱 '플랜핏'이 미국 시장에 진입하고 유저 리텐션을 높이려면 '지속 가능한 운동 구조'가 필요
+**질문** · 운동 앱 '플랜핏'이 미국 시장에 진출한다고 가정할 때, 사용자가 운동을 꾸준히 이어가게 하려면 무엇이 필요할까
 
 **가설** · 같은 시간에 함께하지 않아도 서로의 운동을 느끼게 하는 비동기 소셜 장치가 지속률을 높일 것
 
@@ -186,23 +204,23 @@ flowchart LR
 flowchart LR
   H["가설: 비동기 소셜 장치가 지속률을 높인다"] --> E["Wizard of Oz 13주 실험"]
   E --> P["규모 피벗: 5팀 → 3팀 18명 → 4팀 20명"]
-  P --> R["긍정 반응 85.8% · 목표 달성률 82.5%"]
-  R --> X["Exit 전략: 자율 커뮤니티 전환"]
+  P --> R["긍정 반응 85.8% (n=28) · 목표 달성률 82.5%"]
+  R --> X["종료 후 자율 커뮤니티로 전환"]
 ```
 
 **실행**
 - '고스트 싱크(Ghost Sync)', '달성률 동기화' 등 사용자 반응 기반 비동기 소셜 기능 기획
-- 5주간 전략 아티클 연재
+- 5주간 기획 아티클 연재
 - 개발 리소스 없이 텍스트 기반 Ghost Sync 로직을 설계하고 Wizard of Oz 방식으로 13주간 직접 검증
 - 5팀 → 3팀(18명) → 4팀(20명)으로 실험 규모 피벗, 카카오톡 오픈채팅 + 구글폼/시트 자동 집계로 실사용자 데이터 수집
 
-**성과**
+**결과** <sub>(참여자 20명 안팎의 소규모 실험 결과입니다)</sub>
 - Ghost Ping 긍정 반응 **85.8%** (n=28)
 - 하이브리드(홈트/야외) 인증 **45.2%**
 - 목표 달성률 **82.5%**
-- 4일차 참여도 최저점(40점) 이후 수동 개입으로 5일차 70점 반등 견인
-- 챌린지 종료 후 강제 인증 폐지·지인 초대 개방으로 **자율 커뮤니티 전환(Exit 전략)** 설계
-- 개발 착수 전 행동 실험으로 가설을 검증해 실행 리스크를 사전에 축소
+- 4일차에 참여도가 40점까지 떨어진 뒤, 직접 개입해 5일차에 70점으로 회복
+- 챌린지 종료 후 강제 인증을 없애고 지인 초대를 열어 자율 커뮤니티로 전환
+- 개발에 들어가기 전에 행동 실험으로 가설부터 확인하는 방식을 직접 해봄
 
 <!-- TODO: 5편 전략 아티클 링크를 여기에 추가 -->
 
@@ -223,7 +241,7 @@ flowchart LR
 
 </details>
 
-<details>
+<details open>
 <summary><h3>2025 · 멘토링과 사용자 관찰</h3></summary>
 
 ### 코딩 · 로보틱스 강사 — Robotics & Coding Club
@@ -236,9 +254,10 @@ flowchart LR
 
 **대회 준비 지도**
 - 학생 1명을 **USACO(미국 컴퓨팅 올림피아드)** / **AI SW 사고력대회** 출전까지 코칭
-- 그 외 다수 학생들도 각자 수준에 맞춰 코딩·로보틱스 대회 준비 지도 중 → 여러 건의 **대회 참가·수상** 성과로 이어짐
+- 그 외 여러 학생의 코딩 · 로보틱스 대회 준비를 각자 수준에 맞춰 지도
+- 직접 만든 교재(위 「강사용 수업 교재 제품화」)로 수업 진행
 
-**프로젝트 하이라이트** <sub>(전체 중 일부 예시)</sub>
+**지도한 학생 프로젝트** <sub>(학생이 직접 만들고 제가 지도한 작품 중 일부)</sub>
 
 | 프로젝트 | 내용 | 링크 |
 | --- | --- | :---: |
@@ -247,7 +266,7 @@ flowchart LR
 | Python RPG Text Game <sub>(2025)</sub> | 파이썬 기초 학습을 위한 턴제 RPG 게임 | [Repo](https://github.com/Daniel-choi-11/Python-RPG-text-game) |
 | BOYNEXTDOOR Lovers Attendance Project <sub>(2026.06)</sub> | 초등학생이 좋아하는 아이돌 그룹을 소재로 함께 만든 출퇴근·스케줄 관리 콘솔 프로그램. 딕셔너리 기반 비밀번호/스케줄 바인딩, 리스트 언패킹, `.strip()` 입력 방어 코드 적용 | [Repo](https://github.com/BBIO-0530/BOYNEXTDOOR-LOVERS-ATTENDANCE-PROJECT) |
 
-<sub>※ 위는 대표 사례이며, 이 외에도 여러 학생들과 함께 진행 중인 프로젝트가 더 있습니다.</sub>
+<sub>※ 일부 레포는 수업 관리를 위해 제 계정에 올려 두었지만, 모두 학생 작품입니다.</sub>
 
 각 학생의 흥미를 학습 동기로 바꾸는 커리큘럼을 짜다 보면, 결국 사용자가 실제로 어떻게 움직이는지부터 관찰하게 됩니다. 학업·편입 준비와 병행하면서도 2025년 2월부터 꾸준히 이어온 활동입니다.
 
@@ -271,9 +290,9 @@ flowchart LR
 
 ---
 
-### 글로벌 인사이트 & 데이터·AI 역량 강화
+### 어학연수 & 데이터·AI 과정
 
-<img src="https://img.shields.io/badge/Global_Insight-0096C7?style=flat-square" /> <img src="https://img.shields.io/badge/Certifications-090979?style=flat-square" />
+<img src="https://img.shields.io/badge/Language_Program-0096C7?style=flat-square" /> <img src="https://img.shields.io/badge/Completed-090979?style=flat-square" />
 
 - 🌏 **CEBU LCIC 연수** (여름방학, 1개월) — 어학연수를 통한 영어 커뮤니케이션 역량 강화
 - 📊 **DSAC M2/M3 수료** — 데이터 사이언스 및 AI 활용 역량 강화 프로그램
@@ -287,9 +306,11 @@ flowchart LR
 
 <img src="https://img.shields.io/badge/🏆_교육감상-D4A017?style=flat-square" />
 
-- **문제** · 비대면 체육 수업의 출결 관리 한계 및 학생 활동량 저하
-- **전략** · AI 모션 인식 기반 자동 출결 비즈니스 로직 기획 및 교차 직군(Dev/Design) 일정 리딩
-- **성과** · 에듀테크 솔루션 MVP 실효성 입증 ➔ 부산 AI 경진대회 **교육감상 수상**
+<sub>고교 팀 프로젝트 · 기획 담당</sub>
+
+- **문제** · 비대면 체육 수업에서 출결 확인이 어렵고 학생 활동량이 줄어듦
+- **한 일** · AI 모션 인식으로 출결을 자동 처리하는 서비스 흐름 기획, 팀 일정 조율
+- **결과** · 부산 AI 경진대회 **교육감상** 수상
 
 ---
 
@@ -297,9 +318,11 @@ flowchart LR
 
 <img src="https://img.shields.io/badge/🏆_디자인_우수상-D4A017?style=flat-square" />
 
-- **문제** · 시각장애인의 키오스크 접근성 부족 및 페인포인트(Pain-point) 도출
-- **전략** · 음성인식/점자 지원 배리어프리 UI/UX 기획 및 프로토타이핑
-- **성과** · 사회적 약자를 위한 UX 개선 검증 ➔ ICT 해커톤 **디자인 우수상 수상**
+<sub>고교 팀 프로젝트 · 기획 담당</sub>
+
+- **문제** · 시각장애인이 키오스크를 혼자 쓰기 어려움
+- **한 일** · 음성 인식 · 점자를 지원하는 키오스크 화면 기획과 프로토타입 제작
+- **결과** · ICT 해커톤 **디자인 우수상** 수상
 
 🔗 [Repository](https://github.com/SUNWOOKLEE04/Intelligent-Kiosk-System)
 
@@ -309,9 +332,11 @@ flowchart LR
 
 <img src="https://img.shields.io/badge/🏆_입상-D4A017?style=flat-square" />
 
-- **문제** · 장애인 개인 특성에 최적화된 맞춤형 생활체육 인프라 및 정보 부재
-- **전략** · 공공 빅데이터 기반 추천 알고리즘 서비스 플로우 설계 및 데이터-앱 연동 기획
-- **성과** · 데이터 활용성 및 헬스케어 확장성 입증 ➔ **입상**
+<sub>고교 팀 프로젝트 · 기획 담당</sub>
+
+- **문제** · 장애인이 자신에게 맞는 생활체육 정보를 찾기 어려움
+- **한 일** · 공공 데이터를 활용한 맞춤 생활체육 추천 서비스 흐름 기획
+- **결과** · **입상**
 
 ---
 
@@ -319,7 +344,7 @@ flowchart LR
 
 <img src="https://img.shields.io/badge/Participant-090979?style=flat-square" />
 
-- 팀 단위 데이터 사이언스 실무 프로젝트 기획 및 데이터 인사이트 도출
+- 팀 데이터 분석 프로젝트 참여
 
 </details>
 
@@ -332,15 +357,16 @@ flowchart LR
 </div>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=figma,notion,py,mysql,react,vue,nodejs,supabase" alt="Figma, Notion, Python, MySQL, React, Vue, Node.js, Supabase" />
+  <img src="https://skillicons.dev/icons?i=py,react,java,html,css,js,ubuntu,notion" alt="Python, React, Java, HTML, CSS, JavaScript, Ubuntu, Notion" />
 </p>
 
 | 영역 | 도구 |
 | --- | --- |
-| **기획 & 협업** | <img src="https://img.shields.io/badge/Jira-090979?style=flat-square&logo=jira&logoColor=white" /> <img src="https://img.shields.io/badge/Slack-090979?style=flat-square&logo=slack&logoColor=white" /> <img src="https://img.shields.io/badge/Figma-090979?style=flat-square&logo=figma&logoColor=white" /> <img src="https://img.shields.io/badge/Notion-090979?style=flat-square&logo=notion&logoColor=white" /> <img src="https://img.shields.io/badge/System_Design-090979?style=flat-square&logo=diagramsdotnet&logoColor=white" /> |
-| **데이터 & 검증** | <img src="https://img.shields.io/badge/Python-0096C7?style=flat-square&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/MySQL-0096C7?style=flat-square&logo=mysql&logoColor=white" /> <img src="https://img.shields.io/badge/Google_Sheets-0096C7?style=flat-square&logo=googlesheets&logoColor=white" /> <img src="https://img.shields.io/badge/Excel-0096C7?style=flat-square&logo=microsoftexcel&logoColor=white" /> |
-| **AI & 프로토타이핑** | <img src="https://img.shields.io/badge/Gemini_API-020024?style=flat-square&logo=googlegemini&logoColor=white" /> <img src="https://img.shields.io/badge/Supabase-020024?style=flat-square&logo=supabase&logoColor=white" /> <img src="https://img.shields.io/badge/Claude_Code-020024?style=flat-square&logo=claude&logoColor=white" /> <img src="https://img.shields.io/badge/Antigravity-020024?style=flat-square&logo=google&logoColor=white" /> <img src="https://img.shields.io/badge/Vibe_Coding-020024?style=flat-square&logo=codemagic&logoColor=white" /> <img src="https://img.shields.io/badge/Prompt_Engineering-020024?style=flat-square&logo=openai&logoColor=white" /> |
-| **개발 이해** <sub>(개발자와 소통하기 위해 다뤄본 기술)</sub> | <img src="https://img.shields.io/badge/React-0096C7?style=flat-square&logo=react&logoColor=white" /> <img src="https://img.shields.io/badge/Vue.js-0096C7?style=flat-square&logo=vuedotjs&logoColor=white" /> <img src="https://img.shields.io/badge/Node.js-0096C7?style=flat-square&logo=nodedotjs&logoColor=white" /> <img src="https://img.shields.io/badge/REST_API-0096C7?style=flat-square&logo=fastapi&logoColor=white" /> |
+| **주로 쓰는 것** | <img src="https://img.shields.io/badge/Python-0096C7?style=flat-square&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/React-0096C7?style=flat-square&logo=react&logoColor=white" /> |
+| **가르치고 교재로 만든 것** | <img src="https://img.shields.io/badge/Java-090979?style=flat-square&logo=openjdk&logoColor=white" /> <img src="https://img.shields.io/badge/HTML·CSS·JS-090979?style=flat-square&logo=html5&logoColor=white" /> |
+| **서버 운영** | <img src="https://img.shields.io/badge/Ubuntu_(Vultr)-020024?style=flat-square&logo=ubuntu&logoColor=white" /> |
+| **AI 개발 도구** | <img src="https://img.shields.io/badge/Claude_Code-020024?style=flat-square&logo=claude&logoColor=white" /> <img src="https://img.shields.io/badge/Antigravity-020024?style=flat-square&logo=google&logoColor=white" /> <img src="https://img.shields.io/badge/Gemini_API-020024?style=flat-square&logo=googlegemini&logoColor=white" /> |
+| **기록 · 정리** | <img src="https://img.shields.io/badge/Notion-0096C7?style=flat-square&logo=notion&logoColor=white" /> <img src="https://img.shields.io/badge/Google_Sheets-0096C7?style=flat-square&logo=googlesheets&logoColor=white" /> |
 
 <br>
 
@@ -348,7 +374,7 @@ flowchart LR
 
 ## 📖 Current Focus
 
-<img src="https://img.shields.io/badge/AI_Product_Management-090979?style=flat-square" /> <img src="https://img.shields.io/badge/Behavioral_Experiment-0096C7?style=flat-square" /> <img src="https://img.shields.io/badge/Growth_Validation-090979?style=flat-square" /> <img src="https://img.shields.io/badge/Applied_AI-0096C7?style=flat-square&logo=googlegemini&logoColor=white" /> <img src="https://img.shields.io/badge/SaaS_Launch-090979?style=flat-square" /> <img src="https://img.shields.io/badge/Tech_Communication-0096C7?style=flat-square" />
+SellerGuard 출시 · 강사용 교재 판매 · GDGoC에서 개발자와 함께 일하기
 
 </div>
 
