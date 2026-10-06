@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D4FF,50:090979,100:020024&height=240&section=header&text=Sunwook%20Lee&fontSize=60&fontColor=ffffff&fontAlignY=40&desc=AI%20Product%20Manager&descSize=18&descAlignY=60" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Comfortaa&weight=600&size=20&pause=1800&color=00B4D8&center=true&vCenter=true&width=640&lines=An+aspiring+AI+PM+who+builds+to+validate;Bridging+Technology%2C+Product+Strategy%2C+and+User+Behavior;Turning+Hypotheses+Into+Growth+Loops" alt="An aspiring AI PM who builds to validate" />
+<img src="https://readme-typing-svg.demolab.com?font=Comfortaa&weight=600&size=20&pause=1800&color=00B4D8&center=true&vCenter=true&width=640&lines=An+aspiring+AI+PM+who+builds+to+validate" alt="An aspiring AI PM who builds to validate" />
 
 <br><br>
 
@@ -16,7 +16,6 @@
 <br>
 
 <img src="https://img.shields.io/badge/Open_to-PM_Internships_·_Project_Collaboration-0096C7?style=flat-square" />
-<img src="https://img.shields.io/badge/KR_/_Global-090979?style=flat-square" />
 <img src="https://img.shields.io/badge/Currently_Learning-Generative_AI-020024?style=flat-square&logo=googlegemini&logoColor=white" />
 
 </div>
@@ -34,13 +33,13 @@
 
 I enjoy defining problems, forming hypotheses, validating them through real user behavior, and deciding what comes next. I care less about writing feature specs and more about "what should we build, and why" and "how do we validate and grow it."
 
-My CS background lets me speak the same language as engineers, and when it helps, I build MVPs myself with AI coding agents to test the market. Right now I'm taking **SellerGuard**, a SaaS for e-commerce sellers, from idea to launch on my own. I'm exploring opportunities both in Korea and globally.
+My CS background lets me speak the same language as engineers, and when it helps, I build MVPs myself with AI coding agents to test the market. Right now I'm planning and building **SellerGuard**, a SaaS for e-commerce sellers, on my own, and turning the teaching materials I made as a coding instructor into a product for other instructors.
 
 <div align="center">
 
 | 📍 Location | 🎯 Focus | 🤝 Status |
 | :---: | :---: | :---: |
-| South Korea | AI Product Management | Open to Work (KR / Global) |
+| South Korea | AI Product Management | Open to internships & project collaboration |
 
 </div>
 
@@ -49,9 +48,9 @@ My CS background lets me speak the same language as engineers, and when it helps
 <table align="center">
 <tr>
 <td align="center" width="25%"><h3>🏆 Grand Prize</h3><sub>Change Maker TR2<br/>design-thinking project</sub></td>
-<td align="center" width="25%"><h3>🧪 13 weeks</h3><sub>behavioral experiment<br/>with no development</sub></td>
-<td align="center" width="25%"><h3>📈 85.8%</h3><sub>positive response<br/>to Ghost Ping (n=28)</sub></td>
-<td align="center" width="25%"><h3>🚀 Oct 2026</h3><sub>SellerGuard<br/>SaaS launch target</sub></td>
+<td align="center" width="25%"><h3>🧑‍🏫 Since 2025.02</h3><sub>coding & robotics<br/>instructor, ongoing</sub></td>
+<td align="center" width="25%"><h3>📚 160 hours</h3><sub>deep learning & GenAI<br/>program completed</sub></td>
+<td align="center" width="25%"><h3>🥇 Award</h3><sub>Superintendent of Education<br/>Busan AI Competition (2021)</sub></td>
 </tr>
 </table>
 
@@ -65,14 +64,15 @@ My CS background lets me speak the same language as engineers, and when it helps
 
 | Year | Project | Role | Key Result |
 | :---: | --- | :---: | --- |
-| **2026.10** | SellerGuard | Founder · PM | Planned and built an MVP of a price & review monitoring SaaS for Smart Store sellers, **launching Oct 2026** |
+| **2026~** | SellerGuard | Solo planning & dev | Price & review monitoring SaaS for Smart Store sellers, **in development** |
+| **2026.10** | Instructor Textbooks | Planning & build | Built two teaching textbooks (AP CSA Java, web standards), **preparing to sell on Kmong** |
 | **2026.09~** | GDGoC | Member | Joined Google Developer Groups on Campus |
-| **2026.08** | Change Maker TR2 | Product Planner | **Grand Prize** for an SDG design-thinking project · planned a direct-to-campus B2B platform for fishers |
-| **2026** | Planfit Case Study | Product Planner | 13-week experiment with no development · **85.8%** positive response to Ghost Ping · **45.2%** hybrid workout rate |
+| **2026.08** | Change Maker TR2 | Team member | **Grand Prize** in a 3-day SDG design-thinking team project · direct seafood trade idea |
+| **2026** | Planfit Case Study | Club project planning | Ran a 13-week behavioral experiment with no development · small sample (~20 users) |
 | **2026.06~07** | AI Grand ICT Bootcamp | Learner | **Completed** a 160h deep learning & GenAI program |
-| **2025.02~** | Robotics & Coding Club | Coding Instructor | Coached students for USACO & AI SW competitions · mentored multiple projects |
-| **2021** | AI PE Attendance System | Product Planner | **Superintendent of Education Award**, Busan AI Competition |
-| **2021** | Barrier-free Kiosk | Product Planner | **Design Excellence Award**, ICT Hackathon |
+| **2025.02~** | Robotics & Coding Club | Coding Instructor | 1:1 and small-group classes · coached a student to USACO · guided student projects |
+| **2021** | AI PE Attendance System | High school team · planning | **Superintendent of Education Award**, Busan AI Competition |
+| **2021** | Barrier-free Kiosk | High school team · planning | **Design Excellence Award**, ICT Hackathon |
 
 <br>
 
@@ -80,7 +80,7 @@ My CS background lets me speak the same language as engineers, and when it helps
 
 ## 🛡️ Flagship · SellerGuard
 
-<img src="https://img.shields.io/badge/🚧_Launching_Oct_2026-0096C7?style=for-the-badge" /> <img src="https://img.shields.io/badge/Founder_·_PM-090979?style=for-the-badge" />
+<img src="https://img.shields.io/badge/🚧_In_Development-0096C7?style=for-the-badge" /> <img src="https://img.shields.io/badge/Solo_Planning_·_Dev-090979?style=for-the-badge" />
 
 **Price & review monitoring SaaS for Naver Smart Store sellers** · 🔗 [sellerguard.kr](https://sellerguard.kr)
 
@@ -115,7 +115,7 @@ flowchart LR
 - **Revenue model** · Three subscription tiers based on number of monitored products and check frequency
 - **Fast validation** · Built the MVP myself with AI coding agents such as Antigravity and Claude Code, without an engineering team
 
-**Next (Post-launch Validation Plan)**
+**Next (What I will check after launch)**
 
 - Validate the core value with beta sellers → convert to paid
 - Track the funnel: trial sign-up → first alert → paid conversion → churn
@@ -132,6 +132,24 @@ flowchart LR
 <details open>
 <summary><h3>2026 · Product Planning & Applied AI</h3></summary>
 
+### Turning My Teaching Materials into a Product — AP CSA Java & Web Standards Textbooks
+
+<img src="https://img.shields.io/badge/Preparing_Launch-0096C7?style=flat-square" /> <img src="https://img.shields.io/badge/Planning_·_Build-090979?style=flat-square" />
+
+**Problem I ran into** · As a coding instructor, I saw that preparing a subject for the first time, or one outside your major, takes a lot of time, and class quality varies from instructor to instructor.
+
+**What I built** · Two web textbooks an instructor can put on screen and teach from right away (built with AI coding agents; I reviewed the content and examples myself)
+- Teacher notes (how to explain, expected questions, timing), presentation mode, and a lesson-by-lesson schedule
+- Student and answer-key worksheets, exercises, and quizzes
+- Scripts that actually compile and run the example code to check it
+- The Java textbook reflects the 2025-26 AP CSA four-unit redesign
+
+**Packaging** · A free sample to try first, then three license tiers: individual instructor, small academy, and whole academy
+
+**Status** · Refining it in my own classes and preparing to sell on Kmong. Sales results will be added here as numbers.
+
+---
+
 ### GDGoC — Google Developer Groups on Campus
 
 <img src="https://img.shields.io/badge/Ongoing_Since_2026.09-0096C7?style=flat-square" /> <img src="https://img.shields.io/badge/Member-090979?style=flat-square" />
@@ -141,7 +159,7 @@ flowchart LR
 
 ---
 
-### Interuniversity Change Maker TR2 — 'Today-sea' Direct-to-Campus B2B Platform
+### Interuniversity Change Maker TR2 — 'Today-sea' Direct Seafood Trade Idea
 
 <img src="https://img.shields.io/badge/🏆_Grand_Prize-D4A017?style=flat-square" /> <img src="https://img.shields.io/badge/Design_Thinking_·_SDGs-090979?style=flat-square" />
 
@@ -149,28 +167,28 @@ flowchart LR
 
 **Problem** · Seafood that is still edible is routinely discarded at scale simply because it doesn't meet market-grade or size standards, while consumers pay inflated prices for fresh seafood due to markups at each layer of the distribution chain.
 
-**Strategy** · Designed a B2B platform that connects fishers directly with university commercial districts (dense hubs of students and single-person households), compressing the multi-tier distribution chain into a **single direct-supply step**. Reframed the problem as a two-sided market: fishers offload otherwise-discarded catch at low cost, while students get seafood below market price.
+**Idea** · A direct-trade platform that takes seafood that would otherwise be thrown away straight from fishers and sells it below market price to students and single-person households near campus.
 
 **Activities**
 - Design-thinking project: topic selection → empathize (interviewed both fishers and university-district consumers) → define → prototype & user testing → final presentation
 - Collaborative workshop exploring SDG messaging through local cultural resources and creative problem-solving
 - Team-building and cross-disciplinary collaboration with students from another university
 
-**Impact** · Planned and prototyped **'Today-sea'**, rescuing discarded catch and compressing distribution to a single step ➔ **Won the Grand Prize** at the final showcase.
+**Result** · As a team, we planned the 'Today-sea' idea, built a prototype, and **won the Grand Prize** at the final presentation.
 
-**Purpose** · To practice rapid hypothesis validation and cross-functional communication by defining a problem and building a prototype with students from different majors in a short timeframe.
+**Purpose** · To try defining a problem and building a prototype in a short time with students from different majors.
 
 🔗 [Repo](https://github.com/SUNWOOKLEE04/Today-sea)
 
 ---
 
-### Planfit Case Study — Global User Retention & Social Feature Strategy
+### Planfit Case Study — Asynchronous Social Feature Experiment
 
 <img src="https://img.shields.io/badge/Behavioral_Experiment-0096C7?style=flat-square" /> <img src="https://img.shields.io/badge/PHALANX_Club_Project-090979?style=flat-square" />
 
-<sub>A self-initiated case study from the PHALANX planning club.</sub>
+<sub>A self-initiated case study from the PHALANX planning club; not affiliated with Planfit.</sub>
 
-**Problem** · To enter the US market and improve retention, the fitness app Planfit needs a sustainable workout structure.
+**Question** · If the fitness app Planfit entered the US market, what would help users keep working out consistently?
 
 **Hypothesis** · An asynchronous social mechanic that lets users feel each other's workouts without being online together would improve retention.
 
@@ -178,23 +196,23 @@ flowchart LR
 flowchart LR
   H["Hypothesis: async social cues improve retention"] --> E["13-week Wizard-of-Oz experiment"]
   E --> P["Scale pivots: 5 teams → 3 teams, 18 users → 4 teams, 20 users"]
-  P --> R["85.8% positive response · 82.5% goal completion"]
-  R --> X["Exit strategy: self-sustaining community"]
+  P --> R["85.8% positive response (n=28) · 82.5% goal completion"]
+  R --> X["After the challenge: self-run community"]
 ```
 
 **Execution**
 - Planned async social features driven by user feedback, such as 'Ghost Sync' and 'achievement-rate sync'
-- Published a 5-part series of strategy articles
+- Published a 5-part series of planning articles
 - Designed text-based Ghost Sync logic with no development resources and validated it over 13 weeks via a Wizard-of-Oz MVP
 - Pivoted experiment scale from 5 teams → 3 teams (18 users) → 4 teams (20 users), collecting data via KakaoTalk open chats and an auto-aggregating Google Forms/Sheets dashboard
 
-**Impact**
+**Results** <sub>(from a small experiment with about 20 participants)</sub>
 - **85.8%** positive response to Ghost Ping (n=28)
 - **45.2%** hybrid (home/outdoor) workout verification rate
 - **82.5%** goal-completion rate
-- Drove a rebound from the day-4 engagement low (40 pts) to 70 pts on day 5 through timed manual intervention
-- Designed an **exit strategy** into a self-sustaining community by removing mandatory check-ins and opening friend invites
-- Validated hypotheses before implementation, reducing execution risk through behavioral experiments
+- Engagement dropped to 40 pts on day 4; after I stepped in manually, it recovered to 70 pts on day 5
+- After the challenge, removed mandatory check-ins and opened friend invites so the group could run on its own
+- Practiced testing a hypothesis with a behavioral experiment before any development
 
 ---
 
@@ -213,7 +231,7 @@ flowchart LR
 
 </details>
 
-<details>
+<details open>
 <summary><h3>2025 · Mentoring & Observing Users</h3></summary>
 
 ### Coding & Robotics Instructor — Robotics & Coding Club
@@ -226,9 +244,10 @@ flowchart LR
 
 **Competition Coaching**
 - Coached one student all the way to competing in **USACO (USA Computing Olympiad)** / **AI SW Creative Thinking Competition**
-- Also coaching several other students at their own level for coding/robotics competitions → resulting in multiple **competition entries and wins**
+- Coaching several other students for coding and robotics competitions at their own level
+- Teaching with my own textbooks (see "Turning My Teaching Materials into a Product" above)
 
-**Project Highlights** <sub>(a sample, not the full list)</sub>
+**Student Projects I Guided** <sub>(built by students, a sample)</sub>
 
 | Project | Description | Link |
 | --- | --- | :---: |
@@ -237,7 +256,7 @@ flowchart LR
 | Python RPG Text Game <sub>(2025)</sub> | A turn-based RPG built to reinforce foundational Python skills | [Repo](https://github.com/Daniel-choi-11/Python-RPG-text-game) |
 | BOYNEXTDOOR Lovers Attendance Project <sub>(Jun 2026)</sub> | A check-in/schedule console app built with an elementary-school student around their favorite idol group, using dictionary-based password/schedule binding, list unpacking, and `.strip()` input guards | [Repo](https://github.com/BBIO-0530/BOYNEXTDOOR-LOVERS-ATTENDANCE-PROJECT) |
 
-<sub>※ These are representative examples — several more student projects are in progress beyond this list.</sub>
+<sub>※ Some repos live on my account for class management, but all of them are student work.</sub>
 
 Building a curriculum around what keeps a student engaged starts from the same place product design does: watching how people behave, not assuming how they will. Sustained since February 2025, alongside coursework and university-transfer preparation.
 
@@ -261,9 +280,9 @@ The planning club behind the Planfit case study above; active since 2025.
 
 ---
 
-### Global Insight & Data/AI Capacity Building
+### Language Program & Data/AI Course
 
-<img src="https://img.shields.io/badge/Global_Insight-0096C7?style=flat-square" /> <img src="https://img.shields.io/badge/Certifications-090979?style=flat-square" />
+<img src="https://img.shields.io/badge/Language_Program-0096C7?style=flat-square" /> <img src="https://img.shields.io/badge/Completed-090979?style=flat-square" />
 
 - 🌏 **CEBU LCIC Program** (1 month, summer break) — Strengthened English communication through an immersive language program
 - 📊 **DSAC M2/M3 Certification** — Data science & AI capacity-building program
@@ -277,9 +296,11 @@ The planning club behind the Planfit case study above; active since 2025.
 
 <img src="https://img.shields.io/badge/🏆_Superintendent_Award-D4A017?style=flat-square" />
 
-- **Problem** · Limits of attendance tracking in remote PE classes and declining student activity
-- **Strategy** · Planned the business logic for AI motion-recognition attendance and coordinated schedules across Dev and Design
-- **Impact** · Demonstrated the EdTech MVP's viability ➔ **Superintendent of Education Award**, Busan AI Competition
+<sub>High school team project · planning role</sub>
+
+- **Problem** · Attendance was hard to check in remote PE classes, and students were less active
+- **What I did** · Planned a service flow that takes attendance automatically with AI motion recognition, and coordinated the team schedule
+- **Result** · **Superintendent of Education Award**, Busan AI Competition
 
 ---
 
@@ -287,9 +308,11 @@ The planning club behind the Planfit case study above; active since 2025.
 
 <img src="https://img.shields.io/badge/🏆_Design_Excellence-D4A017?style=flat-square" />
 
-- **Problem** · Identified accessibility pain points for visually impaired users of public kiosks
-- **Strategy** · Planned and prototyped a barrier-free UI/UX with voice recognition and Braille support
-- **Impact** · Validated UX improvements for underserved users ➔ **Design Excellence Award**, ICT Hackathon
+<sub>High school team project · planning role</sub>
+
+- **Problem** · Visually impaired users struggle to use kiosks on their own
+- **What I did** · Planned kiosk screens with voice recognition and Braille support, and built a prototype
+- **Result** · **Design Excellence Award**, ICT Hackathon
 
 🔗 [Repository](https://github.com/SUNWOOKLEE04/Intelligent-Kiosk-System)
 
@@ -299,9 +322,11 @@ The planning club behind the Planfit case study above; active since 2025.
 
 <img src="https://img.shields.io/badge/🏆_Prize_Winner-D4A017?style=flat-square" />
 
-- **Problem** · Lack of sports infrastructure and information tailored to individuals with disabilities
-- **Strategy** · Designed a recommendation service flow using public big data and planned the data-to-app integration
-- **Impact** · Showed the value of public data for healthcare services ➔ **Prize Winner**
+<sub>High school team project · planning role</sub>
+
+- **Problem** · People with disabilities have trouble finding sports programs that suit them
+- **What I did** · Planned a recommendation service flow using public data
+- **Result** · **Prize Winner**
 
 ---
 
@@ -309,7 +334,7 @@ The planning club behind the Planfit case study above; active since 2025.
 
 <img src="https://img.shields.io/badge/Participant-090979?style=flat-square" />
 
-- Planned a team-based data science project and derived actionable insights
+- Took part in a team data analysis project
 
 </details>
 
@@ -322,15 +347,16 @@ The planning club behind the Planfit case study above; active since 2025.
 </div>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=figma,notion,py,mysql,react,vue,nodejs,supabase" alt="Figma, Notion, Python, MySQL, React, Vue, Node.js, Supabase" />
+  <img src="https://skillicons.dev/icons?i=py,react,java,html,css,js,ubuntu,notion" alt="Python, React, Java, HTML, CSS, JavaScript, Ubuntu, Notion" />
 </p>
 
 | Area | Tools |
 | --- | --- |
-| **Planning & Collaboration** | <img src="https://img.shields.io/badge/Jira-090979?style=flat-square&logo=jira&logoColor=white" /> <img src="https://img.shields.io/badge/Slack-090979?style=flat-square&logo=slack&logoColor=white" /> <img src="https://img.shields.io/badge/Figma-090979?style=flat-square&logo=figma&logoColor=white" /> <img src="https://img.shields.io/badge/Notion-090979?style=flat-square&logo=notion&logoColor=white" /> <img src="https://img.shields.io/badge/System_Design-090979?style=flat-square&logo=diagramsdotnet&logoColor=white" /> |
-| **Data & Validation** | <img src="https://img.shields.io/badge/Python-0096C7?style=flat-square&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/MySQL-0096C7?style=flat-square&logo=mysql&logoColor=white" /> <img src="https://img.shields.io/badge/Google_Sheets-0096C7?style=flat-square&logo=googlesheets&logoColor=white" /> <img src="https://img.shields.io/badge/Excel-0096C7?style=flat-square&logo=microsoftexcel&logoColor=white" /> |
-| **AI & Prototyping** | <img src="https://img.shields.io/badge/Gemini_API-020024?style=flat-square&logo=googlegemini&logoColor=white" /> <img src="https://img.shields.io/badge/Supabase-020024?style=flat-square&logo=supabase&logoColor=white" /> <img src="https://img.shields.io/badge/Claude_Code-020024?style=flat-square&logo=claude&logoColor=white" /> <img src="https://img.shields.io/badge/Antigravity-020024?style=flat-square&logo=google&logoColor=white" /> <img src="https://img.shields.io/badge/Vibe_Coding-020024?style=flat-square&logo=codemagic&logoColor=white" /> <img src="https://img.shields.io/badge/Prompt_Engineering-020024?style=flat-square&logo=openai&logoColor=white" /> |
-| **Engineering Literacy** <sub>(used to work closely with engineers)</sub> | <img src="https://img.shields.io/badge/React-0096C7?style=flat-square&logo=react&logoColor=white" /> <img src="https://img.shields.io/badge/Vue.js-0096C7?style=flat-square&logo=vuedotjs&logoColor=white" /> <img src="https://img.shields.io/badge/Node.js-0096C7?style=flat-square&logo=nodedotjs&logoColor=white" /> <img src="https://img.shields.io/badge/REST_API-0096C7?style=flat-square&logo=fastapi&logoColor=white" /> |
+| **Use most** | <img src="https://img.shields.io/badge/Python-0096C7?style=flat-square&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/React-0096C7?style=flat-square&logo=react&logoColor=white" /> |
+| **Teach & wrote textbooks for** | <img src="https://img.shields.io/badge/Java-090979?style=flat-square&logo=openjdk&logoColor=white" /> <img src="https://img.shields.io/badge/HTML·CSS·JS-090979?style=flat-square&logo=html5&logoColor=white" /> |
+| **Server** | <img src="https://img.shields.io/badge/Ubuntu_(Vultr)-020024?style=flat-square&logo=ubuntu&logoColor=white" /> |
+| **AI dev tools** | <img src="https://img.shields.io/badge/Claude_Code-020024?style=flat-square&logo=claude&logoColor=white" /> <img src="https://img.shields.io/badge/Antigravity-020024?style=flat-square&logo=google&logoColor=white" /> <img src="https://img.shields.io/badge/Gemini_API-020024?style=flat-square&logo=googlegemini&logoColor=white" /> |
+| **Notes & tracking** | <img src="https://img.shields.io/badge/Notion-0096C7?style=flat-square&logo=notion&logoColor=white" /> <img src="https://img.shields.io/badge/Google_Sheets-0096C7?style=flat-square&logo=googlesheets&logoColor=white" /> |
 
 <br>
 
@@ -338,7 +364,7 @@ The planning club behind the Planfit case study above; active since 2025.
 
 ## 📖 Current Focus
 
-<img src="https://img.shields.io/badge/AI_Product_Management-090979?style=flat-square" /> <img src="https://img.shields.io/badge/Behavioral_Experiment-0096C7?style=flat-square" /> <img src="https://img.shields.io/badge/Growth_Validation-090979?style=flat-square" /> <img src="https://img.shields.io/badge/Applied_AI-0096C7?style=flat-square&logo=googlegemini&logoColor=white" /> <img src="https://img.shields.io/badge/SaaS_Launch-090979?style=flat-square" /> <img src="https://img.shields.io/badge/Tech_Communication-0096C7?style=flat-square" />
+Launching SellerGuard · Selling the instructor textbooks · Working with developers at GDGoC
 
 </div>
 
