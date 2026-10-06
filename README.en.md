@@ -252,13 +252,12 @@ The planning club behind the Planfit case study above; active since 2025.
 <details>
 <summary><h3>2024 · Industry Collaboration & Capacity Building</h3></summary>
 
-### CAHLP Industry-Partnered Club — IT Planning
+### CAHLP Industry-Partnered Club — B2B Business Experience
 
-<img src="https://img.shields.io/badge/Tech_Planning-090979?style=flat-square" />
+<img src="https://img.shields.io/badge/B2B_Networking-090979?style=flat-square" />
 
-- Worked directly with the CEO of an ornamental-fish company to plan the company's IT adoption
-- Took part in writing IT proposals tailored to the company
-- Joined B2B networking at K-ICT Week (BEXCO)
+- **B2B Networking** · Took part in K-ICT Week (BEXCO), connecting with IT companies and seeing B2B business up close
+- **Club Assignments** · Built practice apps ([toonflix](https://github.com/SUNWOOKLEE04/toonflix), [naver_map_weather](https://github.com/SUNWOOKLEE04/naver_map_weather))
 
 ---
 
