@@ -71,7 +71,7 @@
 | Year | Project | Role | Key Result |
 | :---: | --- | :---: | --- |
 | **2026~** | SellerGuard | 1인 기획·개발 | 스마트스토어 셀러용 가격·리뷰 모니터링 SaaS **개발 중** |
-| **2026.10** | 강사용 수업 교재 | 기획·제작 | AP CSA 자바 · 웹 표준 교재 2종 제작, **크몽 판매 준비 중** |
+| **2026.10** | 강사용 수업 교재 | 기획·제작 | 자바 · 웹 표준 2종 **크몽 판매 준비 중**, 파이썬 · C · C++ · C# 4종 제작 완료 |
 | **2026.09~** | GDGoC | Member | Google Developer Groups on Campus 활동 시작 |
 | **2026.08** | Change Maker TR2 | 팀원 | SDGs 디자인씽킹 2박 3일 팀 프로젝트 **대상** · 수산물 직거래 아이디어 |
 | **2026** | Planfit 케이스 스터디 | 동아리 프로젝트 기획 | 개발 없이 13주 행동 실험 운영 · 20명 안팎 소규모 실험 |
@@ -146,7 +146,7 @@ flowchart LR
 
 **발견한 문제** · 코딩 강사로 일하면서, 처음 맡는 과목이나 전공이 아닌 과목은 수업 준비에 시간이 많이 들고 강사마다 수업 품질이 달라진다는 점을 직접 겪음
 
-**만든 것** · 화면에 띄우면 바로 수업할 수 있는 강사용 웹 교재 2종 (AI 코딩 에이전트로 제작하고, 내용과 예제는 직접 검수)
+**만든 것** · 화면에 띄우면 바로 수업할 수 있는 강사용 웹 교재 6종: 자바 · 웹 표준(크몽 판매 준비) + 파이썬 · C · C++ · C#(제작 완료). AI 코딩 에이전트로 제작하고, 내용과 예제는 직접 검수
 - 선생님 노트(설명 요령 · 예상 질문 · 시간 배분), 발표 모드, 차시별 수업 일정표
 - 학생용 · 정답지 워크시트, 실습과 퀴즈
 - 예제 코드를 실제로 컴파일 · 실행해서 확인하는 검증 스크립트
@@ -357,15 +357,16 @@ flowchart LR
 </div>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=py,react,java,html,css,js,ubuntu,notion" alt="Python, React, Java, HTML, CSS, JavaScript, Ubuntu, Notion" />
+  <img src="https://skillicons.dev/icons?i=py,react,java,html,css,js,c,cpp,cs,docker,ubuntu,notion" alt="Python, React, Java, HTML, CSS, JavaScript, C, C++, C#, Docker, Ubuntu, Notion" />
 </p>
 
 | 영역 | 도구 |
 | --- | --- |
 | **주로 쓰는 것** | <img src="https://img.shields.io/badge/Python-0096C7?style=flat-square&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/React-0096C7?style=flat-square&logo=react&logoColor=white" /> |
-| **가르치고 교재로 만든 것** | <img src="https://img.shields.io/badge/Java-090979?style=flat-square&logo=openjdk&logoColor=white" /> <img src="https://img.shields.io/badge/HTML·CSS·JS-090979?style=flat-square&logo=html5&logoColor=white" /> |
-| **서버 운영** | <img src="https://img.shields.io/badge/Ubuntu_(Vultr)-020024?style=flat-square&logo=ubuntu&logoColor=white" /> |
-| **AI 개발 도구** | <img src="https://img.shields.io/badge/Claude_Code-020024?style=flat-square&logo=claude&logoColor=white" /> <img src="https://img.shields.io/badge/Antigravity-020024?style=flat-square&logo=google&logoColor=white" /> <img src="https://img.shields.io/badge/Gemini_API-020024?style=flat-square&logo=googlegemini&logoColor=white" /> |
+| **가르치고 교재로 만든 것** | <img src="https://img.shields.io/badge/Java-090979?style=flat-square&logo=openjdk&logoColor=white" /> <img src="https://img.shields.io/badge/HTML·CSS·JS-090979?style=flat-square&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/Python-090979?style=flat-square&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/C-090979?style=flat-square&logo=c&logoColor=white" /> <img src="https://img.shields.io/badge/C++-090979?style=flat-square&logo=cplusplus&logoColor=white" /> <img src="https://img.shields.io/badge/C%23-090979?style=flat-square&logo=dotnet&logoColor=white" /> |
+| **서버 · 인프라** | <img src="https://img.shields.io/badge/Ubuntu_(Vultr)-020024?style=flat-square&logo=ubuntu&logoColor=white" /> <img src="https://img.shields.io/badge/Docker-020024?style=flat-square&logo=docker&logoColor=white" /> <img src="https://img.shields.io/badge/Tailscale-020024?style=flat-square&logo=tailscale&logoColor=white" /> |
+| **AI 개발 도구** | <img src="https://img.shields.io/badge/Claude_Code-020024?style=flat-square&logo=claude&logoColor=white" /> <img src="https://img.shields.io/badge/Antigravity-020024?style=flat-square&logo=google&logoColor=white" /> <img src="https://img.shields.io/badge/Gemini_API-020024?style=flat-square&logo=googlegemini&logoColor=white" /> <img src="https://img.shields.io/badge/Hermes_Agent-020024?style=flat-square" /> |
+| **자동화** | <img src="https://img.shields.io/badge/n8n-0096C7?style=flat-square&logo=n8n&logoColor=white" /> |
 | **기록 · 정리** | <img src="https://img.shields.io/badge/Notion-0096C7?style=flat-square&logo=notion&logoColor=white" /> <img src="https://img.shields.io/badge/Google_Sheets-0096C7?style=flat-square&logo=googlesheets&logoColor=white" /> |
 
 <br>
