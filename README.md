@@ -76,7 +76,7 @@
 | **2026.08** | Change Maker TR2 | 팀원 | SDGs 디자인씽킹 2박 3일 팀 프로젝트 **대상** · 수산물 직거래 아이디어 |
 | **2026** | Planfit 케이스 스터디 | 동아리 프로젝트 기획 | 개발 없이 13주 행동 실험 운영 · 20명 안팎 소규모 실험 |
 | **2026.06~07** | AI Grand ICT Bootcamp | Learner | 딥러닝·생성형 AI 160시간 과정 **수료** |
-| **2025.02~** | Robotics & Coding Club | 코딩 강사 | 1:1·소그룹 수업 · 학생 USACO 출전 코칭 · 학생 프로젝트 지도 |
+| **2025.02~** | 로봇클럽 코딩클럽 | 코딩 강사 | 1:1·소그룹 수업 · 학생 USACO 출전 코칭 · 학생 프로젝트 지도 |
 | **2021** | AI 체육 출결 시스템 | 고교 팀원 · 기획 | 부산 AI 경진대회 **교육감상** |
 | **2021** | 배리어프리 키오스크 | 고교 팀원 · 기획 | ICT 해커톤 **디자인 우수상** |
 
@@ -244,11 +244,11 @@ flowchart LR
 <details open>
 <summary><h3>2025 · 멘토링과 사용자 관찰</h3></summary>
 
-### 코딩 · 로보틱스 강사 — Robotics & Coding Club
+### 코딩 · 로보틱스 강사 — 로봇클럽 코딩클럽
 
 <img src="https://img.shields.io/badge/Ongoing_Since_2025.02-0096C7?style=flat-square" /> <img src="https://img.shields.io/badge/Coding_Instructor-090979?style=flat-square" />
 
-**개요** · 2025년 2월부터 Robotics & Coding Club 학원에서 코딩·로보틱스 강사로 활동 중 (현재도 진행 중)
+**개요** · 2025년 2월부터 로봇·코딩 교육 학원 **로봇클럽 코딩클럽**에서 코딩·로보틱스 강사로 활동 중 (현재도 진행 중)
 
 **활동** · 학생 개개인의 관심사와 눈높이에 맞춘 프로젝트 기반 커리큘럼 설계, 1:1/소규모 멘토링, 대회 출전 코칭
 
@@ -345,6 +345,8 @@ flowchart LR
 <img src="https://img.shields.io/badge/Participant-090979?style=flat-square" />
 
 - 팀 데이터 분석 프로젝트 참여
+
+🔗 [Repository](https://github.com/SUNWOOKLEE04/2021_PNUAC_AIData)
 
 </details>
 
