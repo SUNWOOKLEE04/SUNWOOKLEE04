@@ -70,7 +70,7 @@ My CS background lets me speak the same language as engineers, and when it helps
 | **2026.08** | Change Maker TR2 | Team member | **Grand Prize** in a 3-day SDG design-thinking team project · direct seafood trade idea |
 | **2026** | Planfit Case Study | Club project planning | Ran a 13-week behavioral experiment with no development · small sample (~20 users) |
 | **2026.06~07** | AI Grand ICT Bootcamp | Learner | **Completed** a 160h deep learning & GenAI program |
-| **2025.02~** | Robotics & Coding Club | Coding Instructor | 1:1 and small-group classes · coached a student to USACO · guided student projects |
+| **2025.02~** | Robot Club Coding Club | Coding Instructor | 1:1 and small-group classes · coached a student to USACO · guided student projects |
 | **2021** | AI PE Attendance System | High school team · planning | **Superintendent of Education Award**, Busan AI Competition |
 | **2021** | Barrier-free Kiosk | High school team · planning | **Design Excellence Award**, ICT Hackathon |
 
@@ -234,11 +234,11 @@ flowchart LR
 <details open>
 <summary><h3>2025 · Mentoring & Observing Users</h3></summary>
 
-### Coding & Robotics Instructor — Robotics & Coding Club
+### Coding & Robotics Instructor — Robot Club Coding Club
 
 <img src="https://img.shields.io/badge/Ongoing_Since_2025.02-0096C7?style=flat-square" /> <img src="https://img.shields.io/badge/Coding_Instructor-090979?style=flat-square" />
 
-**Overview** · Coding & Robotics Instructor at a Robotics & Coding Club academy since February 2025 (currently active).
+**Overview** · Coding & Robotics Instructor at **Robot Club Coding Club**, a robotics & coding academy, since February 2025 (currently active).
 
 **Activities** · Designed project-based curricula tailored to each student's interests and level, provided 1:1/small-group mentoring, and coached students preparing for competitions.
 
@@ -335,6 +335,8 @@ The planning club behind the Planfit case study above; active since 2025.
 <img src="https://img.shields.io/badge/Participant-090979?style=flat-square" />
 
 - Took part in a team data analysis project
+
+🔗 [Repository](https://github.com/SUNWOOKLEE04/2021_PNUAC_AIData)
 
 </details>
 
