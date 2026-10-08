@@ -65,7 +65,7 @@ My CS background lets me speak the same language as engineers, and when it helps
 | Year | Project | Role | Key Result |
 | :---: | --- | :---: | --- |
 | **2026~** | SellerGuard | Solo planning & dev | Price & review monitoring SaaS for Smart Store sellers, **in development** |
-| **2026.10** | Instructor Textbooks | Planning & build | Built two teaching textbooks (AP CSA Java, web standards), **preparing to sell on Kmong** |
+| **2026.10** | Instructor Textbooks | Planning & build | Java & web standards textbooks **preparing to sell on Kmong**; Python, C, C++, C# textbooks built |
 | **2026.09~** | GDGoC | Member | Joined Google Developer Groups on Campus |
 | **2026.08** | Change Maker TR2 | Team member | **Grand Prize** in a 3-day SDG design-thinking team project · direct seafood trade idea |
 | **2026** | Planfit Case Study | Club project planning | Ran a 13-week behavioral experiment with no development · small sample (~20 users) |
@@ -138,7 +138,7 @@ flowchart LR
 
 **Problem I ran into** · As a coding instructor, I saw that preparing a subject for the first time, or one outside your major, takes a lot of time, and class quality varies from instructor to instructor.
 
-**What I built** · Two web textbooks an instructor can put on screen and teach from right away (built with AI coding agents; I reviewed the content and examples myself)
+**What I built** · Six web textbooks an instructor can put on screen and teach from right away: Java and web standards (preparing to sell) plus Python, C, C++, C# (built). Made with AI coding agents; I reviewed the content and examples myself
 - Teacher notes (how to explain, expected questions, timing), presentation mode, and a lesson-by-lesson schedule
 - Student and answer-key worksheets, exercises, and quizzes
 - Scripts that actually compile and run the example code to check it
@@ -347,15 +347,16 @@ The planning club behind the Planfit case study above; active since 2025.
 </div>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=py,react,java,html,css,js,ubuntu,notion" alt="Python, React, Java, HTML, CSS, JavaScript, Ubuntu, Notion" />
+  <img src="https://skillicons.dev/icons?i=py,react,java,html,css,js,c,cpp,cs,docker,ubuntu,notion" alt="Python, React, Java, HTML, CSS, JavaScript, C, C++, C#, Docker, Ubuntu, Notion" />
 </p>
 
 | Area | Tools |
 | --- | --- |
 | **Use most** | <img src="https://img.shields.io/badge/Python-0096C7?style=flat-square&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/React-0096C7?style=flat-square&logo=react&logoColor=white" /> |
-| **Teach & wrote textbooks for** | <img src="https://img.shields.io/badge/Java-090979?style=flat-square&logo=openjdk&logoColor=white" /> <img src="https://img.shields.io/badge/HTML·CSS·JS-090979?style=flat-square&logo=html5&logoColor=white" /> |
-| **Server** | <img src="https://img.shields.io/badge/Ubuntu_(Vultr)-020024?style=flat-square&logo=ubuntu&logoColor=white" /> |
-| **AI dev tools** | <img src="https://img.shields.io/badge/Claude_Code-020024?style=flat-square&logo=claude&logoColor=white" /> <img src="https://img.shields.io/badge/Antigravity-020024?style=flat-square&logo=google&logoColor=white" /> <img src="https://img.shields.io/badge/Gemini_API-020024?style=flat-square&logo=googlegemini&logoColor=white" /> |
+| **Teach & wrote textbooks for** | <img src="https://img.shields.io/badge/Java-090979?style=flat-square&logo=openjdk&logoColor=white" /> <img src="https://img.shields.io/badge/HTML·CSS·JS-090979?style=flat-square&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/Python-090979?style=flat-square&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/C-090979?style=flat-square&logo=c&logoColor=white" /> <img src="https://img.shields.io/badge/C++-090979?style=flat-square&logo=cplusplus&logoColor=white" /> <img src="https://img.shields.io/badge/C%23-090979?style=flat-square&logo=dotnet&logoColor=white" /> |
+| **Server & infra** | <img src="https://img.shields.io/badge/Ubuntu_(Vultr)-020024?style=flat-square&logo=ubuntu&logoColor=white" /> <img src="https://img.shields.io/badge/Docker-020024?style=flat-square&logo=docker&logoColor=white" /> <img src="https://img.shields.io/badge/Tailscale-020024?style=flat-square&logo=tailscale&logoColor=white" /> |
+| **AI dev tools** | <img src="https://img.shields.io/badge/Claude_Code-020024?style=flat-square&logo=claude&logoColor=white" /> <img src="https://img.shields.io/badge/Antigravity-020024?style=flat-square&logo=google&logoColor=white" /> <img src="https://img.shields.io/badge/Gemini_API-020024?style=flat-square&logo=googlegemini&logoColor=white" /> <img src="https://img.shields.io/badge/Hermes_Agent-020024?style=flat-square" /> |
+| **Automation** | <img src="https://img.shields.io/badge/n8n-0096C7?style=flat-square&logo=n8n&logoColor=white" /> |
 | **Notes & tracking** | <img src="https://img.shields.io/badge/Notion-0096C7?style=flat-square&logo=notion&logoColor=white" /> <img src="https://img.shields.io/badge/Google_Sheets-0096C7?style=flat-square&logo=googlesheets&logoColor=white" /> |
 
 <br>
@@ -364,7 +365,7 @@ The planning club behind the Planfit case study above; active since 2025.
 
 ## 📖 Current Focus
 
-Launching SellerGuard · Selling the instructor textbooks · Working with developers at GDGoC
+Launching SellerGuard · Selling the instructor textbooks · Studying with developers at GDGoC
 
 </div>
 
