@@ -374,7 +374,7 @@ flowchart LR
 
 ## 📖 Current Focus
 
-SellerGuard 출시 · 강사용 교재 판매 · GDGoC에서 개발자와 함께 일하기
+SellerGuard 출시 · 강사용 교재 판매 · GDGoC에서 개발자와 함께 공부하기
 
 </div>
 
