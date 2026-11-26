@@ -58,7 +58,7 @@ My CS background lets me speak the same language as engineers, and when it helps
 | **2026.06~07** | AI Grand ICT Bootcamp | Learner | **Completed** a 160h deep learning & GenAI program |
 | **2025.02~** | Robot Club Coding Club | Coding Instructor | 1:1 and small-group classes · coached a student to USACO · guided student projects |
 | **2021** | AI PE Attendance System | High school team · planning | **Future Education Superintendent's Award**, Busan AI Competition |
-| **2021** | Barrier-free Kiosk | High school team · planning | **Design Excellence Award**, ICT Hackathon |
+| **2021** | Barrier-free Kiosk | High school team lead · planning & dev lead | **Design Excellence Award**, ICT Hackathon |
 
 <br>
 
@@ -302,7 +302,7 @@ The planning club behind the Planfit case study above; active since 2025.
 
 <img src="https://img.shields.io/badge/🏆_Design_Excellence-D4A017?style=flat-square" />
 
-<sub>High school team project · planning role</sub>
+<sub>High school team project · team lead, planning and development lead</sub>
 
 - **Problem** · Visually impaired users struggle to use kiosks on their own
 - **What I did** · Planned kiosk screens with voice recognition and Braille support, and built a prototype
