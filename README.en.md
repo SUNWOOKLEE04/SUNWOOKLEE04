@@ -33,7 +33,7 @@
 
 I enjoy defining problems, forming hypotheses, validating them through real user behavior, and deciding what comes next. I care less about writing feature specs and more about "what should we build, and why" and "how do we validate and grow it."
 
-My CS background lets me speak the same language as engineers, and when it helps, I build MVPs myself with AI coding agents to test the market. Right now I'm planning and building **SellerGuard**, a SaaS for e-commerce sellers, on my own, and turning the teaching materials I made as a coding instructor into a product for other instructors.
+My CS background lets me speak the same language as engineers, and when it helps, I build MVPs myself with AI coding agents to test the market. Right now I'm running **SellerGuard**, a SaaS for online sellers that I planned and built on my own, as an open beta, and selling the six textbooks I made as a coding instructor on Kmong while starting a textbook production service for academies.
 
 <div align="center">
 
@@ -64,8 +64,8 @@ My CS background lets me speak the same language as engineers, and when it helps
 
 | Year | Project | Role | Key Result |
 | :---: | --- | :---: | --- |
-| **2026~** | SellerGuard | Solo planning & dev | Price & review monitoring SaaS for Smart Store sellers, **in development** |
-| **2026.10** | Instructor Textbooks | Planning & build | Java & web standards textbooks **preparing to sell on Kmong**; Python, C, C++, C# textbooks built |
+| **2026~** | SellerGuard | Solo planning & dev | Settlement & net-profit SaaS for online sellers, **open beta live** · pivoted from price monitoring |
+| **2026.10~** | Coding Textbooks · Academy Textbook Production | Planning, build & sales | Six textbooks **on sale on Kmong** · pivoted to a production service after academy feedback · [web sample](https://study-202611.netlify.app) live |
 | **2026.09~** | GDGoC | Member | Joined Google Developer Groups on Campus |
 | **2026.08** | Change Maker TR2 | Team member | **Grand Prize** in a 3-day SDG design-thinking team project · direct seafood trade idea |
 | **2026** | Planfit Case Study | Club project planning | Ran a 13-week behavioral experiment with no development · small sample (~20 users) |
@@ -80,46 +80,48 @@ My CS background lets me speak the same language as engineers, and when it helps
 
 ## 🛡️ Flagship · SellerGuard
 
-<img src="https://img.shields.io/badge/🚧_In_Development-0096C7?style=for-the-badge" /> <img src="https://img.shields.io/badge/Solo_Planning_·_Dev-090979?style=for-the-badge" />
+<img src="https://img.shields.io/badge/🟢_Open_Beta-0096C7?style=for-the-badge" /> <img src="https://img.shields.io/badge/Solo_Planning_·_Dev-090979?style=for-the-badge" />
 
-**Price & review monitoring SaaS for Naver Smart Store sellers** · 🔗 [sellerguard.kr](https://sellerguard.kr)
+**One place for online sellers to handle orders, supplier purchase orders, settlements and tax paperwork** · 🔗 [sellerguard.kr](https://sellerguard.kr)
 
 </div>
 
-<!-- TODO: after uploading screenshots/GIF to the repo's assets folder, uncomment below
 <p align="center">
-  <img src="assets/sellerguard-landing.png" width="49%" alt="SellerGuard landing page" />
-  <img src="assets/sellerguard-alert.gif" width="49%" alt="Telegram price-change alert demo" />
+  <img src="assets/sellerguard-dashboard.webp" width="49%" alt="SellerGuard net-profit screen (example data)" />
+  <img src="assets/sellerguard-products.webp" width="49%" alt="SellerGuard per-product profit screen (example data)" />
 </p>
--->
 
-**Problem** · Smart Store sellers have to manually watch for sudden competitor price cuts and new negative reviews, so they react late and lose margin and store trust in the meantime.
+**Problem** · Sellers on Naver Smart Store and Coupang can see revenue right away, but the money actually left after fees, shipping, ads and product cost only shows up after matching spreadsheets by hand. Each marketplace has its own settlement file, so a missing payout goes unnoticed, and supplier purchase orders and VAT paperwork are rebuilt from scratch every time.
 
-**Target & Positioning** · Small, often solo sellers in price-competitive categories. Rather than adding features, I focused the product on one promise: **"defend the lowest price without losing margin."**
+**Target & Positioning** · Small, often solo sellers and dropshippers selling on several marketplaces (Smart Store, Coupang, Temu and others). The first promise is one thing: **"not revenue, the money you actually keep."** Purchase orders, settlements and tax work were added behind it.
+
+**Pivot** · The first plan was competitor price and review monitoring. The official API I planned to use for prices was shut down, and automated collection is blocked by the marketplaces' terms, so I judged the core feature could not last. Based on the pains sellers keep raising in their communities (settlements, cash flow, net profit), I changed direction in October 2026.
 
 **Solution Flow**
 
 ```mermaid
 flowchart LR
-  A["Register product URL"] --> B["Periodic price & review checks"]
-  B --> C{"Change detected"}
-  C -- "Competitor price cut" --> D["Telegram & email alert"]
-  C -- "Review rated 3 stars or below" --> E["AI diagnosis · CS reply draft"]
-  D --> F["Price simulation based on cost & target margin"]
+  A["Upload marketplace Excel files<br/>(orders & settlements)"] --> B["Customer personal data<br/>removed in the browser"]
+  B --> C["True net profit per product"]
+  C --> D["Find missing or mismatched payouts<br/>→ draft the inquiry to the marketplace"]
+  C --> E["Loss-making products · incoming cash calendar"]
+  C --> F["Purchase-order emails per supplier<br/>VAT data · month-end workbook"]
 ```
 
 **Product Decisions**
 
-- **Minimal setup** · Sellers get alerts with just a Telegram Chat ID, no API keys
-- **Trust safeguards** · AI replies are constrained from promising unapproved refunds or compensation
-- **Revenue model** · Three subscription tiers based on number of monitored products and check frequency
-- **Fast validation** · Built the MVP myself with AI coding agents such as Antigravity and Claude Code, without an engineering team
+- **Lower the trust barrier** · No marketplace passwords or API keys; it works from Excel uploads alone. Customer names, phone numbers and addresses are filtered out in the browser and never stored on the server
+- **Value before sign-up** · Funnel data showed few sign-ups relative to visits, so I added a no-sign-up tour where visitors use every feature on an example shop's books. Sign-up happens at the moment they want to upload their own file, and Google sign-in is supported
+- **Content run on data** · I research seller search terms with the official search-trend API to pick blog topics (30+ posts published) and tag each post's link to track visits and sign-ups
+- **Revenue model** · Free plus three subscription tiers (KRW 7,900 / 29,900 / 99,000 per month), split by number of marketplaces, history length, and purchase-order and month-end features. All features are free in the beta through December 2026; paid plans start in January 2027
+- **Public data** · Added a page that gathers government support programs sellers can apply for, from the official Bizinfo (기업마당) API, for search traffic and return visits
+- **Quality a solo operator can keep up** · Built without an engineering team, using AI coding agents such as Claude Code and Antigravity. About 260 unit tests and browser tests against the live site run on every deploy
 
-**Next (What I will check after launch)**
+**Status & Next**
 
-- Validate the core value with beta sellers → convert to paid
-- Track the funnel: trial sign-up → first alert → paid conversion → churn
-- Results will be added here as real numbers
+- Open beta live since November 2026; widening file-format recognition with real seller files
+- Funnel being tracked: visits per post → tour → sign-up → first file upload → paid conversion
+- Next: automatic import of Coupang orders and settlements; publish conversion and churn after the paid launch
 
 <br>
 
@@ -132,21 +134,27 @@ flowchart LR
 <details open>
 <summary><h3>2026 · Product Planning & Applied AI</h3></summary>
 
-### Turning My Teaching Materials into a Product — AP CSA Java & Web Standards Textbooks
+### Six Coding Textbooks → Textbook Production for Academies
 
-<img src="https://img.shields.io/badge/Preparing_Launch-0096C7?style=flat-square" /> <img src="https://img.shields.io/badge/Planning_·_Build-090979?style=flat-square" />
+<img src="https://img.shields.io/badge/On_Sale_·_Kmong-0096C7?style=flat-square" /> <img src="https://img.shields.io/badge/Planning_·_Build_·_Sales-090979?style=flat-square" />
 
 **Problem I ran into** · As a coding instructor, I saw that preparing a subject for the first time, or one outside your major, takes a lot of time, and class quality varies from instructor to instructor.
 
-**What I built** · Six web textbooks an instructor can put on screen and teach from right away: Java and web standards (preparing to sell) plus Python, C, C++, C# (built). Made with AI coding agents; I reviewed the content and examples myself
-- Teacher notes (how to explain, expected questions, timing), presentation mode, and a lesson-by-lesson schedule
-- Student and answer-key worksheets, exercises, and quizzes
-- Scripts that actually compile and run the example code to check it
-- The Java textbook reflects the 2025-26 AP CSA four-unit redesign
+**What I built** · Six web textbooks an instructor can put on screen and teach from right away (Java for AP CSA, HTML/CSS/JS, Python, C, C++, C#), on sale on Kmong since October 2026. Made with AI coding agents; every example is run to check it
+- Teacher notes, a lesson-by-lesson schedule, student and answer-key worksheets
+- Presentation mode that turns each chapter into 16:9 slides automatically; outputs and answers appear one at a time with →, long answers get their own slide
+- Scripts that compile and run every example, plus automatic checks for slide overflow and exposed answers
+- Java: reflects the 2025-26 AP CSA redesign, with an AP-style problem set (14 multiple choice, 4 FRQ, every answer verified by running the code)
 
-**Packaging** · A free sample to try first, then three license tiers: individual instructor, small academy, and whole academy
+**Pivot (2026.11)** · When I pitched academies directly, some wanted textbooks built from their own materials rather than finished ones, and an AP instructor told me the hardest part for academies is writing exam-style problems. I made a **textbook production service** (turning an academy's curriculum and materials into a web textbook) the main offer, kept the six textbooks as examples and Kmong products, and added the AP-style problem set to the sample after that feedback.
 
-**Status** · Refining it in my own classes and preparing to sell on Kmong. Sales results will be added here as numbers.
+**Quality pass** · The textbooks read as AI-made, so I rewrote all six to a new standard (diagrams, a pre-check quiz, practice that goes predict → fix → order the lines → trace table → write, three-step hints) and moved to a worksheet-style design.
+
+**Packaging** · Kmong: three tiers for an individual instructor, a small academy, and a whole academy. Production service: starts with a pilot of one unit built from the academy's own materials.
+
+**Status** · Sending proposals to academies to land the first client case. I'll review the offer and wording after replies from 30 academies; results will be added here as numbers.
+
+🔗 [Web sample](https://study-202611.netlify.app)
 
 ---
 
@@ -245,7 +253,7 @@ flowchart LR
 **Competition Coaching**
 - Coached one student all the way to competing in **USACO (USA Computing Olympiad)** / **AI SW Creative Thinking Competition**
 - Coaching several other students for coding and robotics competitions at their own level
-- Teaching with my own textbooks (see "Turning My Teaching Materials into a Product" above)
+- Teaching with my own textbooks (see "Six Coding Textbooks → Textbook Production for Academies" above)
 
 **Student Projects I Guided** <sub>(built by students, a sample)</sub>
 
@@ -367,7 +375,7 @@ The planning club behind the Planfit case study above; active since 2025.
 
 ## 📖 Current Focus
 
-Launching SellerGuard · Selling the instructor textbooks · Studying with developers at GDGoC
+Running the SellerGuard beta toward paid launch · Landing the first academy for textbook production · Studying with developers at GDGoC
 
 </div>
 
