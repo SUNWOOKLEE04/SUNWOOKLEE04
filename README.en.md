@@ -1,13 +1,9 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D4FF,50:090979,100:020024&height=240&section=header&text=Sunwook%20Lee&fontSize=60&fontColor=ffffff&fontAlignY=40&desc=AI%20Product%20Manager&descSize=18&descAlignY=60" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Comfortaa&weight=600&size=20&pause=1800&color=00B4D8&center=true&vCenter=true&width=640&lines=An+aspiring+AI+PM+who+builds+to+validate" alt="An aspiring AI PM who builds to validate" />
-
-<br><br>
+<h3>An aspiring AI PM who builds to validate</h3>
 
 <a href="https://github.com/SUNWOOKLEE04">🇰🇷 한국어</a> · <b>🇺🇸 English</b>
-
-<br><br>
 
 <a href="https://sellerguard.kr"><img src="https://img.shields.io/badge/🛡️_SellerGuard-090979?style=for-the-badge" /></a>
 <a href="https://www.notion.so/0b9cebd74e48834eb7ca01a008be2ea4?source=copy_link"><img src="https://img.shields.io/badge/Portfolio-020024?style=for-the-badge&logo=notion&logoColor=white" /></a>
@@ -34,16 +30,6 @@
 I enjoy defining problems, forming hypotheses, validating them through real user behavior, and deciding what comes next. I care less about writing feature specs and more about "what should we build, and why" and "how do we validate and grow it."
 
 My CS background lets me speak the same language as engineers, and when it helps, I build MVPs myself with AI coding agents to test the market. Right now I'm running **SellerGuard**, a SaaS for online sellers that I planned and built on my own, as an open beta, and selling the six textbooks I made as a coding instructor on Kmong while starting a textbook production service for academies.
-
-<div align="center">
-
-| 📍 Location | 🎯 Focus | 🤝 Status |
-| :---: | :---: | :---: |
-| South Korea | AI Product Management | Open to internships & project collaboration |
-
-</div>
-
-<br>
 
 <table align="center">
 <tr>
@@ -210,7 +196,7 @@ flowchart LR
 
 **Execution**
 - Planned async social features driven by user feedback, such as 'Ghost Sync' and 'achievement-rate sync'
-- Published a 5-part series of planning articles
+- Published a 5-part series of planning articles (in Korean): [Unit 1](https://phalanx-club.tistory.com/2754) · [Unit 2](https://phalanx-club.tistory.com/2769) · [Unit 3](https://phalanx-club.tistory.com/2787) · [Unit 4](https://phalanx-club.tistory.com/2823) · [Unit 5](https://phalanx-club.tistory.com/2845)
 - Designed text-based Ghost Sync logic with no development resources and validated it over 13 weeks via a Wizard-of-Oz MVP
 - Pivoted experiment scale from 5 teams → 3 teams (18 users) → 4 teams (20 users), collecting data via KakaoTalk open chats and an auto-aggregating Google Forms/Sheets dashboard
 

@@ -1,15 +1,11 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D4FF,50:090979,100:020024&height=240&section=header&text=Sunwook%20Lee&fontSize=60&fontColor=ffffff&fontAlignY=40&desc=AI%20Product%20Manager&descSize=18&descAlignY=60" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Do+Hyeon&weight=500&size=22&pause=1800&color=00B4D8&center=true&vCenter=true&width=640&lines=%EC%A7%81%EC%A0%91+%EB%A7%8C%EB%93%A4%EC%96%B4%EC%84%9C+%EA%B2%80%EC%A6%9D%ED%95%98%EB%8A%94+%EA%B8%B0%ED%9A%8D%EC%9E%90" alt="직접 만들어서 검증하는 기획자" />
+<h3>직접 만들어서 검증하는 기획자</h3>
 
 <sub>문제를 찾고, 직접 만들어서 확인합니다</sub>
 
-<br><br>
-
 <b>🇰🇷 한국어</b> · <a href="https://github.com/SUNWOOKLEE04/SUNWOOKLEE04/blob/main/README.en.md">🇺🇸 English</a>
-
-<br><br>
 
 <a href="https://sellerguard.kr"><img src="https://img.shields.io/badge/🛡️_SellerGuard-090979?style=for-the-badge" /></a>
 <a href="https://www.notion.so/0b9cebd74e48834eb7ca01a008be2ea4?source=copy_link"><img src="https://img.shields.io/badge/Portfolio-020024?style=for-the-badge&logo=notion&logoColor=white" /></a>
@@ -19,14 +15,10 @@
 <a href="링크드인_URL"><img src="https://img.shields.io/badge/LinkedIn-090979?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 -->
 
-<br>
-
 <img src="https://img.shields.io/badge/Open_to-PM·기획_인턴십_·_프로젝트_협업-0096C7?style=flat-square" />
 <img src="https://img.shields.io/badge/Currently_Learning-Generative_AI-020024?style=flat-square&logo=googlegemini&logoColor=white" />
 
 </div>
-
-<br>
 
 <div align="center">
 
@@ -40,16 +32,6 @@
 문제를 정의하고, 가설을 세우고, 사용자 반응으로 검증한 뒤 다음 방향을 정하는 일을 좋아합니다. 기능 명세보다 "무엇을, 왜 만들어야 하는가"와 "어떻게 검증하고 키울 것인가"에 더 관심이 많습니다.
 
 전공 덕분에 개발 흐름을 이해하고 엔지니어와 같은 언어로 이야기할 수 있고, 필요하면 AI 코딩 에이전트로 MVP를 직접 만들어 시장 반응을 확인합니다. 지금은 온라인 셀러용 SaaS **SellerGuard**를 기획부터 개발까지 혼자 만들어 오픈 베타로 운영하고 있고, 코딩 강사로 일하며 만든 교재 6종을 크몽에서 팔면서 학원 교재 제작 대행을 시작했습니다.
-
-<div align="center">
-
-| 📍 Location | 🎯 Focus | 🤝 Status |
-| :---: | :---: | :---: |
-| South Korea | AI Product Management | 인턴십 · 프로젝트 협업 환영 |
-
-</div>
-
-<br>
 
 <table align="center">
 <tr>
@@ -230,7 +212,7 @@ flowchart LR
 - 챌린지 종료 후 강제 인증을 없애고 지인 초대를 열어 자율 커뮤니티로 전환
 - 개발에 들어가기 전에 행동 실험으로 가설부터 확인하는 방식을 직접 해봄
 
-<!-- TODO: 5편 전략 아티클 링크를 여기에 추가 -->
+**연재 아티클** · [유닛 1](https://phalanx-club.tistory.com/2754) · [유닛 2](https://phalanx-club.tistory.com/2769) · [유닛 3](https://phalanx-club.tistory.com/2787) · [유닛 4](https://phalanx-club.tistory.com/2823) · [유닛 5](https://phalanx-club.tistory.com/2845)
 
 ---
 
