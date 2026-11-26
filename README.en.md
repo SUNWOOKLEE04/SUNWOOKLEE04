@@ -50,7 +50,7 @@ My CS background lets me speak the same language as engineers, and when it helps
 <td align="center" width="25%"><h3>🏆 Grand Prize</h3><sub>Change Maker TR2<br/>design-thinking project</sub></td>
 <td align="center" width="25%"><h3>🧑‍🏫 Since 2025.02</h3><sub>coding & robotics<br/>instructor, ongoing</sub></td>
 <td align="center" width="25%"><h3>📚 160 hours</h3><sub>deep learning & GenAI<br/>program completed</sub></td>
-<td align="center" width="25%"><h3>🥇 Award</h3><sub>Superintendent of Education<br/>Busan AI Competition (2021)</sub></td>
+<td align="center" width="25%"><h3>🥇 Award</h3><sub>Future Education Superintendent's Award<br/>Busan AI Competition (2021)</sub></td>
 </tr>
 </table>
 
@@ -71,7 +71,7 @@ My CS background lets me speak the same language as engineers, and when it helps
 | **2026** | Planfit Case Study | Club project planning | Ran a 13-week behavioral experiment with no development · small sample (~20 users) |
 | **2026.06~07** | AI Grand ICT Bootcamp | Learner | **Completed** a 160h deep learning & GenAI program |
 | **2025.02~** | Robot Club Coding Club | Coding Instructor | 1:1 and small-group classes · coached a student to USACO · guided student projects |
-| **2021** | AI PE Attendance System | High school team · planning | **Superintendent of Education Award**, Busan AI Competition |
+| **2021** | AI PE Attendance System | High school team · planning | **Future Education Superintendent's Award**, Busan AI Competition |
 | **2021** | Barrier-free Kiosk | High school team · planning | **Design Excellence Award**, ICT Hackathon |
 
 <br>
@@ -302,13 +302,13 @@ The planning club behind the Planfit case study above; active since 2025.
 
 ### AI Camera-based PE Attendance System
 
-<img src="https://img.shields.io/badge/🏆_Superintendent_Award-D4A017?style=flat-square" />
+<img src="https://img.shields.io/badge/🏆_Future_Education_Superintendent_Award-D4A017?style=flat-square" />
 
 <sub>High school team project · planning role</sub>
 
 - **Problem** · Attendance was hard to check in remote PE classes, and students were less active
 - **What I did** · Planned a service flow that takes attendance automatically with AI motion recognition, and coordinated the team schedule
-- **Result** · **Superintendent of Education Award**, Busan AI Competition
+- **Result** · **Future Education Superintendent's Award**, Busan AI Competition
 
 ---
 
