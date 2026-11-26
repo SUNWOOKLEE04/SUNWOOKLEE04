@@ -56,7 +56,7 @@
 <td align="center" width="25%"><h3>🏆 대상</h3><sub>Change Maker TR2<br/>디자인씽킹 프로젝트</sub></td>
 <td align="center" width="25%"><h3>🧑‍🏫 2025.02~</h3><sub>코딩 · 로보틱스 강사<br/>현재 진행 중</sub></td>
 <td align="center" width="25%"><h3>📚 160시간</h3><sub>딥러닝 · 생성형 AI<br/>심화 과정 수료</sub></td>
-<td align="center" width="25%"><h3>🥇 교육감상</h3><sub>부산 AI 경진대회<br/>(2021)</sub></td>
+<td align="center" width="25%"><h3>🥇 미래교육감상</h3><sub>부산 AI 경진대회<br/>(2021)</sub></td>
 </tr>
 </table>
 
@@ -77,7 +77,7 @@
 | **2026** | Planfit 케이스 스터디 | 동아리 프로젝트 기획 | 개발 없이 13주 행동 실험 운영 · 20명 안팎 소규모 실험 |
 | **2026.06~07** | AI Grand ICT Bootcamp | Learner | 딥러닝·생성형 AI 160시간 과정 **수료** |
 | **2025.02~** | 로봇클럽 코딩클럽 | 코딩 강사 | 1:1·소그룹 수업 · 학생 USACO 출전 코칭 · 학생 프로젝트 지도 |
-| **2021** | AI 체육 출결 시스템 | 고교 팀원 · 기획 | 부산 AI 경진대회 **교육감상** |
+| **2021** | AI 체육 출결 시스템 | 고교 팀원 · 기획 | 부산 AI 경진대회 **미래교육감상** |
 | **2021** | 배리어프리 키오스크 | 고교 팀원 · 기획 | ICT 해커톤 **디자인 우수상** |
 
 <br>
@@ -304,13 +304,13 @@ flowchart LR
 
 ### AI 카메라 기반 체육 출결 시스템
 
-<img src="https://img.shields.io/badge/🏆_교육감상-D4A017?style=flat-square" />
+<img src="https://img.shields.io/badge/🏆_미래교육감상-D4A017?style=flat-square" />
 
 <sub>고교 팀 프로젝트 · 기획 담당</sub>
 
 - **문제** · 비대면 체육 수업에서 출결 확인이 어렵고 학생 활동량이 줄어듦
 - **한 일** · AI 모션 인식으로 출결을 자동 처리하는 서비스 흐름 기획, 팀 일정 조율
-- **결과** · 부산 AI 경진대회 **교육감상** 수상
+- **결과** · 부산 AI 경진대회 **미래교육감상** 수상
 
 ---
 
